@@ -52,7 +52,11 @@
 
 ### (X)aaS
 - SaaS
+- FaaS
+- DaaS
 - PaaS
+- CaaS
+- IaaS
 
 ### (X)PS
 - TPS
