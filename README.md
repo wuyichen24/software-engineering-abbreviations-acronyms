@@ -151,6 +151,8 @@
    - Transactions Per Second
 
 ### U
+- UAT
+   - User Acceptance Testing
 - UCaaS
    - Unified Communication as a Service
 - UML
