@@ -54,6 +54,7 @@
 - SaaS
 - FaaS
 - DaaS
+- DBaaS
 - PaaS
 - CaaS
 - IaaS
