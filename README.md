@@ -20,13 +20,25 @@
    - Bytes per second
 
 ### C
-### Q
-- QPS
-   - Query Per Second
-
+### D
+### E
+### F
+### G
+### H
+### I
+### J
+### K
 ### L
 - LDAP 
    - Lightweight Directory Access Protocol
+
+### M
+### N
+### O
+### P
+### Q
+- QPS
+   - Query Per Second
 
 ### R
 - RFC
@@ -35,9 +47,16 @@
 - RT
    - Response Time
 
+### S
 ### T
 - TPS
-   - Transactions Per Second 
+   - Transactions Per Second
+### U
+### V
+### W
+### X
+### Y
+### Z
 
 ## Grouped by topic
 ### Database
