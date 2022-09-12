@@ -12,20 +12,34 @@
    - Architectural Knowledge Management
 - ASR
    - Architecturally Significant Requirement
+- ATD
 
 ### B
+- BDD
 - bps
    - bits per second
 - Bps
    - Bytes per second
 
 ### C
+- CaaS
+
 ### D
+- DaaS
+- DBA
+- DBaaS
+- DBMS
+- DDD
+
 ### E
 ### F
+- FaaS
+
 ### G
 ### H
 ### I
+- IaaS
+
 ### J
 ### K
 ### L
@@ -36,6 +50,7 @@
 ### N
 ### O
 ### P
+- PaaS
 ### Q
 - QPS
    - Query Per Second
@@ -48,9 +63,13 @@
    - Response Time
 
 ### S
+- SaaS
+
 ### T
+- TDD
 - TPS
    - Transactions Per Second
+
 ### U
 ### V
 ### W
