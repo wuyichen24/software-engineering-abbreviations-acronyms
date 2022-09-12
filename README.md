@@ -61,7 +61,7 @@
 ### E
 - ER
    - Entity Relationship
-- ER Diagram
+- ER Diagram / ERD
    - Entity-relationship Diagram
 
 ### F
