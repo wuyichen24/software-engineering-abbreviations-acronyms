@@ -59,6 +59,11 @@
    - Disaster Recovery Plan
 
 ### E
+- ER
+   - Entity Relationship
+- ER Diagram
+   - Entity-relationship Diagram
+
 ### F
 - FaaS
    - Function as a Service
