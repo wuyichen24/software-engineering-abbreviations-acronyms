@@ -10,6 +10,8 @@
    - Architectural Decision Records
 - AKM
    - Architectural Knowledge Management
+- API
+   - Application Programming Interface
 - ASR
    - Architecturally Significant Requirement
 - ATD
@@ -64,6 +66,8 @@
    - Infrastructure as a Service
 - ISP
    - Internet Service Provider
+- ISV
+   - Independent Software Vendor
 
 ### J
 ### K
