@@ -26,6 +26,8 @@
 ### C
 - CaaS
    - Container as a Service
+- CSA
+   - Cloud Security Alliance
 - CSP
    - Cloud Service Provider
 
@@ -41,6 +43,10 @@
    - Database Management System
 - DDD
    - Domain Driven Design
+- DR
+   - Disaster Recovery
+- DRP
+   - Disaster Recovery Plan
 
 ### E
 ### F
@@ -52,6 +58,8 @@
 ### I
 - IaaS
    - Infrastructure as a Service
+- ISP
+   - Internet Service Provider
 
 ### J
 ### K
@@ -73,6 +81,8 @@
 ### P
 - PaaS / aPaaS
    - Platform as a Service / application Platform as a Service
+- PSP
+   - Payment Service Provider
 ### Q
 - QPS
    - Query Per Second
@@ -90,6 +100,8 @@
    - Software Development Kits
 - SDN
    - Software Defined Networking
+- SECaaS
+   - Security as a Service
 
 ### T
 - TDD
