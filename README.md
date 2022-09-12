@@ -5,8 +5,13 @@
 - AD
    - Active Directory
    - Architectural Decision
+   - architectural Design
 - ADR 
    - Architectural Decision Records
+- AKM
+   - Architectural Knowledge Management
+- ASR
+   - Architecturally Significant Requirement
 
 ### B
 ### C
@@ -20,3 +25,7 @@
    - Request For Comments
 
 ## Grouped by topic
+
+## References
+- https://adr.github.io/
+- https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-guides/glossary-computer-system-software-development-terminology-895
