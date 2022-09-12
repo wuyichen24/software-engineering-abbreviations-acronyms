@@ -26,6 +26,8 @@
 ### C
 - CaaS
    - Container as a Service
+- CSP
+   - Cloud Service Provider
 
 ### D
 - DaaS
@@ -60,6 +62,8 @@
 ### M
 - MBaaS / BaaS
    - Mobile backend as a service / Backend as a Service
+- NVNO
+   - Mobile Virtual Network Operator
 
 ### N
 - NaaS
@@ -82,8 +86,10 @@
 
 ### S
 - SaaS
+- SDK
+   - Software Development Kits
 - SDN
-   - Software defined networking
+   - Software Defined Networking
 
 ### T
 - TDD
@@ -91,7 +97,13 @@
    - Transactions Per Second
 
 ### U
+- UCaaS
+   - Unified Communication as a Service
+
 ### V
+- VPN
+   - Virtual Private Network
+
 ### W
 ### X
 ### Y
@@ -124,6 +136,14 @@
 - Bps
 
 ### (X)MS
+- DBMS
+- TMS
+- LMS
+
+### (X)SP
+- CSP
+- ISP
+- PSP
 
 ## References
 - https://adr.github.io/
