@@ -70,6 +70,8 @@
 ### L
 - LDAP 
    - Lightweight Directory Access Protocol
+- LMS
+   - Learning Management System
 
 ### M
 - MBaaS / BaaS
@@ -87,6 +89,7 @@
    - Platform as a Service / application Platform as a Service
 - PSP
    - Payment Service Provider
+
 ### Q
 - QPS
    - Query Per Second
@@ -109,6 +112,9 @@
 
 ### T
 - TDD
+   - Test Driven Development
+- TMS
+   - Translation Management System
 - TPS
    - Transactions Per Second
 
@@ -168,15 +174,15 @@
 - BCP
 - RTO
 - RPO
-- Maximum Tolerable Period of Disruption (MTPoD)
-Maximum Tolerable Downtime (MTD)
-Maximum Tolerable Outage (MTO)
-Maximum Allowable Outage (MAO)
-Recovery Consistency Objective (RCO)
-Recovery Consistency Characteristics" (RCC)
-"Recovery Object Granularity" (ROG)
-Business impact analysis (BIA)
-Threat and risk analysis (TRA)
+- MTPoD: Maximum Tolerable Period of Disruption
+- MTD: Maximum Tolerable Downtime
+- MTO: Maximum Tolerable Outage
+- MAO: Maximum Allowable Outage
+- RCO: Recovery Consistency Objective
+- RCC: Recovery Consistency Characteristics
+- ROG: Recovery Object Granularity
+- BIA: Business impact analysis
+- TRA: Threat and risk analysis
 
 ## References
 - https://adr.github.io/
