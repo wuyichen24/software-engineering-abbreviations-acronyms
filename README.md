@@ -139,6 +139,8 @@
    - Security as a Service
 - SQA
    - Software Quality Assurance
+- SSD
+   - System Sequence Diagram
 
 ### T
 - TDD
