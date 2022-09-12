@@ -14,7 +14,16 @@
    - Architecturally Significant Requirement
 
 ### B
+- bps
+   - bits per second
+- Bps
+   - Bytes per second
+
 ### C
+### Q
+- QPS
+   - Query Per Second
+
 ### L
 - LDAP 
    - Lightweight Directory Access Protocol
@@ -23,19 +32,33 @@
 - RFC
    - Remote Function Call
    - Request For Comments
+- RT
+   - Response Time
+
+### T
+- TPS
+   - Transactions Per Second 
 
 ## Grouped by topic
 ### Database
 - DBA
 - DBMS
 
-### X Driven Development
+### (X) Driven Development
 - TDD
 - BDD
 - DDD
 - ATD
 
-### XaaS
+### (X)aaS
+- SaaS
+- PaaS
+
+### (X)PS
+- TPS
+- QPS
+- bps
+- Bps
 
 ## References
 - https://adr.github.io/
