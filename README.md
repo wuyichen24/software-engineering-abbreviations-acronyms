@@ -51,6 +51,8 @@
    - Database Management System
 - DDD
    - Domain Driven Design
+- DFD
+   - Data Flow Diagram
 - DR
    - Disaster Recovery
 - DRP
@@ -92,6 +94,7 @@
    - Network as a Service
 
 ### O
+- OMT: Object-modeling Technique
 - OOA: Object-oriented Analysis
 - OOD: object-oriented Design
 - OOP: Object-oriented Programming
@@ -140,6 +143,8 @@
 ### U
 - UCaaS
    - Unified Communication as a Service
+- UML
+   - Unified Modeling Language
 
 ### V
 - VPN
