@@ -10,6 +10,8 @@
    - Architectural Decision Records
 - AKM
    - Architectural Knowledge Management
+- ALM
+   - Application Lifecycle Management
 - API
    - Application Programming Interface
 - ASR
@@ -90,6 +92,10 @@
    - Network as a Service
 
 ### O
+- OOA: Object-oriented Analysis
+- OOD: object-oriented Design
+- OOP: Object-oriented Programming
+
 ### P
 - PaaS / aPaaS
    - Platform as a Service / application Platform as a Service
@@ -110,12 +116,18 @@
 ### S
 - SaaS
    - Software as a Service
+- SCM
+   - Software Configuration Management
 - SDK
    - Software Development Kits
+- SDLC
+   - Systems development Life Cycle
 - SDN
    - Software Defined Networking
 - SECaaS
    - Security as a Service
+- SQA
+   - Software Quality Assurance
 
 ### T
 - TDD
