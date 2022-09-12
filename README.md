@@ -60,7 +60,11 @@
 ### M
 - MBaaS / BaaS
    - Mobile backend as a service / Backend as a Service
+
 ### N
+- NaaS
+   - Network as a Service
+
 ### O
 ### P
 - PaaS / aPaaS
@@ -78,6 +82,8 @@
 
 ### S
 - SaaS
+- SDN
+   - Software defined networking
 
 ### T
 - TDD
