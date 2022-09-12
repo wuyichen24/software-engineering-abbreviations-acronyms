@@ -13,9 +13,11 @@
 - ASR
    - Architecturally Significant Requirement
 - ATD
+   - Acceptance Test Driven Development
 
 ### B
 - BDD
+   - Behavior-Driven Development
 - bps
    - bits per second
 - Bps
@@ -23,11 +25,16 @@
 
 ### C
 - CaaS
+   - Container as a Service
 
 ### D
 - DaaS
+   - Data as a Service
+   - Destop as a Service
 - DBA
+   - Database Administrator
 - DBaaS
+   - Database as a Service
 - DBMS
 - DDD
 
