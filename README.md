@@ -16,6 +16,10 @@
    - Acceptance Test Driven Development
 
 ### B
+- BC
+   - Business Continuity
+- BCP
+   - Business Continuity Planning
 - BDD
    - Behavior-Driven Development
 - bps
@@ -156,6 +160,23 @@
 - CSP
 - ISP
 - PSP
+
+### Risk management
+- DR
+- DRP
+- BC
+- BCP
+- RTO
+- RPO
+- Maximum Tolerable Period of Disruption (MTPoD)
+Maximum Tolerable Downtime (MTD)
+Maximum Tolerable Outage (MTO)
+Maximum Allowable Outage (MAO)
+Recovery Consistency Objective (RCO)
+Recovery Consistency Characteristics" (RCC)
+"Recovery Object Granularity" (ROG)
+Business impact analysis (BIA)
+Threat and risk analysis (TRA)
 
 ## References
 - https://adr.github.io/
