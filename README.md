@@ -103,6 +103,7 @@
 
 ### S
 - SaaS
+   - Software as a Service
 - SDK
    - Software Development Kits
 - SDN
