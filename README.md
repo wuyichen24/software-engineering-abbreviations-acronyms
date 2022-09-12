@@ -34,6 +34,9 @@
 ### C
 - CaaS
    - Container as a Service
+- CFD
+   - Control-flow Diagram
+   - Cumulative Flow Diagram
 - CSA
    - Cloud Security Alliance
 - CSP
