@@ -36,16 +36,20 @@
 - DBaaS
    - Database as a Service
 - DBMS
+   - Database Management System
 - DDD
+   - Domain Driven Design
 
 ### E
 ### F
 - FaaS
+   - Function as a Service
 
 ### G
 ### H
 ### I
 - IaaS
+   - Infrastructure as a Service
 
 ### J
 ### K
@@ -54,10 +58,13 @@
    - Lightweight Directory Access Protocol
 
 ### M
+- MBaaS / BaaS
+   - Mobile backend as a service / Backend as a Service
 ### N
 ### O
 ### P
-- PaaS
+- PaaS / aPaaS
+   - Platform as a Service / application Platform as a Service
 ### Q
 - QPS
    - Query Per Second
@@ -100,7 +107,7 @@
 - FaaS
 - DaaS
 - DBaaS
-- PaaS
+- PaaS / aPaaS
 - CaaS
 - IaaS
 
