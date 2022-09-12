@@ -80,6 +80,8 @@
 ### M
 - MBaaS / BaaS
    - Mobile backend as a service / Backend as a Service
+- MQ
+   - Message Queue
 - NVNO
    - Mobile Virtual Network Operator
 
