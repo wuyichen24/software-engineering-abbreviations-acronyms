@@ -70,14 +70,22 @@
    - Disaster Recovery
 - DRP
    - Disaster Recovery Plan
+- DW / DWH
+   - Data Warehouse 
 
 ### E
+- ELK
+   - Elasticsearch, Logstash, and Kibana
+- ELT
+   - Extract, Load, and Transform
 - ER
    - Entity Relationship
 - ER Diagram / ERD
    - Entity-relationship Diagram
 - ERP
    - Enterprise Resource Planning
+- ETL
+   - Extract, Transform, and Load
 
 ### F
 - FaaS
