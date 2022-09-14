@@ -122,10 +122,18 @@
    - Network as a Service
 
 ### O
-- OMT: Object-modeling Technique
-- OOA: Object-oriented Analysis
-- OOD: object-oriented Design
-- OOP: Object-oriented Programming
+- OLAP
+   - Online Analytical Processing
+- OLTP
+   - Online Transaction Processing
+- OMT
+   - Object-modeling Technique
+- OOA
+   - Object-oriented Analysis
+- OOD
+   - Object-oriented Design
+- OOP
+   - Object-oriented Programming
 
 ### P
 - PaaS / aPaaS
@@ -153,6 +161,7 @@
    - Software as a Service
 - SCM
    - Software Configuration Management
+   - Supply Chain Management
 - SDK
    - Software Development Kits
 - SDLC
