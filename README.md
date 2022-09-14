@@ -36,6 +36,8 @@
 ### C
 - CaaS
    - Container as a Service
+- CDC
+   - Change Data Capture
 - CDN
    - Content Delivery Network
 - CFD
@@ -62,10 +64,14 @@
    - Database Management System
 - DDD
    - Domain Driven Design
+- DDL
+   - Data Definition Language
 - DFD
    - Data Flow Diagram
 - DOM
    - Document Object Model
+- DQL
+   - Database Query Language
 - DR
    - Disaster Recovery
 - DRP
@@ -90,12 +96,20 @@
 ### F
 - FaaS
    - Function as a Service
+- FK
+   - Foreign Key
 
 ### G
+- GUI
+   - Graphical User Interface
 ### H
 ### I
 - IaaS
    - Infrastructure as a Service
+- IDE
+   - Integrated Development Environment
+- ISO
+   - International Organization for Standardization
 - ISP
    - Internet Service Provider
 - ISV
@@ -138,6 +152,8 @@
 ### P
 - PaaS / aPaaS
    - Platform as a Service / application Platform as a Service
+- PK
+   - Primary Key
 - POC / PoC
    - Proof of Concept
 - POV/ PoV
@@ -150,6 +166,8 @@
    - Query Per Second
 
 ### R
+- RDBMS
+   - Relational Database Management System
 - RFC
    - Remote Function Call
    - Request For Comments
@@ -172,6 +190,8 @@
    - Security as a Service
 - SQA
    - Software Quality Assurance
+- SQL
+   - Structured Query Language
 - SSD
    - System Sequence Diagram
 
