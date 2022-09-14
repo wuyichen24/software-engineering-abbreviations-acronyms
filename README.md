@@ -116,6 +116,8 @@
 ### P
 - PaaS / aPaaS
    - Platform as a Service / application Platform as a Service
+- POC / PoC
+   - Proof of Concept
 - PSP
    - Payment Service Provider
 
