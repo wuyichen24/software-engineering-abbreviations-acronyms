@@ -43,6 +43,8 @@
 - CFD
    - Control-flow Diagram
    - Cumulative Flow Diagram
+- CI/CD / CICD
+   - Continuous Integration and Continuous Delivery / Continuous Deployment 
 - CRM
    - Customer Relationship Management
 - CRUD
