@@ -26,6 +26,8 @@
    - Business Continuity Planning
 - BDD
    - Behavior-Driven Development
+- BI
+   - Business Intelligence
 - bps
    - bits per second
 - Bps
