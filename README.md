@@ -41,6 +41,8 @@
    - Cumulative Flow Diagram
 - CRM
    - Customer Relationship Management
+- CRUD
+   - Create, Read, Update and Delete
 - CSA
    - Cloud Security Alliance
 - CSP
@@ -72,6 +74,8 @@
    - Entity Relationship
 - ER Diagram / ERD
    - Entity-relationship Diagram
+- ERP
+   - Enterprise Resource Planning
 
 ### F
 - FaaS
