@@ -34,9 +34,13 @@
 ### C
 - CaaS
    - Container as a Service
+- CDN
+   - Content Delivery Network
 - CFD
    - Control-flow Diagram
    - Cumulative Flow Diagram
+- CRM
+   - Customer Relationship Management
 - CSA
    - Cloud Security Alliance
 - CSP
@@ -56,6 +60,8 @@
    - Domain Driven Design
 - DFD
    - Data Flow Diagram
+- DOM
+   - Document Object Model
 - DR
    - Disaster Recovery
 - DRP
