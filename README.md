@@ -118,6 +118,8 @@
    - Platform as a Service / application Platform as a Service
 - POC / PoC
    - Proof of Concept
+- POV/ PoV
+   - Proof of Value
 - PSP
    - Payment Service Provider
 
