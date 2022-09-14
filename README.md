@@ -36,6 +36,9 @@
 ### C
 - CaaS
    - Container as a Service
+- CD
+   - Continuous Delivery
+   - Continuous Deployment
 - CDC
    - Change Data Capture
 - CDN
@@ -43,6 +46,8 @@
 - CFD
    - Control-flow Diagram
    - Cumulative Flow Diagram
+- CI
+   - Continuous Integration
 - CI/CD / CICD
    - Continuous Integration and Continuous Delivery / Continuous Deployment 
 - CRM
