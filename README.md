@@ -2,6 +2,8 @@
 
 ## Ordered by alphabet
 ### A
+- ACK / Ack
+   - Acknowledgement
 - AD
    - Active Directory
    - Architectural Decision
@@ -147,6 +149,8 @@
 ### N
 - NaaS
    - Network as a Service
+- NACK
+   - Negative-Acknowledgement
 
 ### O
 - OLAP
