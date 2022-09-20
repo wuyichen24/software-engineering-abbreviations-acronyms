@@ -22,6 +22,8 @@
    - Architecturally Significant Requirement
 - ATD
    - Acceptance Test Driven Development
+- AWS
+   - Amazon Web Services
 
 ### B
 - BC
@@ -38,6 +40,8 @@
    - Bytes per second
 
 ### C
+- CAP theorem
+   - Consistency, Availability and Partition tolerance
 - CaaS
    - Container as a Service
 - CD
@@ -115,11 +119,15 @@
    - Foreign Key
 
 ### G
+- GCP
+   - Google Cloud Platform
 - GUI
    - Graphical User Interface
+
 ### H
 - HIPAA
    - Health Insurance Portability and Accountability Act
+
 ### I
 - IaaS
    - Infrastructure as a Service
@@ -167,6 +175,8 @@
    - Object-oriented Design
 - OOP
    - Object-oriented Programming
+- ORM
+   - Object–relational Mapping
 - OSS
    - Open-source Software
    - Object Storage Service (Alibaba Cloud)
@@ -228,6 +238,8 @@
    - Translation Management System
 - TPS
    - Transactions Per Second
+- TTL
+   - Time to Live
 
 ### U
 - UAT
