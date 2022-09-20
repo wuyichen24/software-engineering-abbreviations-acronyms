@@ -229,6 +229,8 @@
    - Virtual Private Network
 
 ### W
+- WAL
+   - Write-Ahead Logging (PostgreSQL)
 ### X
 ### Y
 ### Z
