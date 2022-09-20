@@ -77,6 +77,8 @@
    - Domain Driven Design
 - DDL
    - Data Definition Language
+- DDoS
+   - Distributed Denial-of-Service (DDoS) Attack
 - DFD
    - Data Flow Diagram
 - DOM
