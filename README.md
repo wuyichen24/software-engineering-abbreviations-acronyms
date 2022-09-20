@@ -161,6 +161,9 @@
    - Object-oriented Design
 - OOP
    - Object-oriented Programming
+- OSS
+   - Open-source Software
+   - Object Storage Service (Alibaba Cloud)
 
 ### P
 - PaaS / aPaaS
@@ -201,6 +204,8 @@
    - Software Defined Networking
 - SECaaS
    - Security as a Service
+- SMS
+   - Short Message Service
 - SQA
    - Software Quality Assurance
 - SQL
