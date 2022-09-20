@@ -12,6 +12,8 @@
    - Architectural Knowledge Management
 - ALM
    - Application Lifecycle Management
+- AML
+   - Anti-Money Laundering
 - API
    - Application Programming Interface
 - ASR
@@ -103,6 +105,8 @@
 ### F
 - FaaS
    - Function as a Service
+- FACTA
+   - Fair and Accurate Credit Transactions Act
 - FK
    - Foreign Key
 
@@ -110,6 +114,8 @@
 - GUI
    - Graphical User Interface
 ### H
+- HIPAA
+   - Health Insurance Portability and Accountability Act
 ### I
 - IaaS
    - Infrastructure as a Service
