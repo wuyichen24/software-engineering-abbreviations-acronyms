@@ -176,6 +176,8 @@
    - Proof of Value
 - PSP
    - Payment Service Provider
+- P2P
+   - Peer-to-Peer
 
 ### Q
 - QPS
