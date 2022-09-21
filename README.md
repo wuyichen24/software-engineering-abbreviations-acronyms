@@ -228,6 +228,8 @@
    - Security as a Service
 - SMS
    - Short Message Service
+- SOAP
+   - Simple Object Access Protocol
 - SQA
    - Software Quality Assurance
 - SQL
