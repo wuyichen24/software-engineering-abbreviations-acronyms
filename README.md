@@ -70,6 +70,8 @@
    - Cloud Security Alliance
 - CSP
    - Cloud Service Provider
+- CSV
+   - Comma-Separated Values
 
 ### D
 - DaaS
@@ -249,6 +251,8 @@
    - Translation Management System
 - TPS
    - Transactions Per Second
+- TSV
+   - Tab-Separated Values
 - TTL
    - Time to Live
 
