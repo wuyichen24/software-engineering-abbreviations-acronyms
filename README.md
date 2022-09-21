@@ -42,6 +42,10 @@
    - bits per second
 - Bps
    - Bytes per second
+- B2B
+   - Business to Business
+- B2C
+   - Business to Consumer
 
 ### C
 - CAP theorem
