@@ -292,6 +292,8 @@
 ### W
 - WAL
    - Write-Ahead Logging (PostgreSQL)
+- WS
+   - web Service
 
 ### X
 - XML
