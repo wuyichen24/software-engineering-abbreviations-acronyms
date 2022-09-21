@@ -2,6 +2,8 @@
 
 ## Ordered by alphabet
 ### A
+- AC
+   - Acceptance Criteria
 - ACID
    - Atomicity, Consistency, Isolation, and Durability
 - ACK / Ack
@@ -203,6 +205,8 @@
 ### P
 - PaaS / aPaaS
    - Platform as a Service / application Platform as a Service
+- PBI
+   - Product Backlog Item
 - PK
    - Primary Key
 - POC / PoC
