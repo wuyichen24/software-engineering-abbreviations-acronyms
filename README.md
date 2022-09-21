@@ -147,6 +147,9 @@
    - Independent Software Vendor
 
 ### J
+- JSON
+   - JavaScript Object Notation
+
 ### K
 ### L
 - LDAP 
@@ -264,9 +267,15 @@
 ### W
 - WAL
    - Write-Ahead Logging (PostgreSQL)
+
 ### X
+- XML
+   - Extensible Markup Language
+
 ### Y
 ### Z
+
+----
 
 ## Grouped by topic
 ### Database
