@@ -36,6 +36,8 @@
    - Behavior-Driven Development
 - BI
    - Business Intelligence
+- BLOB / blob
+   - Binary Large OBject
 - bps
    - bits per second
 - Bps
@@ -54,12 +56,14 @@
 - CDN
    - Content Delivery Network
 - CFD
-   - Control-flow Diagram
+   - Control-Flow Diagram
    - Cumulative Flow Diagram
 - CI
    - Continuous Integration
 - CI/CD / CICD
-   - Continuous Integration and Continuous Delivery / Continuous Deployment 
+   - Continuous Integration and Continuous Delivery / Continuous Deployment
+- CLOB / clob
+   - Character Large OBject
 - CQRS
    - Command and Query Responsibility Segregation
 - CRM
