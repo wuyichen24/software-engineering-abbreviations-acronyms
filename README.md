@@ -215,6 +215,8 @@
    - Query Per Second
 
 ### R
+- RAID
+   - Redundant Array of Inexpensive Disks / Redundant Array of Independent Disks
 - RDBMS
    - Relational Database Management System
 - RFC
