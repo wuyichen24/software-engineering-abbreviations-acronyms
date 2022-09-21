@@ -2,6 +2,8 @@
 
 ## Ordered by alphabet
 ### A
+- ACID
+   - Atomicity, Consistency, Isolation, and Durability
 - ACK / Ack
    - Acknowledgement
 - AD
@@ -58,6 +60,8 @@
    - Continuous Integration
 - CI/CD / CICD
    - Continuous Integration and Continuous Delivery / Continuous Deployment 
+- CQRS
+   - Command and Query Responsibility Segregation
 - CRM
    - Customer Relationship Management
 - CRUD
