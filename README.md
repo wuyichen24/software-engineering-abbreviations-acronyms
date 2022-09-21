@@ -131,6 +131,8 @@
 ### H
 - HIPAA
    - Health Insurance Portability and Accountability Act
+- HTML
+   - HyperText Markup Language
 
 ### I
 - IaaS
