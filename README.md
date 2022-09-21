@@ -248,6 +248,7 @@
 - SQL
    - Structured Query Language
 - SSD
+   - Solid-State Drive
    - System Sequence Diagram
 
 ### T
