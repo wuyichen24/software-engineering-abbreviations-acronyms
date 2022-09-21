@@ -14,6 +14,8 @@
    - Architectural Design
 - ADR 
    - Architectural Decision Records
+- AI
+   - Artificial Intelligence
 - AKM
    - Architectural Knowledge Management
 - ALM
@@ -174,6 +176,8 @@
 ### M
 - MBaaS / BaaS
    - Mobile backend as a service / Backend as a Service
+- ML
+   - Machine Learning
 - MQ
    - Message Queue
 - NVNO
