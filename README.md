@@ -141,6 +141,8 @@
    - Graphical User Interface
 
 ### H
+- HDD
+   - Hard Disk Drive
 - HIPAA
    - Health Insurance Portability and Accountability Act
 - HTML
