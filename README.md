@@ -127,6 +127,14 @@
    - Enterprise Resource Planning
 - ETL
    - Extract, Transform, and Load
+- EOF
+   - End of File
+- EOL
+   - End of Line
+- EOM
+   - End of Message
+- EOT
+   - End of Transmission
 
 ### F
 - FaaS
