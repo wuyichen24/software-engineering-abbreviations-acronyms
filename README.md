@@ -157,6 +157,10 @@
    - Health Insurance Portability and Accountability Act
 - HTML
    - HyperText Markup Language
+- HTTP
+   - Hypertext Transfer Protocol
+- HTTPS
+   - Hypertext Transfer Protocol Secure
 
 ### I
 - IaaS
@@ -239,11 +243,15 @@
 ### R
 - RAID
    - Redundant Array of Inexpensive Disks / Redundant Array of Independent Disks
+- RCA
+   - Root Cause Analysis
 - RDBMS
    - Relational Database Management System
 - RFC
    - Remote Function Call
    - Request For Comments
+- RPC
+   - Remote Procedure Call
 - RT
    - Response Time
 
