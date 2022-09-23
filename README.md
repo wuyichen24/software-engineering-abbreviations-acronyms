@@ -143,6 +143,8 @@
    - Fair and Accurate Credit Transactions Act
 - FK
    - Foreign Key
+- FTP
+   - File Transfer Protocol
 
 ### G
 - GCP
@@ -225,6 +227,8 @@
    - Platform as a Service / application Platform as a Service
 - PBI
    - Product Backlog Item
+- PCI
+   - Payment Card Industry
 - PK
    - Primary Key
 - POC / PoC
@@ -269,8 +273,13 @@
    - Software Defined Networking
 - SECaaS
    - Security as a Service
+- SFTP
+   - SSH File Transfer Protocol
+   - Secure File Transfer Protocol
 - SMS
    - Short Message Service
+- SMTP
+   - Simple Mail Transfer Protocol
 - SOAP
    - Simple Object Access Protocol
 - SQA
