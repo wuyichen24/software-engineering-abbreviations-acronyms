@@ -235,6 +235,8 @@
    - Proof of Concept
 - POV/ PoV
    - Proof of Value
+- PR
+   - Pull Request
 - PSP
    - Payment Service Provider
 - P2P
