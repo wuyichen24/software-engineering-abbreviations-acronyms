@@ -291,6 +291,8 @@
 - SSD
    - Solid-State Drive
    - System Sequence Diagram
+- SSO
+   - Single Sign-On
 
 ### T
 - TDD
