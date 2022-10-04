@@ -103,6 +103,10 @@
    - Distributed Denial-of-Service (DDoS) Attack
 - DFD
    - Data Flow Diagram
+- DHCP
+   - Dynamic Host Configuration Protocol
+- DNS
+   - Domain Name System
 - DOM
    - Document Object Model
 - DQL
@@ -169,6 +173,8 @@
    - Infrastructure as a Service
 - IDE
    - Integrated Development Environment
+- IMAP
+   - Internet Message Access Protocol
 - IP
    - Internet Protocol
    - Intellectual Property
@@ -296,12 +302,18 @@
    - System Sequence Diagram
 - SSH
    - Secure Shell (Protocol)
+- SSL
+   - Secure Sockets Layer
 - SSO
    - Single Sign-On
 
 ### T
+- TCP
+   - Transmission Control Protocol
 - TDD
    - Test Driven Development
+- TLS
+   - Transport Layer Security
 - TMS
    - Translation Management System
 - TPS
@@ -316,6 +328,8 @@
    - User Acceptance Testing
 - UCaaS
    - Unified Communication as a Service
+- UDP
+   - User Datagram Protocol
 - UML
    - Unified Modeling Language
 
