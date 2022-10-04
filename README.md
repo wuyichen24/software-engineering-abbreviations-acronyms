@@ -169,6 +169,9 @@
    - Infrastructure as a Service
 - IDE
    - Integrated Development Environment
+- IP
+   - Internet Protocol
+   - Intellectual Property
 - ISO
    - International Organization for Standardization
 - ISP
