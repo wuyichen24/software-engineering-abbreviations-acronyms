@@ -294,6 +294,8 @@
 - SSD
    - Solid-State Drive
    - System Sequence Diagram
+- SSH
+   - Secure Shell (Protocol)
 - SSO
    - Single Sign-On
 
