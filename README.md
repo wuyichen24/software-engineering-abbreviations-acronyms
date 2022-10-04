@@ -178,6 +178,10 @@
 - IP
    - Internet Protocol
    - Intellectual Property
+- IPv4
+   - Internet Protocol version 4
+- IPv6
+   - Internet Protocol version 6
 - ISO
    - International Organization for Standardization
 - ISP
