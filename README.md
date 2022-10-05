@@ -27,6 +27,7 @@
 - APM
    - Application Performance Monitoring
    - Agile Project Management
+   - Application Portfolio Management
 - ASR
    - Architecturally Significant Requirement
 - ATD
