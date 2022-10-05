@@ -344,6 +344,8 @@
 ### W
 - WAL
    - Write-Ahead Logging (PostgreSQL)
+- WIP
+   - Work In Progress
 - WS
    - web Service
 
