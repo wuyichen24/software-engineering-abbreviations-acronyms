@@ -24,6 +24,9 @@
    - Anti-Money Laundering
 - API
    - Application Programming Interface
+- APM
+   - Application Performance Monitoring
+   - Agile Project Management
 - ASR
    - Architecturally Significant Requirement
 - ATD
