@@ -318,6 +318,10 @@
    - Secure File Transfer Protocol
 - SLA
    - Service Level Agreement
+- SLI
+   - Service Level Indicator
+- SLO
+   - Service Level Objective
 - SMS
    - Short Message Service
 - SMTP
@@ -385,11 +389,7 @@
 
 ----
 
-## Grouped by topic
-### Database
-- DBA
-- DBMS
-
+## Group by prefix or suffix
 ### (X) Driven Development
 - TDD
 - BDD
@@ -420,6 +420,18 @@
 - CSP
 - ISP
 - PSP
+
+### SL(X)
+- SLA
+- SLI
+- SLO
+
+----
+
+## Grouped by topic
+### Database
+- DBA
+- DBMS
 
 ### Incident metrics
 - MTBF: Mean Time Before Failure
