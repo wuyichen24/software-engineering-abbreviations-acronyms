@@ -256,6 +256,8 @@
    - Object-oriented Programming
 - ORM
    - Object–relational Mapping
+- OSI
+   - Open Systems Interconnection (model)
 - OSS
    - Open-source Software
    - Object Storage Service (Alibaba Cloud)
