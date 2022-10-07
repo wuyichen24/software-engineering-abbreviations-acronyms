@@ -181,6 +181,8 @@
    - Infrastructure as a Service
 - IDE
    - Integrated Development Environment
+- IEEE
+   - Institute of Electrical and Electronic Engineers
 - IMAP
    - Internet Message Access Protocol
 - IP
@@ -203,6 +205,8 @@
 
 ### K
 ### L
+- LAN
+   - Local Area Network
 - LDAP 
    - Lightweight Directory Access Protocol
 - LMS
@@ -299,6 +303,8 @@
 - SFTP
    - SSH File Transfer Protocol
    - Secure File Transfer Protocol
+- SLA
+   - Service Level Agreement
 - SMS
    - Short Message Service
 - SMTP
