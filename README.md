@@ -115,6 +115,8 @@
    - Dynamic Host Configuration Protocol
 - DNS
    - Domain Name System
+- DORA
+   - DevOps Research and Assessment
 - DOM
    - Document Object Model
 - DQL
@@ -419,7 +421,7 @@
 - ISP
 - PSP
 
-### Incident Metrics
+### Incident metrics
 - MTBF: Mean Time Before Failure
 - MTTA: Mean Time To Acknowledge
 - MTTF: Mean Time To Failure
