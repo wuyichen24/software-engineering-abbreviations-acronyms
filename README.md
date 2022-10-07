@@ -219,6 +219,11 @@
    - Machine Learning
 - MQ
    - Message Queue
+- MTTR
+   - Mean Time To Recovery
+   - Mean Time To Repair
+   - Mean Time To Respond
+   - Mean Time To Resolve
 - NVNO
    - Mobile Virtual Network Operator
 
