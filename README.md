@@ -458,6 +458,11 @@
 - BIA: Business Impact Analysis
 - TRA: Threat and Risk Analysis
 
+### Service level terminologies
+- SLA
+- SLI
+- SLO
+
 ## References
 - https://adr.github.io/
 - https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-guides/glossary-computer-system-software-development-terminology-895
