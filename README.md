@@ -78,6 +78,8 @@
    - Continuous Integration and Continuous Delivery / Continuous Deployment
 - CLOB / clob
    - Character Large OBject
+- CPU
+   - Central Processing Unit
 - CQRS
    - Command and Query Responsibility Segregation
 - CRM
