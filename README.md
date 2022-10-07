@@ -28,6 +28,8 @@
    - Application Performance Monitoring
    - Agile Project Management
    - Application Portfolio Management
+- ASCII
+   - American Standard Code for Information Interchange
 - ASR
    - Architecturally Significant Requirement
 - ATD
