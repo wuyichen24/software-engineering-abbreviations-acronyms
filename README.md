@@ -219,6 +219,12 @@
    - Machine Learning
 - MQ
    - Message Queue
+- MTBF
+   - Mean Time Before Failure
+- MTTA
+   - Mean Time To Acknowledge
+- MTTF
+   - Mean Time To Failure
 - MTTR
    - Mean Time To Recovery
    - Mean Time To Repair
@@ -413,6 +419,12 @@
 - ISP
 - PSP
 
+### Incident Metrics
+- MTBF: Mean Time Before Failure
+- MTTA: Mean Time To Acknowledge
+- MTTF: Mean Time To Failure
+- MTTR: Mean Time To Recovery/Repair/Respond/Resolve
+
 ### Risk management
 - DR
 - DRP
@@ -427,8 +439,8 @@
 - RCO: Recovery Consistency Objective
 - RCC: Recovery Consistency Characteristics
 - ROG: Recovery Object Granularity
-- BIA: Business impact analysis
-- TRA: Threat and risk analysis
+- BIA: Business Impact Analysis
+- TRA: Threat and Risk Analysis
 
 ## References
 - https://adr.github.io/
