@@ -385,6 +385,8 @@
 ### V
 - VPN
    - Virtual Private Network
+- V&V
+   - Verification and Validation
 
 ### W
 - WAL
