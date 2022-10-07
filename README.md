@@ -265,6 +265,8 @@
    - Platform as a Service / application Platform as a Service
 - PBI
    - Product Backlog Item
+- PC
+   - Personal Computer
 - PCI
    - Payment Card Industry
 - PK
@@ -281,12 +283,18 @@
    - Peer-to-Peer
 
 ### Q
+- QA
+   - Quality Assurance
+- QC
+   - Quality Control
 - QPS
    - Query Per Second
 
 ### R
 - RAID
    - Redundant Array of Inexpensive Disks / Redundant Array of Independent Disks
+- RAM
+   - Random Access Memory
 - RCA
    - Root Cause Analysis
 - RDBMS
@@ -296,6 +304,8 @@
    - Request For Comments
 - RPC
    - Remote Procedure Call
+- ROM
+   - Read Only Memory
 - RT
    - Response Time
 
