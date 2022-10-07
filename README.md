@@ -403,6 +403,9 @@
    - Extensible Markup Language
 
 ### Y
+- YAML
+   - YAML Ain’t Markup Language (Recursive acronym)
+
 ### Z
 
 ----
