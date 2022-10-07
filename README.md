@@ -391,6 +391,8 @@
 ### W
 - WAL
    - Write-Ahead Logging (PostgreSQL)
+- WAN
+   - Wide Area Network
 - WIP
    - Work In Progress
 - WS
