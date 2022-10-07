@@ -338,6 +338,8 @@
    - Simple Mail Transfer Protocol
 - SOAP
    - Simple Object Access Protocol
+- SOP
+   - Standard Operating Procedure
 - SQA
    - Software Quality Assurance
 - SQL
