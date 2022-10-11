@@ -69,15 +69,21 @@
    - Change Data Capture
 - CDN
    - Content Delivery Network
+- CEO
+   - Chief Executive Officer
 - CFD
    - Control-Flow Diagram
    - Cumulative Flow Diagram
+- CFO
+   - Chief Financial Officer
 - CI
    - Continuous Integration
 - CI/CD / CICD
    - Continuous Integration and Continuous Delivery / Continuous Deployment
 - CLOB / clob
    - Character Large OBject
+- CMO
+   - Chief Marketing Officer
 - CPU
    - Central Processing Unit
 - CQRS
@@ -141,6 +147,8 @@
    - Enterprise Resource Planning
 - ETL
    - Extract, Transform, and Load
+- EOD
+   - End of Day
 - EOF
    - End of File
 - EOL
