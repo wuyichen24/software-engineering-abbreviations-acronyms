@@ -367,6 +367,8 @@
    - Service Level Indicator
 - SLO
    - Service Level Objective
+- SMART
+   - Specific, Measurable, Achievable, Relevant, Time-bound
 - SMS
    - Short Message Service
 - SMTP
