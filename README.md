@@ -8,6 +8,8 @@
    - Atomicity, Consistency, Isolation, and Durability
 - ACK / Ack
    - Acknowledgement
+- ACL
+   - Anti-Corruption Layer
 - AD
    - Active Directory
    - Architectural Decision
