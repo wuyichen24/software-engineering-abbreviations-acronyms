@@ -88,6 +88,8 @@
    - Chief Marketing Officer
 - CMS
    - Content Management System
+- COO
+   - Chief Operating Officer / Chief Operation Officer
 - CPU
    - Central Processing Unit
 - CQRS
