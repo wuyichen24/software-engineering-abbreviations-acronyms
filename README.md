@@ -221,6 +221,8 @@
    - Infrastructure as a Service
 - IDE
    - Integrated Development Environment
+- IDL
+   - Interface Definition Language
 - IEEE
    - Institute of Electrical and Electronic Engineers
 - IMAP
@@ -232,6 +234,8 @@
 - IP
    - Internet Protocol
    - Intellectual Property
+- IPC
+   - Inter-Process Communication / InterProcess Communication
 - IPv4
    - Internet Protocol version 4
 - IPv6
