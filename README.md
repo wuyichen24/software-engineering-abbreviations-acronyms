@@ -100,6 +100,8 @@
    - Create, Read, Update and Delete
 - CSA
    - Cloud Security Alliance
+- CSO
+   - Chief Security Officer
 - CSP
    - Cloud Service Provider
 - CSV
@@ -127,6 +129,8 @@
    - Data Flow Diagram
 - DHCP
    - Dynamic Host Configuration Protocol
+- DM
+   - Direct Message
 - DNS
    - Domain Name System
 - DORA
@@ -165,6 +169,8 @@
    - End of Message
 - EOT
    - End of Transmission
+- EOW
+   - End of Week
 - ETA
    - Estimated Time of Arrival
 
