@@ -52,6 +52,8 @@
    - bits per second
 - Bps
    - Bytes per second
+- BRB
+   - Be Right Back
 - B2B
    - Business to Business
 - B2C
@@ -84,6 +86,8 @@
    - Character Large OBject
 - CMO
    - Chief Marketing Officer
+- CMS
+   - Content Management System
 - CPU
    - Central Processing Unit
 - CQRS
@@ -400,6 +404,10 @@
    - Test Driven Development
 - TLS
    - Transport Layer Security
+- TLDR / TL;DR
+   - Too Long, Didn't Read
+- TLTR
+   - Too Long to Read
 - TMS
    - Translation Management System
 - TPS
@@ -470,6 +478,7 @@
 - Bps
 
 ### (X)MS
+- CMS
 - DBMS
 - TMS
 - LMS
