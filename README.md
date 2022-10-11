@@ -183,6 +183,8 @@
    - First In, First Out
 - FK
    - Foreign Key
+- FTE
+   - Full-Time Employee
 - FTP
    - File Transfer Protocol
 
