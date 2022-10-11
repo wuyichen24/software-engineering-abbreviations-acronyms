@@ -183,6 +183,10 @@
    - Hard Disk Drive
 - HIPAA
    - Health Insurance Portability and Accountability Act
+- HR
+   - Human Resources
+- HRM
+   - Human Resources Management
 - HTML
    - HyperText Markup Language
 - HTTP
@@ -199,6 +203,8 @@
    - Institute of Electrical and Electronic Engineers
 - IMAP
    - Internet Message Access Protocol
+- IMO
+   - In My Opinion
 - IP
    - Internet Protocol
    - Intellectual Property
@@ -292,8 +298,12 @@
    - Payment Card Industry
 - PK
    - Primary Key
+- PM
+   - Project Manager
+   - Product Manager
 - POC / PoC
    - Proof of Concept
+   - Point of Contact
 - POV/ PoV
    - Proof of Value
 - PR
@@ -346,6 +356,8 @@
    - Software Defined Networking
 - SECaaS
    - Security as a Service
+- SEO
+   - Search Engine Optimization
 - SFTP
    - SSH File Transfer Protocol
    - Secure File Transfer Protocol
