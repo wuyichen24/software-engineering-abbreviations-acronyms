@@ -548,6 +548,10 @@
 - DBA
 - DBMS
 - ACID
+- PK
+- FK
+- BLOB
+- CLOB
 
 ### Incident metrics
 - MTBF: Mean Time Before Failure
@@ -629,6 +633,12 @@
 - BCP: Business Continuity Planning
 - B2B: Business to Business
 - B2C: Business to Consumer
+
+### Workspace
+- BRB
+- IMO
+- EOD
+- EOW
 
 ## References
 - https://adr.github.io/
