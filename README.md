@@ -562,6 +562,26 @@
 - SLI
 - SLO
 
+### OSI model
+- Layer 7: Application layer
+   - DHCP
+   - DNS
+   - FTP
+   - HTTP
+   - HTTPS
+   - IMAP
+   - LDAP
+   - SFTP
+   - SMTP
+   - SSH
+- Layer 4: Transport layer
+   - TCP
+   - UDP
+- Layer 3: Network layer
+   - IP
+   - IPv4
+   - IPv6
+
 ## References
 - https://adr.github.io/
 - https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-guides/glossary-computer-system-software-development-terminology-895
