@@ -438,6 +438,8 @@
    - Single Sign-On
 
 ### T
+- TCC
+   - Try-Confirm/Cancel
 - TCP
    - Transmission Control Protocol
 - TDD
@@ -663,10 +665,11 @@
 ### Hardware
 - CPU
 
-### Microservices design patterns
+### Design patterns
 - CQRS
 - BFF
 - ES
+- ACL
 
 ## References
 - https://adr.github.io/
