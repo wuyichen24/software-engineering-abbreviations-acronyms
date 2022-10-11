@@ -547,6 +547,7 @@
 ### Database
 - DBA
 - DBMS
+- ACID
 
 ### Incident metrics
 - MTBF: Mean Time Before Failure
@@ -614,6 +615,14 @@
       - SOAP
    - RPC
 - Asynchronous
+
+## Scrum / Agile
+- AC
+- APM: Agile Project Management
+
+## Cloud service provider
+- AWS
+- GCP
 
 ## References
 - https://adr.github.io/
