@@ -46,6 +46,8 @@
    - Business Continuity Planning
 - BDD
    - Behavior-Driven Development
+- BFF
+   - Backend for Frontend
 - BI
    - Business Intelligence
 - BLOB / blob
@@ -165,6 +167,8 @@
    - Entity-relationship Diagram
 - ERP
    - Enterprise Resource Planning
+- ES
+   - Event Sourcing
 - ETL
    - Extract, Transform, and Load
 - EOD
@@ -493,6 +497,14 @@
 
 ### Z
 
+### 2
+- 2PC
+   - Two-Phase Commit
+
+### 3
+- 3PC
+   - Three-Phase Commit
+
 ----
 
 ## Group by prefix or suffix
@@ -552,6 +564,8 @@
 - FK
 - BLOB
 - CLOB
+- CAP theorem
+- CRUD
 
 ### Incident metrics
 - MTBF: Mean Time Before Failure
@@ -639,6 +653,18 @@
 - IMO
 - EOD
 - EOW
+
+### Diagram
+- CFD: Control-Flow Diagram
+- CFD: Cumulative Flow Diagram
+
+### Hardware
+- CPU
+
+### Microservices design patterns
+- CQRS
+- BFF
+- ES
 
 ## References
 - https://adr.github.io/
