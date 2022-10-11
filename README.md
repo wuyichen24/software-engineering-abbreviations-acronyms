@@ -332,6 +332,8 @@
    - Part-Time Employee
 - PTO
    - Paid Time Off
+- PuTTY
+   - A free and open-source terminal emulator, serial console and network file transfer application
 - P2P
    - Peer-to-Peer
 
