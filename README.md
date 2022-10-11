@@ -165,6 +165,8 @@
    - Function as a Service
 - FACTA
    - Fair and Accurate Credit Transactions Act
+- FIFO
+   - First In, First Out
 - FK
    - Foreign Key
 - FTP
@@ -224,6 +226,8 @@
    - Local Area Network
 - LDAP 
    - Lightweight Directory Access Protocol
+- LIFO
+   - Last In, First Out
 - LMS
    - Learning Management System
 
