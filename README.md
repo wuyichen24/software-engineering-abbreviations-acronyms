@@ -206,6 +206,9 @@
    - JavaScript Object Notation
 
 ### K
+- KPI
+   - Key Performance Indicator
+
 ### L
 - LAN
    - Local Area Network
