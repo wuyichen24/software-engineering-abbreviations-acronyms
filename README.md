@@ -533,6 +533,7 @@
 - COO
 - CTO
 - CMO
+- CSO
 
 ----
 
