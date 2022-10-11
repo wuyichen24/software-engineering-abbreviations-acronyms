@@ -104,6 +104,8 @@
    - Cloud Service Provider
 - CSV
    - Comma-Separated Values
+- CTO
+   - Chief Technology Officer
 
 ### D
 - DaaS
