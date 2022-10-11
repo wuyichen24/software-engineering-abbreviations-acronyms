@@ -14,6 +14,8 @@
    - Architectural Design
 - ADR 
    - Architectural Decision Records
+- AES
+   - Advanced Encryption Standard
 - AI
    - Artificial Intelligence
 - AKM
@@ -125,6 +127,8 @@
    - Data Definition Language
 - DDoS
    - Distributed Denial-of-Service (DDoS) Attack
+- DES
+   - Data Encryption Standard
 - DFD
    - Data Flow Diagram
 - DHCP
