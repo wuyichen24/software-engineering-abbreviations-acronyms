@@ -255,6 +255,8 @@
    - Object-oriented Analysis
 - OOD
    - Object-oriented Design
+- OOO
+   - Out Of Office
 - OOP
    - Object-oriented Programming
 - ORM
@@ -284,6 +286,8 @@
    - Pull Request
 - PSP
    - Payment Service Provider
+- PTO
+   - Paid Time Off
 - P2P
    - Peer-to-Peer
 
