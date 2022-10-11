@@ -147,6 +147,8 @@
    - Data Warehouse 
 
 ### E
+- EC
+   - Eventual Consistency
 - ELK
    - Elasticsearch, Logstash, and Kibana
 - ELT
