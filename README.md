@@ -223,6 +223,8 @@
    - Internet Message Access Protocol
 - IMO
    - In My Opinion
+- IoT
+   - Internet of Things
 - IP
    - Internet Protocol
    - Intellectual Property
