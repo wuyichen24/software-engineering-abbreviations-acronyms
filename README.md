@@ -357,6 +357,8 @@
    - Read Only Memory
 - RT
    - Response Time
+- R&D
+   - Research and Development
 
 ### S
 - SaaS
@@ -438,6 +440,12 @@
    - User Datagram Protocol
 - UML
    - Unified Modeling Language
+- URI
+   - Uniform Resource Identifier
+- URL
+   - Uniform Resource Locator
+- UX
+   - User Experience
 
 ### V
 - VPN
