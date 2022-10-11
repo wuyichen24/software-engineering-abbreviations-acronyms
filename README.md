@@ -281,6 +281,8 @@
    - Negative-Acknowledgement
 
 ### O
+- OAuth
+   - Open Authorization
 - OLAP
    - Online Analytical Processing
 - OLTP
