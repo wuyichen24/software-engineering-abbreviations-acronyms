@@ -157,6 +157,8 @@
    - End of Message
 - EOT
    - End of Transmission
+- ETA
+   - Estimated Time of Arrival
 
 ### F
 - FaaS
