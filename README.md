@@ -616,13 +616,19 @@
    - RPC
 - Asynchronous
 
-## Scrum / Agile
+### Scrum / Agile
 - AC
 - APM: Agile Project Management
 
-## Cloud service provider
+### Cloud service provider
 - AWS
 - GCP
+
+### Business
+- BC: Business Continuity
+- BCP: Business Continuity Planning
+- B2B: Business to Business
+- B2C: Business to Consumer
 
 ## References
 - https://adr.github.io/
