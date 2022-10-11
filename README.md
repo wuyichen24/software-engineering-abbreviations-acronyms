@@ -607,6 +607,14 @@
 - TSV
 - DSV
 
+### Communication
+- Synchronous
+   - Web service
+      - REST
+      - SOAP
+   - RPC
+- Asynchronous
+
 ## References
 - https://adr.github.io/
 - https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-guides/glossary-computer-system-software-development-terminology-895
