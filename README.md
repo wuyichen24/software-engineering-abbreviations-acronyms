@@ -328,6 +328,8 @@
    - Pull Request
 - PSP
    - Payment Service Provider
+- PTE
+   - Part-Time Employee
 - PTO
    - Paid Time Off
 - P2P
