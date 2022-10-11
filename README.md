@@ -147,6 +147,8 @@
    - Disaster Recovery
 - DRP
    - Disaster Recovery Plan
+- DSV
+   - Delimiter-Separated Values
 - DW / DWH
    - Data Warehouse 
 
@@ -597,6 +599,13 @@
 ### Compliance
 - AML
 - HIPPA
+
+### Data interchange format
+- XML
+- JSON
+- CSV
+- TSV
+- DSV
 
 ## References
 - https://adr.github.io/
