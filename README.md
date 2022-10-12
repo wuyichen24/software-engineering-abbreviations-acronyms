@@ -577,6 +577,7 @@
 ### Database
 - DBA
 - DBMS
+- RDBMS
 - ACID
 - PK
 - FK
@@ -586,6 +587,7 @@
 - CRUD
 - SQL
 - DQL
+- WAL
 
 ### Incident metrics
 - MTBF: Mean Time Before Failure
@@ -671,6 +673,9 @@
 - B2C: Business to Consumer
 - IP: Intellectual Property
 - KPI
+- R&D
+- SOP
+- UX
 
 ### Workspace
 - BRB
@@ -688,12 +693,15 @@
 - PM: Product Manager
 - IC
 - TPM
+- TLDR / TL;DR
+- WIP
 
 ### Diagram
 - CFD: Control-Flow Diagram
 - CFD: Cumulative Flow Diagram
 - DFD: Data Flow Diagram
 - ERD: Entity-relationship Diagram
+- SSD: System Sequence Diagram
 
 ### Hardware
 - CPU
@@ -731,6 +739,8 @@
 ### Programming
 - OOP
 - ORM
+- SDK
+- IDE
 
 ## References
 - https://adr.github.io/
