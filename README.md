@@ -69,6 +69,8 @@
    - Business to Consumer
 
 ### C
+- CA
+   - Certificate Authority / Certification Authority
 - CAP theorem
    - Consistency, Availability and Partition tolerance
 - CaaS
@@ -97,6 +99,8 @@
    - Character Large OBject
 - CMO
    - Chief Marketing Officer
+- CMP
+   - Certificate Management Protocol
 - CMS
    - Content Management System
 - COO
@@ -358,6 +362,8 @@
    - Personal Identification Number
 - PK
    - Primary Key
+- PKI
+   - Public Key Infrastructure
 - PM
    - Project Manager
    - Product Manager
@@ -390,9 +396,10 @@
    - Query Per Second
 - QTR
    - Quarterly Tech Review
-   - Quad Tone Rip
 
 ### R
+- RA
+   - Registration Authority
 - RAID
    - Redundant Array of Inexpensive Disks / Redundant Array of Independent Disks
 - RAM
@@ -509,6 +516,8 @@
    - User Experience
 
 ### V
+- VA
+   - Validation Authority
 - VPN
    - Virtual Private Network
 - V&V
