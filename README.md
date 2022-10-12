@@ -290,6 +290,8 @@
 ### M
 - MBaaS / BaaS
    - Mobile backend as a service / Backend as a Service
+- MFA
+   - Multi-Factor Authentication
 - ML
    - Machine Learning
 - MQ
