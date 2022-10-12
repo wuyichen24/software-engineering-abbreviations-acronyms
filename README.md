@@ -561,6 +561,14 @@
 - CMO
 - CSO
 
+### EO(X)
+- EOD: End of Day
+- EOF: End of File
+- EOL: End of Line
+- EOM: End of Message
+- EOT: End of Transmission
+- EOW: End of Week
+
 ----
 
 ## Grouped by topic
@@ -574,6 +582,8 @@
 - CLOB
 - CAP theorem
 - CRUD
+- SQL
+- DQL
 
 ### Incident metrics
 - MTBF: Mean Time Before Failure
@@ -661,19 +671,33 @@
 - IMO
 - EOD
 - EOW
+- DM
+- ETA
 
 ### Diagram
 - CFD: Control-Flow Diagram
 - CFD: Cumulative Flow Diagram
+- DFD: Data Flow Diagram
+- ERD: Entity-relationship Diagram
 
 ### Hardware
 - CPU
+
+### Data engineering
+- DW /DWH
+- ETL
+- ELT
 
 ### Design patterns
 - CQRS
 - BFF
 - ES
 - ACL
+- TCC
+- ES
+
+### Tech stack
+- ELK
 
 ## References
 - https://adr.github.io/
