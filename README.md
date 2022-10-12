@@ -370,6 +370,8 @@
    - Redundant Array of Inexpensive Disks / Redundant Array of Independent Disks
 - RAM
    - Random Access Memory
+- regex / regexp
+   - Regular Expression
 - RCA
    - Root Cause Analysis
 - RDBMS
