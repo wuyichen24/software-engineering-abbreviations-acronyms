@@ -170,16 +170,8 @@
    - Elasticsearch, Logstash, and Kibana
 - ELT
    - Extract, Load, and Transform
-- ER
-   - Entity Relationship
-- ER Diagram / ERD
-   - Entity-relationship Diagram
-- ERP
-   - Enterprise Resource Planning
-- ES
-   - Event Sourcing
-- ETL
-   - Extract, Transform, and Load
+- EMV
+   - Europay, Mastercard and Visa
 - EOD
    - End of Day
 - EOF
@@ -193,8 +185,18 @@
    - End of Transmission
 - EOW
    - End of Week
+- ER
+   - Entity Relationship
+- ERD
+   - Entity-relationship Diagram
+- ERP
+   - Enterprise Resource Planning
+- ES
+   - Event Sourcing
 - ETA
    - Estimated Time of Arrival
+- ETL
+   - Extract, Transform, and Load
 
 ### F
 - FaaS
