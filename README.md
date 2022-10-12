@@ -227,6 +227,8 @@
 ### I
 - IaaS
    - Infrastructure as a Service
+- IC
+   - Individual Contributor
 - IDE
    - Integrated Development Environment
 - IDL
@@ -656,6 +658,7 @@
 ### Scrum / Agile
 - AC
 - APM: Agile Project Management
+- PBI
 
 ### Cloud service provider
 - AWS
@@ -679,6 +682,12 @@
 - FTE
 - PTE
 - HR
+- OOO
+- PTO
+- PM: Project Manager
+- PM: Product Manager
+- IC
+- TPM
 
 ### Diagram
 - CFD: Control-Flow Diagram
@@ -718,6 +727,10 @@
 - LAN
 - WAN
 - VPN
+
+### Programming
+- OOP
+- ORM
 
 ## References
 - https://adr.github.io/
