@@ -1,7 +1,7 @@
 # software-engineering-abbreviations
 
 - [Ordered by alphabet]()
-   - [A]()[B]()
+   - [A]() [B]()
 
 ## Ordered by alphabet
 ### A
