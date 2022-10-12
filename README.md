@@ -313,6 +313,8 @@
    - Network as a Service
 - NACK
    - Negative-Acknowledgement
+- NIT / nit
+   - nit-pick / nitpicking / Nitpick
 
 ### O
 - OAuth
