@@ -666,6 +666,8 @@
 - BCP: Business Continuity Planning
 - B2B: Business to Business
 - B2C: Business to Consumer
+- IP: Intellectual Property
+- KPI
 
 ### Workspace
 - BRB
@@ -695,6 +697,7 @@
 - DW /DWH
 - ETL
 - ELT
+- ELK
 
 ### Design patterns
 - CQRS
@@ -706,6 +709,15 @@
 
 ### Tech stack
 - ELK
+
+### Organization
+- ISO
+- IEEE
+
+### Network
+- LAN
+- WAN
+- VPN
 
 ## References
 - https://adr.github.io/
