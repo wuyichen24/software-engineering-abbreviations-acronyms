@@ -91,6 +91,8 @@
    - Continuous Integration
 - CI/CD / CICD
    - Continuous Integration and Continuous Delivery / Continuous Deployment
+- CL
+   - Change List / ChangeList
 - CLOB / clob
    - Character Large OBject
 - CMO
@@ -185,6 +187,7 @@
 - EOL
    - End of Line
 - EOM
+   - End of Month
    - End of Message
 - EOT
    - End of Transmission
@@ -277,6 +280,8 @@
    - Local Area Network
 - LDAP 
    - Lightweight Directory Access Protocol
+- LGTM
+   - Looks Good to Me
 - LIFO
    - Last In, First Out
 - LMS
@@ -371,6 +376,8 @@
 ### Q
 - QA
    - Quality Assurance
+- QBR
+   - Quarterly Business Review
 - QC
    - Quality Control
 - QPS
@@ -545,6 +552,7 @@
 - EOF: End of File
 - EOL: End of Line
 - EOM: End of Message
+- EOM: End of Month
 - EOT: End of Transmission
 - EOW: End of Week
 
@@ -689,6 +697,7 @@
 - R&D
 - SOP
 - UX
+- QBR
 
 ### Workspace
 - BRB
@@ -708,6 +717,8 @@
 - TPM
 - TLDR / TL;DR
 - WIP
+- NIT
+- LGTM
 
 ### Diagram
 - CFD: Control-Flow Diagram
