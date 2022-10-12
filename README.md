@@ -635,6 +635,7 @@
 
 ### Compliance
 - AML
+- FACTA
 - HIPPA
 
 ### Data interchange format
@@ -673,6 +674,9 @@
 - EOW
 - DM
 - ETA
+- FTE
+- PTE
+- HR
 
 ### Diagram
 - CFD: Control-Flow Diagram
@@ -682,6 +686,10 @@
 
 ### Hardware
 - CPU
+- HDD
+- SSD: Solid-State Drive
+- RAM: Random Access Memory
+- ROM: Read Only Memory
 
 ### Data engineering
 - DW /DWH
