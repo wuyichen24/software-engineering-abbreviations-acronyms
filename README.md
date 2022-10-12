@@ -521,43 +521,6 @@
 ----
 
 ## Group by prefix or suffix
-### (X) Driven Development
-- TDD
-- BDD
-- DDD
-- ATD
-
-### (X)aaS
-- SaaS
-- FaaS
-- DaaS
-- DBaaS
-- PaaS / aPaaS
-- CaaS
-- IaaS
-
-### (X)PS
-- TPS
-- QPS
-- bps
-- Bps
-
-### (X)MS
-- CMS
-- DBMS
-- TMS
-- LMS
-
-### (X)SP
-- CSP
-- ISP
-- PSP
-
-### SL(X)
-- SLA
-- SLI
-- SLO
-
 ### C(X)O
 - CEO
 - CFO
@@ -573,6 +536,42 @@
 - EOM: End of Message
 - EOT: End of Transmission
 - EOW: End of Week
+
+### SL(X)
+- SLA
+- SLI
+- SLO
+
+### (X)aaS
+- SaaS
+- FaaS
+- DaaS
+- DBaaS
+- PaaS / aPaaS
+- CaaS
+- IaaS
+
+### (X)DD
+- TDD
+- BDD
+- DDD
+
+### (X)MS
+- CMS
+- DBMS
+- TMS
+- LMS
+
+### (X)PS
+- TPS
+- QPS
+- bps
+- Bps
+
+### (X)SP
+- CSP
+- ISP
+- PSP
 
 ----
 
