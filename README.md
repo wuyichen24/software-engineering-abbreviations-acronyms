@@ -452,6 +452,8 @@
    - Too Long to Read
 - TMS
    - Translation Management System
+- TPM
+   - Technical Program Manager
 - TPS
    - Transactions Per Second
 - TSV
