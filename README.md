@@ -220,6 +220,8 @@
    - Human Resources
 - HRM
    - Human Resources Management
+- HSM
+   - Hardware Security Module
 - HTML
    - HyperText Markup Language
 - HTTP
@@ -339,6 +341,8 @@
    - Personal Computer
 - PCI
    - Payment Card Industry
+- PIN
+   - Personal Identification Number
 - PK
    - Primary Key
 - PM
@@ -388,6 +392,8 @@
    - Remote Procedure Call
 - ROM
    - Read Only Memory
+- RSA
+   - Rivest–Shamir–Adleman
 - RT
    - Response Time
 - R&D
