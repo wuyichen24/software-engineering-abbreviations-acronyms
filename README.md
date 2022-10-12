@@ -142,6 +142,8 @@
    - Dynamic Host Configuration Protocol
 - DM
    - Direct Message
+- DND
+   - Do Not Disturb
 - DNS
    - Domain Name System
 - DORA
@@ -373,6 +375,9 @@
    - Quality Control
 - QPS
    - Query Per Second
+- QTR
+   - Quarterly Tech Review
+   - Quad Tone Rip
 
 ### R
 - RAID
