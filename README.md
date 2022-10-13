@@ -13,6 +13,7 @@
    - Acknowledgement
 - ACL
    - Anti-Corruption Layer
+   - Access Control List
 - AD
    - Active Directory
    - Architectural Decision
