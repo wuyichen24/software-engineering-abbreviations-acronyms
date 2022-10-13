@@ -412,15 +412,17 @@
 - OMT
    - Object-modeling Technique
 - OOA
-   - Object-oriented Analysis
+   - Object-Oriented Analysis
+- OOAD
+   - Object-Oriented Analysis and Design
 - OOD
-   - Object-oriented Design
+   - Object-Oriented Design
 - OOO
    - Out Of Office
 - OOP
-   - Object-oriented Programming
+   - Object-Oriented Programming
 - ORM
-   - Object–relational Mapping
+   - Object–Relational Mapping
 - OSI
    - Open Systems Interconnection (model)
 - OSS
@@ -884,6 +886,18 @@
    - ECO
    - MVCC
    - MVCO
+
+### Software architectural pattern
+- MVC: Model–View–Controller
+- HMVC: Hierarchical Model–View–Controller
+- MVA: Model–View–Adapter
+- MVP: Model–View–Presenter
+- MVVM: Model–View–View Model
+- ECB: Entity-Control-Boundary
+- EBC: Entity-Boundary-Control (Same with ECB)
+- BCE: Boundary-Control-Entity (Same with ECB)
+- PAC: Presentation–Abstraction–Control
+- ADR: Action–Domain–Responder
 
 ### Organization
 - ISO
