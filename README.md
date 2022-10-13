@@ -75,6 +75,8 @@
    - Bytes per second
 - BRB
    - Be Right Back
+- BSON
+   - Binary JSON
 - B2B
    - Business to Business
 - B2C
@@ -131,6 +133,8 @@
    - Chief Security Officer
 - CSP
    - Cloud Service Provider
+- CSS
+   - Cascading Style Sheets
 - CSV
    - Comma-Separated Values
 - CTO
@@ -367,6 +371,8 @@
 ### O
 - OAuth
    - Open Authorization
+- ODBC
+   - Open Database Connectivity
 - OLAP
    - Online Analytical Processing
 - OLTP
@@ -414,6 +420,8 @@
    - Proof of Value
 - PR
    - Pull Request
+- Protobuf
+   - Protocol Buffers
 - PSP
    - Payment Service Provider
 - PTE
@@ -676,6 +684,8 @@
 - DML
 - DCL
 - WAL
+- JDBC
+- ODBC
 
 ### Data engineering
 - DW /DWH
