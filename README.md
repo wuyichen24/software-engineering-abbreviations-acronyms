@@ -207,6 +207,8 @@
    - Function as a Service
 - FACTA
    - Fair and Accurate Credit Transactions Act
+- FAQ
+   - Frequently Asked Questions
 - FIFO
    - First In, First Out
 - FK
