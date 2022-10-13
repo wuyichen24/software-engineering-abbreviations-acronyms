@@ -390,7 +390,7 @@
 - OAuth
    - Open Authorization
 - OCC
-   - Optimistic Concurrency Control (optimistic locking)
+   - Optimistic Concurrency Control (Optimistic locking)
 - OCO
    - Optimistic Commitment Ordering
 - ODBC
@@ -424,6 +424,8 @@
    - Product Backlog Item
 - PC
    - Personal Computer
+- PCC
+   - Pessimistic Concurrency Control (Pessimistic locking)
 - PCI
    - Payment Card Industry
 - PIN
