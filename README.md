@@ -359,7 +359,7 @@
    - Mean Time To Repair
    - Mean Time To Respond
    - Mean Time To Resolve
-- NVNO
+- MVNO
    - Mobile Virtual Network Operator
 
 ### N
