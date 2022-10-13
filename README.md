@@ -148,6 +148,8 @@
    - Dynamic Host Configuration Protocol
 - DM
    - Direct Message
+- DML
+   - Data Manipulation Language
 - DND
    - Do Not Disturb
 - DNS
