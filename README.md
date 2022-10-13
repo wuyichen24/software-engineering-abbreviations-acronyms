@@ -648,7 +648,7 @@
 
 ----
 
-## Grouped by topic
+## Group by topic
 ### Database
 - DBA
 - DBMS
