@@ -888,16 +888,18 @@
    - MVCO
 
 ### Software architectural pattern
-- MVC: Model–View–Controller
+- ADR: Action–Domain–Responder
+   - MVC: Model–View–Controller
+   - PAC: Presentation–Abstraction–Control
+   - MVP: Model–View–Presenter
+   - MVA: Model–View–Adapter
+   - MVVM: Model–View–View Model
 - HMVC: Hierarchical Model–View–Controller
-- MVA: Model–View–Adapter
-- MVP: Model–View–Presenter
-- MVVM: Model–View–View Model
 - ECB: Entity-Control-Boundary
 - EBC: Entity-Boundary-Control (Same with ECB)
 - BCE: Boundary-Control-Entity (Same with ECB)
-- PAC: Presentation–Abstraction–Control
-- ADR: Action–Domain–Responder
+
+
 
 ### Organization
 - ISO
