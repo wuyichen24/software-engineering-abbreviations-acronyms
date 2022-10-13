@@ -858,6 +858,7 @@
 ### Concurrency control
 - Categories
    - OCC: Optimistic Concurrency Control
+   - PCC
 - Methods
    - 2PL
    - S2PL
