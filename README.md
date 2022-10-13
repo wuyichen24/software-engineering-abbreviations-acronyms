@@ -134,6 +134,8 @@
    - Database as a Service
 - DBMS
    - Database Management System
+- DCL
+   - Data Control Language
 - DDD
    - Domain Driven Design
 - DDL
@@ -815,6 +817,12 @@
 - LCME
 - MEAN
 - MERN
+
+### Data-related language
+- DDL
+- DQL
+- DML
+- DCL
 
 ## References
 - https://adr.github.io/
