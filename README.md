@@ -716,6 +716,11 @@
 - SLI
 - SLO
 
+### Network
+- LAN
+- WAN
+- VPN
+
 ### OSI model
 - Layer 7: Application layer
    - DHCP
@@ -748,6 +753,7 @@
       - SOAP
    - RPC
 - Asynchronous
+   - MQ
 
 ### Scrum / Agile
 - AC
@@ -757,39 +763,6 @@
 ### Cloud service provider
 - AWS
 - GCP
-
-### Business
-- BC: Business Continuity
-- BCP: Business Continuity Planning
-- B2B: Business to Business
-- B2C: Business to Consumer
-- IP: Intellectual Property
-- KPI
-- R&D
-- SOP
-- UX
-- QBR
-
-### Workspace
-- BRB
-- IMO
-- EOD
-- EOW
-- DM
-- ETA
-- FTE
-- PTE
-- HR
-- OOO
-- PTO
-- PM: Project Manager
-- PM: Product Manager
-- IC
-- TPM
-- TLDR / TL;DR
-- WIP
-- NIT
-- LGTM
 
 ### Diagram
 - CFD: Control-Flow Diagram
@@ -825,16 +798,44 @@
 - ISO
 - IEEE
 
-### Network
-- LAN
-- WAN
-- VPN
-
 ### Programming
 - OOP
 - ORM
 - SDK
 - IDE
+
+### Business
+- BC: Business Continuity
+- BCP: Business Continuity Planning
+- B2B: Business to Business
+- B2C: Business to Consumer
+- IP: Intellectual Property
+- KPI
+- R&D
+- SOP
+- UX
+- QBR
+
+### Workspace
+- BRB
+- IMO
+- EOD
+- EOW
+- DM
+- ETA
+- FTE
+- PTE
+- HR
+- OOO
+- PTO
+- PM: Project Manager
+- PM: Product Manager
+- IC
+- TPM
+- TLDR / TL;DR
+- WIP
+- NIT
+- LGTM
 
 ## References
 - https://adr.github.io/
