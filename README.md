@@ -57,6 +57,8 @@
    - Amazon Web Services
 
 ### B
+- BASE
+   - Basically Available, Soft state, Eventually consistent
 - BC
    - Business Continuity
 - BCP
