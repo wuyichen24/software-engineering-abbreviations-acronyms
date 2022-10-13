@@ -404,6 +404,8 @@
 ### Q
 - QA
    - Quality Assurance
+- Q&A
+   - Question-and-Answer
 - QBR
    - Quarterly Business Review
 - QC
