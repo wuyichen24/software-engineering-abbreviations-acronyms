@@ -31,6 +31,7 @@
    - Architectural Design
 - ADR 
    - Architectural Decision Records
+   - Action–Domain–Responder
 - AES
    - Advanced Encryption Standard
 - AI
@@ -63,6 +64,8 @@
    - Basically Available, Soft state, Eventually consistent
 - BC
    - Business Continuity
+- BCE
+   - Boundary-Control-Entity (Same with ECB)
 - BCP
    - Business Continuity Planning
 - BDD
@@ -200,8 +203,12 @@
    - Data Warehouse 
 
 ### E
+- EBC
+   - Entity-Boundary-Control (Same with ECB)
 - EC
    - Eventual Consistency
+- ECB
+   - Entity-Control-Boundary
 - ECO
    - Extended Commitment Ordering
 - ELK
@@ -273,6 +280,8 @@
    - Hexadecimal
 - HIPAA
    - Health Insurance Portability and Accountability Act
+- HMVC
+   - Hierarchical Model–View–Controller
 - HR
    - Human Resources
 - HRM
@@ -381,12 +390,20 @@
    - Mean Time To Repair
    - Mean Time To Respond
    - Mean Time To Resolve
+- MVA
+   - Model–View–Adapter
+- MVC
+   - Model–View–Controller
 - MVCC
    - Multi-Version concurrency control
 - MVCO
    - Multi-Version Commitment Ordering
 - MVNO
    - Mobile Virtual Network Operator
+- MVP
+   - Model–View–Presenter
+- MVVM
+   - Model–View–View Model
 
 ### N
 - NaaS
@@ -432,6 +449,8 @@
 ### P
 - PaaS / aPaaS
    - Platform as a Service / application Platform as a Service
+- PAC
+   - Presentation–Abstraction–Control
 - PBI
    - Product Backlog Item
 - PC
