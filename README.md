@@ -278,6 +278,8 @@
    - JavaScript Object Notation
 
 ### K
+- KMS
+   - Key Management Service
 - KPI
    - Key Performance Indicator
 
@@ -504,6 +506,8 @@
    - User Acceptance Testing
 - UCaaS
    - Unified Communication as a Service
+- UDDI
+   - Universal Description, Discovery and Integration
 - UDP
    - User Datagram Protocol
 - UML
@@ -531,7 +535,9 @@
 - WIP
    - Work In Progress
 - WS
-   - web Service
+   - Web Service
+- WSDL
+   - Web Service Description Language
 
 ### X
 - XML
@@ -593,6 +599,7 @@
 ### (X)MS
 - CMS
 - DBMS
+- KMS
 - TMS
 - LMS
 
