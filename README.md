@@ -121,6 +121,8 @@
    - Certificate Management Protocol
 - CMS
    - Content Management System
+- CO
+   - Commitment Ordering
 - COO
    - Chief Operating Officer / Chief Operation Officer
 - CPU
@@ -367,6 +369,8 @@
    - Mean Time To Repair
    - Mean Time To Respond
    - Mean Time To Resolve
+- MVCC
+   - Multiversion concurrency control
 - MVNO
    - Mobile Virtual Network Operator
 
@@ -492,6 +496,8 @@
 - SCM
    - Software Configuration Management
    - Supply Chain Management
+- SCO
+   - Strict Commitment Ordering
 - SDK
    - Software Development Kits
 - SDLC
@@ -538,6 +544,10 @@
    - Secure Sockets Layer
 - SSO
    - Single Sign-On
+- SS2PL
+   - Strong Strict 2-Phase Locking
+- S2PL
+   - Strict 2-Phase Locking
 
 ### T
 - TCC
@@ -558,6 +568,8 @@
    - Translation Management System
 - TPM
    - Technical Program Manager
+- TO
+   - Timestamp Ordering
 - TPS
    - Transactions Per Second
 - TSV
@@ -620,6 +632,8 @@
 ### 2
 - 2PC
    - Two-Phase Commit
+- 2PL
+   - Two-phase Locking
 
 ### 3
 - 3PC
