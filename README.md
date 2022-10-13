@@ -225,6 +225,8 @@
 ### H
 - HDD
    - Hard Disk Drive
+- Hex
+   - Hexadecimal
 - HIPAA
    - Health Insurance Portability and Accountability Act
 - HR
@@ -488,8 +490,6 @@
    - Transport Layer Security
 - TLDR / TL;DR
    - Too Long, Didn't Read
-- TLTR
-   - Too Long to Read
 - TMS
    - Translation Management System
 - TPM
