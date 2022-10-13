@@ -294,8 +294,16 @@
    - Independent Software Vendor
 
 ### J
+- JDBC
+   - Java Database Connectivity
+- JDK
+   - Java Development Kit
+- JRE
+   - Java Runtime Environment
 - JSON
    - JavaScript Object Notation
+- JVM
+   - Java Virtual Machine
 
 ### K
 - KMS
