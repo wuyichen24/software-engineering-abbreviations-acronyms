@@ -171,7 +171,7 @@
 - EC
    - Eventual Consistency
 - ELK
-   - Elasticsearch, Logstash, and Kibana
+   - Elasticsearch, Logstash, and Kibana (tech stack)
 - ELT
    - Extract, Load, and Transform
 - EMV
@@ -286,8 +286,12 @@
    - Key Performance Indicator
 
 ### L
+- LAMP
+   - Linux, Apache, MySQL, PHP/Perl/Python (tech stack)
 - LAN
    - Local Area Network
+- LCME
+   - Linux, Yaws, CouchDB, Erlang (tech stack)
 - LDAP 
    - Lightweight Directory Access Protocol
 - LGTM
@@ -296,10 +300,16 @@
    - Last In, First Out
 - LMS
    - Learning Management System
+- LYME
+   - Linux, Yaws, Mnesia, Erlang (tech stack)
 
 ### M
 - MBaaS / BaaS
    - Mobile backend as a service / Backend as a Service
+- MEAN
+   - MongoDB, Express.js, AngularJS and Node.js (tech stack)
+- MERN
+   - MongoDB, Express.js, React and Node.js (tech stack)
 - MFA
    - Multi-Factor Authentication
 - ML
@@ -787,6 +797,14 @@
 - ORM
 - SDK
 - IDE
+
+### Tech stack
+- LAMP
+- ELK
+- LYME
+- LCME
+- MEAN
+- MERN
 
 ## References
 - https://adr.github.io/
