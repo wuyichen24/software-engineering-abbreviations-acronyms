@@ -669,6 +669,25 @@
 - DCL
 - WAL
 
+### Data engineering
+- DW /DWH
+- ETL
+- ELT
+- ELK
+
+### Data interchange format
+- XML
+- JSON
+- CSV
+- TSV
+- DSV
+
+### Data-related language
+- DDL
+- DQL
+- DML
+- DCL
+
 ### Incident metrics
 - MTBF: Mean Time Before Failure
 - MTTA: Mean Time To Acknowledge
@@ -721,13 +740,6 @@
 - AML
 - FACTA
 - HIPPA
-
-### Data interchange format
-- XML
-- JSON
-- CSV
-- TSV
-- DSV
 
 ### Communication
 - Synchronous
@@ -793,12 +805,6 @@
 - RAM: Random Access Memory
 - ROM: Read Only Memory
 
-### Data engineering
-- DW /DWH
-- ETL
-- ELT
-- ELK
-
 ### Design patterns
 - CQRS
 - BFF
@@ -808,7 +814,12 @@
 - ES
 
 ### Tech stack
+- LAMP
 - ELK
+- LYME
+- LCME
+- MEAN
+- MERN
 
 ### Organization
 - ISO
@@ -824,20 +835,6 @@
 - ORM
 - SDK
 - IDE
-
-### Tech stack
-- LAMP
-- ELK
-- LYME
-- LCME
-- MEAN
-- MERN
-
-### Data-related language
-- DDL
-- DQL
-- DML
-- DCL
 
 ## References
 - https://adr.github.io/
