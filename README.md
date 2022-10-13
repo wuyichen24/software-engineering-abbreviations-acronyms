@@ -100,6 +100,8 @@
    - Change Data Capture
 - CDN
    - Content Delivery Network
+- CDT
+   - Central Daylight Time
 - CEO
    - Chief Executive Officer
 - CFD
@@ -141,6 +143,8 @@
    - Cloud Service Provider
 - CSS
    - Cascading Style Sheets
+- CST
+   - Central Standard Time
 - CSV
    - Comma-Separated Values
 - CTO
@@ -188,6 +192,8 @@
    - Disaster Recovery
 - DRP
    - Disaster Recovery Plan
+- DST
+   - Daylight Saving Time
 - DSV
    - Delimiter-Separated Values
 - DW / DWH
@@ -225,6 +231,8 @@
    - Enterprise Resource Planning
 - ES
    - Event Sourcing
+- EST
+   - Eastern Time Zone
 - ETA
    - Estimated Time of Arrival
 - ETL
@@ -249,6 +257,8 @@
 ### G
 - GCP
    - Google Cloud Platform
+- GMT
+   - Greenwich Mean Time
 - GNU
    - An extensive collection of free software
 - GSM
@@ -450,6 +460,8 @@
    - Protocol Buffers
 - PSP
    - Payment Service Provider
+- PST
+   - Pacific Time Zone
 - PTE
    - Part-Time Employee
 - PTO
@@ -604,6 +616,8 @@
    - Uniform Resource Identifier
 - URL
    - Uniform Resource Locator
+- UTC
+   - Coordinated Universal Time
 - UTF-8
    - Unicode  Transformation Format - 8-bit
 - UX
@@ -880,6 +894,15 @@
 - ORM
 - SDK
 - IDE
+
+### Timezone
+- UTC
+- GMT
+- PST
+- EST
+- CST
+- CDT
+- DST
 
 ### Business
 - BC: Business Continuity
