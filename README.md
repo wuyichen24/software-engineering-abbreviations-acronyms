@@ -532,6 +532,8 @@
    - Uniform Resource Identifier
 - URL
    - Uniform Resource Locator
+- UTF-8
+   - Unicode  Transformation Format - 8-bit
 - UX
    - User Experience
 
