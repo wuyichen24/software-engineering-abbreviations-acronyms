@@ -521,6 +521,8 @@
    - Simple Object Access Protocol
 - SOP
    - Standard Operating Procedure
+- SPOF
+   - Single Point Of Failure
 - SQA
    - Software Quality Assurance
 - SQL
@@ -544,6 +546,10 @@
    - Transmission Control Protocol
 - TDD
    - Test Driven Development
+- TL
+   - Tech Lead
+- TLM
+   - Tech Lead Manager
 - TLS
    - Transport Layer Security
 - TLDR / TL;DR
