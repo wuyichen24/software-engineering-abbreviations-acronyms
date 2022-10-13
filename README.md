@@ -196,6 +196,8 @@
 ### E
 - EC
    - Eventual Consistency
+- ECO
+   - Extended Commitment Ordering
 - ELK
    - Elasticsearch, Logstash, and Kibana (tech stack)
 - ELT
@@ -370,7 +372,9 @@
    - Mean Time To Respond
    - Mean Time To Resolve
 - MVCC
-   - Multiversion concurrency control
+   - Multi-Version concurrency control
+- MVCO
+   - Multi-Version Commitment Ordering
 - MVNO
    - Mobile Virtual Network Operator
 
@@ -385,6 +389,10 @@
 ### O
 - OAuth
    - Open Authorization
+- OCC
+   - Optimistic Concurrency Control (optimistic locking)
+- OCO
+   - Optimistic Commitment Ordering
 - ODBC
    - Open Database Connectivity
 - OLAP
@@ -844,6 +852,21 @@
 - MEAN
 - MERN
 - MEVN
+
+### Concurrency control
+- Categories
+   - OCC: Optimistic Concurrency Control
+- Methods
+   - 2PL
+   - S2PL
+   - SS2PL
+   - TO
+   - CO
+   - SCO
+   - OCO
+   - ECO
+   - MVCC
+   - MVCO
 
 ### Organization
 - ISO
