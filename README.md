@@ -41,6 +41,8 @@
    - Application Lifecycle Management
 - AML
    - Anti-Money Laundering
+- AOF
+   - Append Only File
 - API
    - Application Programming Interface
 - APM
@@ -243,6 +245,10 @@
 ### G
 - GCP
    - Google Cloud Platform
+- GNU
+   - An extensive collection of free software
+- GSM
+   - Goals, Signals and Measures (framework)
 - GUI
    - Graphical User Interface
 
@@ -342,6 +348,8 @@
    - MongoDB, Express.js, AngularJS and Node.js (tech stack)
 - MERN
    - MongoDB, Express.js, React and Node.js (tech stack)
+- MEVN
+   - MongoDB, Express.js, VueJS, Node.js (tech stack)
 - MFA
    - Multi-Factor Authentication
 - ML
@@ -418,6 +426,8 @@
 - POC / PoC
    - Proof of Concept
    - Point of Contact
+- POJO
+   - Plain Old Java Object
 - POV/ PoV
    - Proof of Value
 - PR
@@ -813,6 +823,7 @@
 - LCME
 - MEAN
 - MERN
+- MEVN
 
 ### Organization
 - ISO
