@@ -514,6 +514,8 @@
    - Tab-Separated Values
 - TTL
    - Time to Live
+- TTP
+   - Trusted Third Party
 
 ### U
 - UAT
