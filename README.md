@@ -661,7 +661,10 @@
 - CAP theorem
 - CRUD
 - SQL
+- DDL
 - DQL
+- DML
+- DCL
 - WAL
 
 ### Incident metrics
