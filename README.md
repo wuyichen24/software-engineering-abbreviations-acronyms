@@ -211,6 +211,8 @@
    - Data WareHouse (Same with DW)
 
 ### E
+- EAI
+   - Enterprise Application Integration
 - EBC
    - Entity-Boundary-Control (Same with ECB)
 - EC
@@ -219,6 +221,10 @@
    - Entity-Control-Boundary
 - ECO
    - Extended Commitment Ordering
+- EDH
+   - Enterprise Data Hub
+- EDW
+   - Enterprise Data Warehouse (Same with DW)
 - ELK
    - Elasticsearch, Logstash, and Kibana (tech stack)
 - ELT
@@ -246,6 +252,8 @@
    - Enterprise Resource Planning
 - ES
    - Event Sourcing
+- ESB
+    - Enterprise Service Bus
 - EST
    - Eastern Time Zone
 - ETA
@@ -381,6 +389,8 @@
 ### M
 - MBaaS / BaaS
    - Mobile backend as a service / Backend as a Service
+- MDM
+   - Master Data Management
 - MEAN
    - MongoDB, Express.js, AngularJS and Node.js (tech stack)
 - MERN
@@ -389,6 +399,8 @@
    - MongoDB, Express.js, VueJS, Node.js (tech stack)
 - MFA
    - Multi-Factor Authentication
+- MFT
+   - Managed File Transfer
 - ML
    - Machine Learning
 - MQ
@@ -426,6 +438,8 @@
    - Negative-Acknowledgement
 - NIT / nit
    - nit-pick / nitpicking / Nitpick
+- NLP
+   - Natural Language Processing
 
 ### O
 - OAuth
@@ -436,8 +450,12 @@
    - Optimistic Commitment Ordering
 - ODBC
    - Open Database Connectivity
+- ODS
+   - Operational Data Store
 - OLAP
    - Online Analytical Processing
+- OLEP
+   - Online Event Processing
 - OLTP
    - Online Transaction Processing
 - OMT
@@ -580,6 +598,8 @@
    - Short Message Service
 - SMTP
    - Simple Mail Transfer Protocol
+- SOA
+   - Service-Oriented Architecture
 - SOAP
    - Simple Object Access Protocol
 - SOP
@@ -615,6 +635,8 @@
    - Transmission Control Protocol
 - TDD
    - Test Driven Development
+- TDS
+   - Transaction Data Store
 - TL
    - Tech Lead
 - TLM
