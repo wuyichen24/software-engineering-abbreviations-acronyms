@@ -42,6 +42,8 @@
    - Application Lifecycle Management
 - AML
    - Anti-Money Laundering
+- AMQP
+   - Advanced Message Queuing Protocol
 - AOF
    - Append Only File
 - API
@@ -107,6 +109,8 @@
    - Central Daylight Time
 - CEO
    - Chief Executive Officer
+- CEP
+   - Complex Event Processing
 - CFD
    - Control-Flow Diagram
    - Cumulative Flow Diagram
@@ -199,8 +203,12 @@
    - Daylight Saving Time
 - DSV
    - Delimiter-Separated Values
-- DW / DWH
-   - Data Warehouse 
+- DUT
+   - Device Under Test
+- DW
+   - Data Warehouse
+- DWH
+   - Data Warehouse
 
 ### E
 - EBC
@@ -244,6 +252,8 @@
    - Estimated Time of Arrival
 - ETL
    - Extract, Transform, and Load
+- EUT
+   - Equipment Under Test
 
 ### F
 - FaaS
@@ -333,6 +343,8 @@
    - Java Database Connectivity
 - JDK
    - Java Development Kit
+- JMS
+   - Java Message Service
 - JRE
    - Java Runtime Environment
 - JSON
@@ -351,6 +363,8 @@
    - Linux, Apache, MySQL, PHP/Perl/Python (tech stack)
 - LAN
    - Local Area Network
+- LB
+   - Load Balancer
 - LCME
    - Linux, Yaws, CouchDB, Erlang (tech stack)
 - LDAP 
@@ -587,6 +601,8 @@
    - Secure Sockets Layer
 - SSO
    - Single Sign-On
+- SUT
+   - System Under Test
 - SS2PL
    - Strong Strict 2-Phase Locking
 - S2PL
@@ -641,6 +657,8 @@
    - Coordinated Universal Time
 - UTF-8
    - Unicode  Transformation Format - 8-bit
+- UUT
+   - Unit Under Test
 - UX
    - User Experience
 
@@ -824,6 +842,7 @@
 
 ### OSI model
 - Layer 7: Application layer
+   - AMQP
    - DHCP
    - DNS
    - FTP
