@@ -208,7 +208,7 @@
 - DW
    - Data Warehouse
 - DWH
-   - Data Warehouse
+   - Data WareHouse (Same with DW)
 
 ### E
 - EBC
