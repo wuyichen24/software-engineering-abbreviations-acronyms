@@ -741,6 +741,12 @@
 - ISP
 - PSP
 
+### (X)UT
+- DUT: Device Under Test
+- EUT: Equipment Under Test
+- SUT: System Under Test
+- UUT: Unit Under Test
+
 ----
 
 ## Group by topic
