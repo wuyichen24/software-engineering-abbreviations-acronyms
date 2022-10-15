@@ -842,27 +842,29 @@
 
 ## Group by topic
 ### Database
-- DBA
-- DBMS
-- RDBMS
-- ACID
-- PK
-- FK
-- BLOB
-- CLOB
-- CAP theorem
-- CRUD
-- SQL
-- DDL
-- DQL
-- DML
-- DCL
-- WAL
-- JDBC
-- ODBC
+- DBA: Database Administrator
+- DBMS: Database Management System
+- RDBMS: Relational Database Management System
+- ACID: Atomicity, Consistency, Isolation, and Durability
+- PK: Primary Key
+- FK: Foreign Key
+- BLOB: Binary Large OBject
+- CLOB: Character Large OBject
+- CAP theorem: Consistency, Availability and Partition tolerance
+- CRUD: Create, Read, Update and Delete
+- SQL: Structured Query Language
+- DDL: Data Definition Language
+- DQL: Database Query Language
+- DML: Data Manipulation Language
+- DCL: Data Control Language
+- WAL: Write-Ahead Logging (PostgreSQL)
+- JDBC: Java Database Connectivity
+- ODBC: Open Database Connectivity
 
 ### Data engineering
-- DW /DWH
+- DW
+- DWH
+- EWD
 - ETL
 - ELT
 - ELK
