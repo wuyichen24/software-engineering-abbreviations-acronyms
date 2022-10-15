@@ -62,6 +62,8 @@
    - Amazon Web Services
 
 ### B
+- BAN
+   - Body Area Network
 - BASE
    - Basically Available, Soft state, Eventually consistent
 - BC
@@ -94,10 +96,12 @@
 ### C
 - CA
    - Certificate Authority / Certification Authority
-- CAP theorem
-   - Consistency, Availability and Partition tolerance
 - CaaS
    - Container as a Service
+- CAP theorem
+   - Consistency, Availability and Partition tolerance
+- CAN
+   - Campus Area Network
 - CBD
    - Component-Based Development (Same with CBSE)
 - CBSE
@@ -291,6 +295,8 @@
    - File Transfer Protocol
 
 ### G
+- GAN
+   - Global Area Network
 - GCP
    - Google Cloud Platform
 - GMT
@@ -303,6 +309,8 @@
    - Graphical User Interface
 
 ### H
+- HAN
+   - Home Area Network
 - HDD
    - Hard Disk Drive
 - Hex
@@ -400,6 +408,8 @@
    - Linux, Yaws, Mnesia, Erlang (tech stack)
 
 ### M
+- MAN
+   - Metropolitan Area Network
 - MBaaS / BaaS
    - Mobile backend as a service / Backend as a Service
 - MDM
@@ -445,6 +455,8 @@
    - Model–View–Presenter
 - MVVM
    - Model–View–View Model
+- MWN
+   - Municipal Wireless Network
 
 ### N
 - NaaS
@@ -500,6 +512,8 @@
    - Platform as a Service / application Platform as a Service
 - PAC
    - Presentation–Abstraction–Control
+- PAN
+   - Personal Area Network
 - PBI
    - Product Backlog Item
 - PC
@@ -562,6 +576,8 @@
    - Redundant Array of Inexpensive Disks / Redundant Array of Independent Disks
 - RAM
    - Random Access Memory
+- RAN
+   - Religious Area Network
 - regex / regexp
    - Regular Expression
 - RCA
@@ -585,6 +601,8 @@
 ### S
 - SaaS
    - Software as a Service
+- SAN
+   - Storage Area Network
 - SBA
    - Space-Based Architecture
 - SCA
@@ -711,6 +729,8 @@
 ### V
 - VA
    - Validation Authority
+- VLAN
+   - Virtual LAN (Local Area Network)
 - VPN
    - Virtual Private Network
 - V&V
@@ -721,8 +741,12 @@
    - Write-Ahead Logging (PostgreSQL)
 - WAN
    - Wide Area Network
+- WBAN
+   - Wireless BAN (Body Area Network)
 - WIP
    - Work In Progress
+- WLAN
+   - Wireless LAN (Local Area Network)
 - WS
    - Web Service
 - WSDL
