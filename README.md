@@ -329,6 +329,8 @@
    - Infrastructure as a Service
 - IC
    - Individual Contributor
+- ICN
+   - Information-Centric Networking
 - IDE
    - Integrated Development Environment
 - IDL
