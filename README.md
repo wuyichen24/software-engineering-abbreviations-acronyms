@@ -882,8 +882,20 @@
 - SLO
 
 ### Network
-- LAN
-- WAN
+- GAN: Global Area Network
+- WAN: Wide Area Network
+- RAN: Religious Area Network
+- MAN: Metropolitan Area Network
+   - MWN: Municipal Wireless Network
+- CAN: Campus Area Network
+- HAN: Home Area Network
+- LAN: Local Area Network
+   - SAN: Storage Area Network
+   - WLAN: Wireless LAN (Local Area Network)
+   - VLAN: Virtual LAN (Local Area Network)
+- PAN: Personal Area Network
+- BAN: Body Area Network
+   - WBAN: Wireless BAN (Body Area Network)
 - VPN
 
 ### OSI model
@@ -988,8 +1000,6 @@
 - ECB: Entity-Control-Boundary
 - EBC: Entity-Boundary-Control (Same with ECB)
 - BCE: Boundary-Control-Entity (Same with ECB)
-
-
 
 ### Organization
 - ISO
