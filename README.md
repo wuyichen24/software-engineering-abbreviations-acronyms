@@ -593,12 +593,16 @@
    - Request For Comments
 - RPC
    - Remote Procedure Call
+- RPO
+   - Recovery Point Objective
 - ROM
    - Read Only Memory
 - RSA
    - Rivest–Shamir–Adleman
 - RT
    - Response Time
+- RTO
+   - Recovery Time Objective
 - R&D
    - Research and Development
 
