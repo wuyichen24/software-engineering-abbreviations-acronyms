@@ -798,11 +798,11 @@
 - SLO: Service Level Objective
 
 ### (X)aaS
-- SaaS
-- FaaS
-- DaaS
-- DBaaS
-- PaaS / aPaaS
+- SaaS: Software as a Service
+- FaaS: Function as a Service
+- DaaS: Data as a Service / Destop as a Service
+- DBaaS: Database as a Service
+- PaaS: Platform as a Service
 - CaaS
 - IaaS
 
