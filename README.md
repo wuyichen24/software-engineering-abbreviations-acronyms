@@ -46,6 +46,8 @@
    - Advanced Message Queuing Protocol
 - AOF
    - Append Only File
+- aPaaS
+   - application Platform as a Service (Same with PaaS)
 - API
    - Application Programming Interface
 - APM
@@ -508,8 +510,8 @@
    - Object Storage Service (Alibaba Cloud)
 
 ### P
-- PaaS / aPaaS
-   - Platform as a Service / application Platform as a Service
+- PaaS
+   - Platform as a Service
 - PAC
    - Presentation–Abstraction–Control
 - PAN
