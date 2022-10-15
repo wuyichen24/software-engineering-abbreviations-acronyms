@@ -892,12 +892,12 @@
 - MTTR: Mean Time To Recovery/Repair/Respond/Resolve
 
 ### Risk management
-- DR
-- DRP
-- BC
-- BCP
-- RTO
-- RPO
+- DR: Disaster Recovery
+- DRP: Disaster Recovery Plan
+- BC: Business Continuity
+- BCP: Business Continuity Planning
+- RTO: Recovery Time Objective
+- RPO: Recovery Point Objective
 - MTPoD: Maximum Tolerable Period of Disruption
 - MTD: Maximum Tolerable Downtime
 - MTO: Maximum Tolerable Outage
