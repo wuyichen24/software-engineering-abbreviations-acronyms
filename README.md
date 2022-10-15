@@ -805,31 +805,32 @@
 - DaaS: Data as a Service / Destop as a Service
 - DBaaS: Database as a Service
 - PaaS: Platform as a Service
-- CaaS
-- IaaS
+- CaaS: Container as a Service
+- IaaS: Infrastructure as a Service
+- aPaaS: application Platform as a Service (Same with PaaS)
 
 ### (X)DD
-- TDD
-- BDD
-- DDD
+- TDD: Test Driven Development
+- BDD: Behavior-Driven Development
+- DDD: Domain Driven Design
 
 ### (X)MS
-- CMS
-- DBMS
-- KMS
-- TMS
-- LMS
+- CMS: Content Management System
+- DBMS: Database Management System
+- KMS: Key Management Service
+- TMS: Translation Management System
+- LMS: Learning Management System
 
 ### (X)PS
-- TPS
-- QPS
-- bps
-- Bps
+- TPS: Transactions Per Second
+- QPS: Query Per Second
+- bps: bits per second
+- Bps: Bytes per second
 
 ### (X)SP
-- CSP
-- ISP
-- PSP
+- CSP: Cloud Service Provider
+- ISP: Internet Service Provider
+- PSP: Payment Service Provider
 
 ### (X)UT
 - DUT: Device Under Test
