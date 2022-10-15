@@ -873,15 +873,15 @@
 - XML: Extensible Markup Language
 - JSON: JavaScript Object Notation
 - BSON: Binary JSON (JavaScript Object Notation)
-- CSV
-- TSV
-- DSV
+- CSV: Comma-Separated Values
+- TSV: Tab-Separated Values
+- DSV: Delimiter-Separated Values
 
 ### Data-related language
-- DDL
-- DQL
-- DML
-- DCL
+- DDL: Data Definition Language
+- DQL: Database Query Language
+- DML: Data Manipulation Language
+- DCL: Data Control Language
 
 ### Incident metrics
 - MTBF: Mean Time Before Failure
@@ -907,9 +907,9 @@
 - TRA: Threat and Risk Analysis
 
 ### Service level terminologies
-- SLA
-- SLI
-- SLO
+- SLA: Service Level Agreement
+- SLI: Service Level Indicator
+- SLO: Service Level Objective
 
 ### Network
 - GAN: Global Area Network
