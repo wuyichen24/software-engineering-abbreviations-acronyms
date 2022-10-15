@@ -776,12 +776,12 @@
 
 ## Group by prefix or suffix
 ### C(X)O
-- CEO
-- CFO
-- COO
-- CTO
-- CMO
-- CSO
+- CEO: Chief Executive Officer
+- CFO: Chief Financial Officer
+- COO: Chief Operating Officer / Chief Operation Officer
+- CTO: Chief Technology Officer
+- CMO: Chief Marketing Officer
+- CSO: Chief Security Officer
 
 ### EO(X)
 - EOD: End of Day
@@ -793,9 +793,9 @@
 - EOW: End of Week
 
 ### SL(X)
-- SLA
-- SLI
-- SLO
+- SLA: Service Level Agreement
+- SLI: Service Level Indicator
+- SLO: Service Level Objective
 
 ### (X)aaS
 - SaaS
