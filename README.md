@@ -98,6 +98,10 @@
    - Consistency, Availability and Partition tolerance
 - CaaS
    - Container as a Service
+- CBD
+   - Component-Based Development (Same with CBSE)
+- CBSE
+   - Component-Based Software Engineering
 - CD
    - Continuous Delivery
    - Continuous Deployment
@@ -181,8 +185,11 @@
    - Data Flow Diagram
 - DHCP
    - Dynamic Host Configuration Protocol
+- DHT
+   - Distributed Hash Table
 - DM
    - Direct Message
+   - Dimensional Modeling
 - DML
    - Data Manipulation Language
 - DND
@@ -221,6 +228,8 @@
    - Entity-Control-Boundary
 - ECO
    - Extended Commitment Ordering
+- EDA
+   - Event-Driven Architecture
 - EDH
    - Enterprise Data Hub
 - EDW
@@ -253,7 +262,9 @@
 - ES
    - Event Sourcing
 - ESB
-    - Enterprise Service Bus
+   - Enterprise Service Bus
+- ESP
+   - Event Stream Processing
 - EST
    - Eastern Time Zone
 - ETA
@@ -403,6 +414,8 @@
    - Managed File Transfer
 - ML
    - Machine Learning
+- MOM
+   - Message-Oriented Middleware
 - MQ
    - Message Queue
 - MTBF
@@ -470,6 +483,8 @@
    - Out Of Office
 - OOP
    - Object-Oriented Programming
+- ORB
+   - Object Request Broker
 - ORM
    - Object–Relational Mapping
 - OSI
@@ -568,6 +583,10 @@
 ### S
 - SaaS
    - Software as a Service
+- SBA
+   - Space-Based Architecture
+- SCA
+   - Service Component Architecture
 - SCM
    - Software Configuration Management
    - Supply Chain Management
@@ -598,6 +617,9 @@
    - Short Message Service
 - SMTP
    - Simple Mail Transfer Protocol
+- SN
+   - Shared-Nothing (architecture)
+   - Serial Number
 - SOA
    - Service-Oriented Architecture
 - SOAP
