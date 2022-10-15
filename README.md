@@ -930,24 +930,24 @@
 
 ### OSI model
 - Layer 7: Application layer
-   - AMQP
-   - DHCP
-   - DNS
-   - FTP
-   - HTTP
-   - HTTPS
-   - IMAP
-   - LDAP
-   - SFTP
-   - SMTP
-   - SSH
+   - AMQP: Advanced Message Queuing Protocol
+   - DHCP: Dynamic Host Configuration Protocol
+   - DNS: Domain Name System
+   - FTP: File Transfer Protocol
+   - HTTP: Hypertext Transfer Protocol
+   - HTTPS: Hypertext Transfer Protocol Secure
+   - IMAP: Internet Message Access Protocol
+   - LDAP: Lightweight Directory Access Protocol
+   - SFTP: SSH File Transfer Protocol / Secure File Transfer Protocol
+   - SMTP: Simple Mail Transfer Protocol
+   - SSH: Secure Shell (protocol)
 - Layer 4: Transport layer
-   - TCP
-   - UDP
+   - TCP: Transmission Control Protocol
+   - UDP: User Datagram Protocol
 - Layer 3: Network layer
-   - IP
-   - IPv4
-   - IPv6
+   - IP: Internet Protocol
+   - IPv4: IP (Internet Protocol) version 4
+   - IPv6: IP (Internet Protocol) version 6
 
 ### Compliance
 - AML
