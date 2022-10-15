@@ -862,16 +862,17 @@
 - ODBC: Open Database Connectivity
 
 ### Data engineering
-- DW
-- DWH
-- EWD
-- ETL
-- ELT
-- ELK
+- DW: Data Warehouse
+- DWH: Data WareHouse (Same with DW)
+- EWD: Enterprise Data Warehouse (Same with DW)
+- ETL: Extract, Transform, and Load
+- ELT: Extract, Load, and Transform
+- ELK: Elasticsearch, Logstash, and Kibana (tech stack)
 
 ### Data interchange format
-- XML
-- JSON
+- XML: Extensible Markup Language
+- JSON: JavaScript Object Notation
+- BSON: Binary JSON (JavaScript Object Notation)
 - CSV
 - TSV
 - DSV
