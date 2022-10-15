@@ -582,6 +582,8 @@
    - Religious Area Network
 - regex / regexp
    - Regular Expression
+- REST
+   - Representational State Transfer
 - RCA
    - Root Cause Analysis
 - RDBMS
@@ -950,27 +952,27 @@
    - IPv6: IP (Internet Protocol) version 6
 
 ### Compliance
-- AML
-- FACTA
-- HIPPA
+- AML: Anti-Money Laundering
+- FACTA: Fair and Accurate Credit Transactions Act
+- HIPPA: Health Insurance Portability and Accountability Act
 
 ### Communication
 - Synchronous
    - Web service
-      - REST
-      - SOAP
-   - RPC
+      - REST: Representational State Transfer
+      - SOAP: Simple Object Access Protocol
+   - RPC: Remote Procedure Call
 - Asynchronous
-   - MQ
+   - MQ: Message Queue
 
 ### Scrum / Agile
-- AC
+- AC: Acceptance Criteria
 - APM: Agile Project Management
-- PBI
+- PBI: Product Backlog Item
 
 ### Cloud service provider
-- AWS
-- GCP
+- AWS: Amazon Web Services
+- GCP: Google Cloud Platform
 
 ### Diagram
 - CFD: Control-Flow Diagram
@@ -980,19 +982,18 @@
 - SSD: System Sequence Diagram
 
 ### Hardware
-- CPU
-- HDD
+- CPU: Central Processing Unit
+- HDD: Hard Disk Drive
 - SSD: Solid-State Drive
 - RAM: Random Access Memory
 - ROM: Read Only Memory
 
 ### Design patterns
-- CQRS
-- BFF
-- ES
-- ACL
-- TCC
-- ES
+- CQRS: Command and Query Responsibility Segregation
+- BFF: Backend for Frontend
+- ES: Event Sourcing
+- ACL: Anti-Corruption Layer
+- TCC: Try-Confirm/Cancel
 
 ### Tech stack
 - LAMP
