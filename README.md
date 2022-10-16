@@ -520,7 +520,7 @@
 - MVC
    - Model–View–Controller
 - MVCC
-   - Multi-Version concurrency control
+   - Multi-Version Concurrency Control
 - MVCO
    - Multi-Version Commitment Ordering
 - MVNO
@@ -1134,29 +1134,29 @@
 - TCC: Try-Confirm/Cancel
 
 ### Tech stack
-- LAMP
-- ELK
-- LYME
-- LCME
-- MEAN
-- MERN
-- MEVN
+- LAMP: Linux, Apache, MySQL, PHP/Perl/Python (tech stack)
+- ELK: Elasticsearch, Logstash, and Kibana (tech stack)
+- LYME: Linux, Yaws, Mnesia, Erlang (tech stack)
+- LCME: Linux, Yaws, CouchDB, Erlang (tech stack)
+- MEAN: MongoDB, Express.js, AngularJS and Node.js (tech stack)
+- MERN: MongoDB, Express.js, React and Node.js (tech stack)
+- MEVN: MongoDB, Express.js, VueJS, Node.js (tech stack)
 
 ### Concurrency control
 - Categories
-   - OCC: Optimistic Concurrency Control
-   - PCC
+   - OCC: Optimistic Concurrency Control (Optimistic locking)
+   - PCC: Pessimistic Concurrency Control (Pessimistic locking)
 - Methods
-   - 2PL
-   - S2PL
-   - SS2PL
-   - TO
-   - CO
-   - SCO
-   - OCO
-   - ECO
-   - MVCC
-   - MVCO
+   - 2PL: 2-Phase Locking
+   - S2PL: Strict 2-Phase Locking
+   - SS2PL: Strong Strict 2-Phase Locking
+   - TO: Timestamp Ordering
+   - CO: Commitment Ordering
+   - SCO: Strict Commitment Ordering
+   - OCO: Optimistic Commitment Ordering
+   - ECO: Extended Commitment Ordering
+   - MVCC: Multi-Version Concurrency Control
+   - MVCO: Multi-Version Commitment Ordering
 
 ### Factor-driven software development methodologies
 - AADD: Active-Admin-Driven Development 
@@ -1237,8 +1237,8 @@
 - BCE: Boundary-Control-Entity (Same with ECB)
 
 ### Organization
-- ISO
-- IEEE
+- ISO: International Organization for Standardization
+- IEEE: Institute of Electrical and Electronic Engineers
 
 ### Units of measurement for data storage
 - b: bit
@@ -1261,13 +1261,13 @@
 - TBps: Terabyte per second
 
 ### Timezone
-- UTC
-- GMT
-- PST
-- EST
-- CST
-- CDT
-- DST
+- UTC: Coordinated Universal Time
+- GMT: Greenwich Mean Time
+- PST: Pacific Time Zone
+- EST: Eastern Time Zone
+- CST: Central Standard Time
+- CDT: Central Daylight Time
+- DST: Daylight Saving Time
 
 ### Business
 - BC: Business Continuity
@@ -1275,11 +1275,11 @@
 - B2B: Business to Business
 - B2C: Business to Consumer
 - IP: Intellectual Property
-- KPI
-- R&D
-- SOP
-- UX
-- QBR
+- KPI: Key Performance Indicator
+- R&D: Research and Development
+- SOP: Standard Operating Procedure
+- UX: User Experience
+- QBR: Quarterly Business Review
 
 ### Workspace
 - BRB
