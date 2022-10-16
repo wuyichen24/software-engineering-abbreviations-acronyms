@@ -84,6 +84,8 @@
    - Business Continuity Planning
 - BDD
    - Behavior-Driven Development
+- BDUF
+   - Big Design Up Front (principle)
 - BFF
    - Backend for Frontend
 - BgDD
@@ -114,6 +116,8 @@
    - Consistency, Availability and Partition tolerance
 - CAN
    - Campus Area Network
+- CASE
+   - Computer Aided Software Engineering
 - CBD
    - Component-Based Development (Same with CBSE)
 - CBSE
@@ -191,6 +195,8 @@
 - DaaS
    - Data as a Service
    - Destop as a Service
+- DAD
+   - Disciplined Agile Delivery
 - DBA
    - Database Administrator
 - DBaaS
@@ -325,6 +331,8 @@
    - Foreign Key
 - FP
    - Functional Programming
+- FSM
+   - Finite-State Machine
 - FTE
    - Full-Time Employee
 - FTP
@@ -408,6 +416,8 @@
    - Independent Software Vendor
 
 ### J
+- JAD
+   - Joint Application Design
 - JDBC
    - Java Database Connectivity
 - JDK
@@ -440,6 +450,8 @@
    - Linux, Yaws, CouchDB, Erlang (tech stack)
 - LDAP 
    - Lightweight Directory Access Protocol
+- LeSS
+   - Large-Scale Scrum
 - LGTM
    - Looks Good to Me
 - LIFO
@@ -663,6 +675,8 @@
 ### S
 - SaaS
    - Software as a Service
+- SAFe
+   - Scaled Agile Framework
 - SAN
    - Storage Area Network
 - SAP
