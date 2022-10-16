@@ -1208,6 +1208,18 @@
 - ISO
 - IEEE
 
+### Units of measurement for data storage
+- b: bit
+- B: Byte
+- KB: Kilobyte
+- MB: Megabyte
+- GB: Gigabyte
+- TB: Terabyte
+- PB: Petabyte
+- EB: Exabyte
+- ZB: Zettabyte
+- YB: Yottabyte
+
 ### Timezone
 - UTC
 - GMT
