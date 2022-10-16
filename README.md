@@ -60,8 +60,8 @@
    - American Standard Code for Information Interchange
 - ASR
    - Architecturally Significant Requirement
-- ATD
-   - Acceptance Test Driven Development
+- ATDD
+   - Acceptance Test-Driven Development
 - AWS
    - Amazon Web Services
 
@@ -170,6 +170,8 @@
    - Central Standard Time
 - CSV
    - Comma-Separated Values
+- CTDD
+   - Continuous Test-Driven Development
 - CTO
    - Chief Technology Officer
 
@@ -229,7 +231,7 @@
 - DWH
    - Data WareHouse (Same with DW)
 - D3
-   - Design-driven development
+   - Design-Driven Development
 
 ### E
 - EAI
@@ -295,6 +297,8 @@
    - Fair and Accurate Credit Transactions Act
 - FAQ
    - Frequently Asked Questions
+- FDD
+   - Feature-Driven Development
 - FIFO
    - First In, First Out
 - FK
@@ -692,7 +696,7 @@
 - TCP
    - Transmission Control Protocol
 - TDD
-   - Test Driven Development
+   - Test-Driven Development
 - TDS
    - Transaction Data Store
 - TL
@@ -723,6 +727,8 @@
    - User Acceptance Testing
 - UCaaS
    - Unified Communication as a Service
+- UDD
+   - User-Driven Development (Same with UCD)
 - UDDI
    - Universal Description, Discovery and Integration
 - UDP
@@ -1038,7 +1044,7 @@
 - BgDD: Bug-Driven Development
 - CBD: Component-Based Development (Same with CBSE)
 - CDD: Configuration-Driven Development
-- D3: Design-driven Development
+- D3: Design-Driven Development
 - FDD: Feature-Driven Development
 - TDD: Test-Driven Development
    - ATDD: Acceptance Test-Driven Development
