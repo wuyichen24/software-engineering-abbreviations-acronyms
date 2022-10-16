@@ -623,7 +623,7 @@
 - QC
    - Quality Control
 - QPS
-   - Query Per Second
+   - Queries Per Second
 - QTR
    - Quarterly Tech Review
 
@@ -925,7 +925,7 @@
 
 ### (X)PS
 - TPS: Transactions Per Second
-- QPS: Query Per Second
+- QPS: Queries Per Second
 - bps: bits per second
 - Bps: Bytes per second
 
