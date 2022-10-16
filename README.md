@@ -72,6 +72,10 @@
    - Amazon Web Services
 
 ### B
+- B
+   - Byte
+- b
+   - bit
 - BAN
    - Body Area Network
 - BASE
@@ -264,6 +268,8 @@
 ### E
 - EAI
    - Enterprise Application Integration
+- EB
+   - Exabyte
 - EBC
    - Entity-Boundary-Control (Same with ECB)
 - EC
@@ -343,6 +349,8 @@
 ### G
 - GAN
    - Global Area Network
+- GB
+   - Gigabyte
 - GCP
    - Google Cloud Platform
 - GMT
@@ -434,6 +442,8 @@
    - Java Virtual Machine
 
 ### K
+- KB
+   - Kilobyte
 - KISS
    - Keep It Simple, Stupid! (principle)
 - KMS
@@ -466,6 +476,8 @@
 ### M
 - MAN
    - Metropolitan Area Network
+- MB
+   - Megabyte
 - MBaaS / BaaS
    - Mobile backend as a service / Backend as a Service
 - MDM
@@ -572,6 +584,8 @@
    - Presentation–Abstraction–Control
 - PAN
    - Personal Area Network
+- PB
+   - Petabyte
 - PBI
    - Product Backlog Item
 - PC
@@ -763,6 +777,8 @@
    - Strict 2-Phase Locking
 
 ### T
+- TB
+   - Terabyte
 - TCC
    - Try-Confirm/Cancel
 - TCP
@@ -867,8 +883,12 @@
    - You Aren't Gonna Need It (principle)
 - YAML
    - YAML Ain’t Markup Language (Recursive acronym)
+- YB
+   - Yottabyte
 
 ### Z
+- ZB
+   - Zettabyte
 
 ### 2
 - 2PC
