@@ -58,10 +58,14 @@
    - Application Portfolio Management
 - ASCII
    - American Standard Code for Information Interchange
+- ASD
+   - Adaptive Software Development
 - ASR
    - Architecturally Significant Requirement
 - ATDD
    - Acceptance Test-Driven Development
+- AUP
+   - Agile Unified Process
 - AWS
    - Amazon Web Services
 
@@ -188,7 +192,7 @@
 - DCL
    - Data Control Language
 - DDD
-   - Domain Driven Design
+   - Domain-Driven Design
 - DDL
    - Data Definition Language
 - DDoS
@@ -220,6 +224,8 @@
    - Disaster Recovery
 - DRP
    - Disaster Recovery Plan
+- DSDM
+   - Dynamic Systems Development Method
 - DST
    - Daylight Saving Time
 - DSV
@@ -333,6 +339,8 @@
    - Health Insurance Portability and Accountability Act
 - HMVC
    - Hierarchical Model–View–Controller
+- HOOD
+   - Hierarchic Object-Oriented Design
 - HR
    - Human Resources
 - HRM
@@ -511,6 +519,8 @@
    - Out Of Office
 - OOP
    - Object-Oriented Programming
+- OpenUP
+   - Open Unified Process
 - ORB
    - Object Request Broker
 - ORM
@@ -586,6 +596,10 @@
 ### R
 - RA
    - Registration Authority
+- RAB
+   - Rapid Application Building (Same with RAD)
+- RAD
+   - Rapid Application Development
 - RAID
    - Redundant Array of Inexpensive Disks / Redundant Array of Independent Disks
 - RAM
@@ -615,6 +629,8 @@
    - Response Time
 - RTO
    - Recovery Time Objective
+- RUP
+   - Rational Unified Process
 - R&D
    - Research and Development
 
@@ -674,6 +690,8 @@
    - Structured Query Language
 - SRE
    - Site Reliability Engineering
+- SSADM
+   - Structured Systems Analysis and Design Method
 - SSD
    - Solid-State Drive
    - System Sequence Diagram
@@ -727,6 +745,8 @@
    - User Acceptance Testing
 - UCaaS
    - Unified Communication as a Service
+- UCD
+   - User-Centered Design
 - UDD
    - User-Driven Development (Same with UCD)
 - UDDI
@@ -739,6 +759,8 @@
    - Uniform Resource Identifier
 - URL
    - Uniform Resource Locator
+- USD
+   - Unified Software Development
 - UTC
    - Coordinated Universal Time
 - UTF-8
@@ -751,6 +773,8 @@
 ### V
 - VA
    - Validation Authority
+- VDD
+   - Value-Driven Design
 - VLAN
    - Virtual LAN (Local Area Network)
 - VPN
