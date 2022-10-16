@@ -16,6 +16,8 @@
 
 ## Ordered by alphabet
 ### A
+- AADD
+   - Active-Admin-Driven Development
 - AC
    - Acceptance Criteria
 - ACID
@@ -78,6 +80,8 @@
    - Behavior-Driven Development
 - BFF
    - Backend for Frontend
+- BgDD
+   - Bug-Driven Development
 - BI
    - Business Intelligence
 - BLOB / blob
@@ -113,6 +117,8 @@
    - Continuous Deployment
 - CDC
    - Change Data Capture
+- CDD
+   - Configuration-Driven Development
 - CDN
    - Content Delivery Network
 - CDT
@@ -222,6 +228,8 @@
    - Data Warehouse
 - DWH
    - Data WareHouse (Same with DW)
+- D3
+   - Design-driven development
 
 ### E
 - EAI
@@ -1025,12 +1033,12 @@
    - MVCO
 
 ### Factor-driven software development methodologies
-- AADD: Active-Admin-driven development 
+- AADD: Active-Admin-Driven Development 
 - BDD: Behavior-Driven Development
 - BgDD: Bug-Driven Development
-- CBD: Component-Based development
+- CBD: Component-Based Development (Same with CBSE)
 - CDD: Configuration-Driven Development
-- D3: Design-driven development
+- D3: Design-driven Development
 - FDD: Feature-Driven Development
 - TDD: Test-Driven Development
    - ATDD: Acceptance Test-Driven Development
