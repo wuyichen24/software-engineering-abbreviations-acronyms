@@ -116,6 +116,8 @@
    - Component-Based Development (Same with CBSE)
 - CBSE
    - Component-Based Software Engineering
+- CCP
+   - Common-Closure Principle
 - CD
    - Continuous Delivery
    - Continuous Deployment
@@ -158,8 +160,12 @@
    - Central Processing Unit
 - CQRS
    - Command and Query Responsibility Segregation
+- CQS
+   - Command-Query Separation (principle)
 - CRM
    - Customer Relationship Management
+- CRP
+   - Common-Reuse Principle
 - CRUD
    - Create, Read, Update and Delete
 - CSA
@@ -224,18 +230,24 @@
    - Disaster Recovery
 - DRP
    - Disaster Recovery Plan
+- DRY
+   - Don't Repeat Yourself (principle)
 - DSDM
    - Dynamic Systems Development Method
 - DST
    - Daylight Saving Time
 - DSV
    - Delimiter-Separated Values
+- DTSTTCPW
+   - Do The Simplest Thing That Could Possibly Work (principle)
 - DUT
    - Device Under Test
 - DW
    - Data Warehouse
 - DWH
    - Data WareHouse (Same with DW)
+- DWIM
+   - Do What I Mean (principle)
 - D3
    - Design-Driven Development
 
@@ -323,6 +335,8 @@
    - Greenwich Mean Time
 - GNU
    - An extensive collection of free software
+- GRASP
+   - General Responsibility Assignment Software Patterns
 - GSM
    - Goals, Signals and Measures (framework)
 - GUI
@@ -404,6 +418,8 @@
    - Java Virtual Machine
 
 ### K
+- KISS
+   - Keep It Simple, Stupid! (principle)
 - KMS
    - Key Management Service
 - KPI
@@ -560,7 +576,9 @@
    - Point of Contact
 - POJO
    - Plain Old Java Object
-- POV/ PoV
+- POLA
+   - Principle Of Least Astonishment
+- POV / PoV
    - Proof of Value
 - PR
    - Pull Request
@@ -608,6 +626,10 @@
    - Religious Area Network
 - regex / regexp
    - Regular Expression
+- REP
+   - Reuse-release Equivalence Principle
+- RERO
+   - Release Early, Release Often (principle)
 - REST
    - Representational State Transfer
 - RCA
@@ -680,6 +702,8 @@
    - Service-Oriented Architecture
 - SOAP
    - Simple Object Access Protocol
+- SOLID
+   - Single-responsibility principle, Open–closed principle, Liskov substitution principle, Interface segregation principle, Dependency inversion principle
 - SOP
    - Standard Operating Procedure
 - SPOF
@@ -701,8 +725,12 @@
    - Secure Sockets Layer
 - SSO
    - Single Sign-On
+- SSOT
+   - Single Source Of Truth
 - SUT
    - System Under Test
+- SVOT
+   - Single Version Of Truth
 - SS2PL
    - Strong Strict 2-Phase Locking
 - S2PL
@@ -727,6 +755,8 @@
    - Too Long, Didn't Read
 - TMS
    - Translation Management System
+- TMTOWTDI
+   - There's More Than One Way To Do It (principle)
 - TPM
    - Technical Program Manager
 - TO
@@ -741,6 +771,8 @@
    - Trusted Third Party
 
 ### U
+- UAP
+   - Uniform Access Principle
 - UAT
    - User Acceptance Testing
 - UCaaS
@@ -803,6 +835,8 @@
    - Extensible Markup Language
 
 ### Y
+- YAGNI
+   - You Aren't Gonna Need It (principle)
 - YAML
    - YAML Ain’t Markup Language (Recursive acronym)
 
