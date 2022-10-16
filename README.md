@@ -1252,6 +1252,14 @@
 - ZB: Zettabyte
 - YB: Yottabyte
 
+### Data-rate units
+- bps: bits per second
+- Bps: Bytes per second
+- KBps: Kilobyte per second
+- MBps: Megabyte per second
+- GBps: Gigabyte per second
+- TBps: Terabyte per second
+
 ### Timezone
 - UTC
 - GMT
