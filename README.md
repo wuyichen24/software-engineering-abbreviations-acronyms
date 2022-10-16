@@ -1024,7 +1024,73 @@
    - MVCC
    - MVCO
 
-### Software architectural pattern
+### Factor-driven software development methodologies
+- AADD: Active-Admin-driven development 
+- BDD: Behavior-Driven Development
+- BgDD: Bug-Driven Development
+- CBD: Component-Based development
+- CDD: Configuration-Driven Development
+- D3: Design-driven development
+- FDD: Feature-Driven Development
+- TDD: Test-Driven Development
+   - ATDD: Acceptance Test-Driven Development
+   - CTDD: Continuous Test-Driven Development
+- UDD: User-Driven Development (Same with UCD)
+
+Software development process
+- ASD: Adaptive Software Development
+- USD: Unified Software Development
+   - RUP: Rational Unified Process
+   - OpenUP: Open Unified Process
+   - AUP: Agile Unified Process
+- RAD: Rapid Application Development
+- RAB: Rapid Application Building (Same with RAD)
+- DSDM: Dynamic Systems Development Method
+
+### Software design methodologies
+- DDD: Domain-Driven Design
+- UCD: User-Centered Design
+- VDD: Value-Driven Design
+- SSADM: Structured Systems Analysis and Design Method
+- HOOD: Hierarchic Object-Oriented Design
+
+### Software development principles
+- RERO: Release Early, Release Often (principle)
+- GRASP: General Responsibility Assignment Software Patterns
+- SOLID: Single-responsibility principle, Open–closed principle, Liskov substitution principle, Interface segregation principle, Dependency inversion principle
+- YAGNI: You Aren't Gonna Need It (principle)
+- UAP: Uniform Access Principle
+- TMTOWTDI / TIMTOWTDI: There's More Than One Way To Do It (principle in Perl)
+- DTSTTCPW: Do The Simplest Thing That Could Possibly Work (principle)
+- SSOT: Single Source Of Truth 
+- SVOT: Single Version Of Truth
+- POLA: Principle Of Least Astonishment
+- KISS: Keep It Simple, Stupid! (principle)
+- DRY: Don't Repeat Yourself (principle)
+- DWIM: Do What I Mean (principle)
+- CQS: Command-Query Separation (principle)
+- Package principles
+   - Principles of package cohesion
+      - REP: Reuse-release Equivalence Principle
+      - CRP: Common-Reuse Principle
+      - CCP: Common-Closure Principle
+   - Principles of package coupling
+      - ADP: Acyclic Dependencies Principle
+      - SDP: Stable-Dependencies Principle
+      - SAP: Stable-Abstractions Principle
+
+### Programming paradigms
+- OOP: Object-Oriented Programming
+- FP: Functional Programming
+- XP: Extreme Programming
+
+### Software architecture paradigms
+- EDA: Event-Driven Architecture
+- SBA: Space-Based Architecture
+- SN: Shared-Nothing (architecture)
+- SOA: Service-Oriented Architecture
+
+### Software architectural pattern
 - ADR: Action–Domain–Responder
    - MVC: Model–View–Controller
    - PAC: Presentation–Abstraction–Control
@@ -1039,12 +1105,6 @@
 ### Organization
 - ISO
 - IEEE
-
-### Programming
-- OOP
-- ORM
-- SDK
-- IDE
 
 ### Timezone
 - UTC
