@@ -351,6 +351,8 @@
    - Global Area Network
 - GB
    - Gigabyte
+- GBps
+   - Gigabyte per second
 - GCP
    - Google Cloud Platform
 - GMT
@@ -444,6 +446,8 @@
 ### K
 - KB
    - Kilobyte
+- KBps
+   - Kilobyte per second
 - KISS
    - Keep It Simple, Stupid! (principle)
 - KMS
@@ -480,6 +484,8 @@
    - Megabyte
 - MBaaS / BaaS
    - Mobile backend as a service / Backend as a Service
+- MBps
+   - Megabyte per second
 - MDM
    - Master Data Management
 - MEAN
@@ -779,6 +785,8 @@
 ### T
 - TB
    - Terabyte
+- TBps
+   - Terabyte per second
 - TCC
    - Try-Confirm/Cancel
 - TCP
@@ -954,6 +962,10 @@
 - CPS: Connections Per Second
 - bps: bits per second
 - Bps: Bytes per second
+- KBps: Kilobyte per second
+- MBps: Megabyte per second
+- GBps: Gigabyte per second
+- TBps: Terabyte per second
 
 ### (X)SP
 - CSP: Cloud Service Provider
