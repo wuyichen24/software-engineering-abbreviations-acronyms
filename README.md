@@ -854,9 +854,9 @@
 - aPaaS: application Platform as a Service (Same with PaaS)
 
 ### (X)DD
-- TDD: Test Driven Development
+- TDD: Test-Driven Development
 - BDD: Behavior-Driven Development
-- DDD: Domain Driven Design
+- DDD: Domain-Driven Design
 
 ### (X)MS
 - CMS: Content Management System
