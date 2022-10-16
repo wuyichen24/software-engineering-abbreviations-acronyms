@@ -162,6 +162,8 @@
    - Commitment Ordering
 - COO
    - Chief Operating Officer / Chief Operation Officer
+- CPS
+   - Connections Per Second
 - CPU
    - Central Processing Unit
 - CQRS
@@ -659,6 +661,8 @@
    - Remote Procedure Call
 - RPO
    - Recovery Point Objective
+- RPS
+   - Requests Per Second
 - ROM
    - Read Only Memory
 - RSA
@@ -926,6 +930,8 @@
 ### (X)PS
 - TPS: Transactions Per Second
 - QPS: Queries Per Second
+- RPS: Requests Per Second
+- CPS: Connections Per Second
 - bps: bits per second
 - Bps: Bytes per second
 
