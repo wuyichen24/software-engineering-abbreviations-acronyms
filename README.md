@@ -156,6 +156,8 @@
    - Change List / ChangeList
 - CLOB / clob
    - Character Large OBject
+- CLT
+   - Command Line Tools
 - CMO
    - Chief Marketing Officer
 - CMP
