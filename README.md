@@ -31,6 +31,8 @@
    - Active Directory
    - Architectural Decision
    - Architectural Design
+- ADP
+   - Acyclic Dependencies Principle
 - ADR 
    - Architectural Decision Records
    - Action–Domain–Responder
@@ -321,6 +323,8 @@
    - First In, First Out
 - FK
    - Foreign Key
+- FP
+   - Functional Programming
 - FTE
    - Full-Time Employee
 - FTP
@@ -661,6 +665,8 @@
    - Software as a Service
 - SAN
    - Storage Area Network
+- SAP
+   - Stable-Abstractions Principle
 - SBA
    - Space-Based Architecture
 - SCA
@@ -675,7 +681,9 @@
 - SDLC
    - Systems development Life Cycle
 - SDN
-   - Software Defined Networking
+   - Software-Defined Networking
+- SDP
+   - Stable-Dependencies Principle
 - SECaaS
    - Security as a Service
 - SEO
@@ -833,6 +841,8 @@
 ### X
 - XML
    - Extensible Markup Language
+- XP
+   - Extreme Programming
 
 ### Y
 - YAGNI
