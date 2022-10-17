@@ -1319,6 +1319,8 @@
 - LMK: Let Me Know
 - DOB: Date Of Birth
 - FYI: For Your Information
+- AKA
+- BTW
 - e.g.: for example
 - i.e.: in other words
 
