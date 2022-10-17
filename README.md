@@ -1284,8 +1284,6 @@
 - QBR: Quarterly Business Review
 
 ### Workspace
-- BRB
-- IMO
 - EOD
 - EOW
 - DM
@@ -1300,9 +1298,15 @@
 - IC
 - TPM
 - TLDR / TL;DR
+
+
+### English
+- BRB
+- IMO
 - WIP
 - NIT
 - LGTM
+- IMO
 
 ## References
 - https://adr.github.io/
