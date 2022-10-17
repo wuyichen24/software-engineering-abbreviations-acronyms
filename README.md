@@ -583,6 +583,8 @@
    - Open Database Connectivity
 - ODS
    - Operational Data Store
+- OKR
+   - Objectives and Key Results 
 - OLAP
    - Online Analytical Processing
 - OLEP
@@ -1320,6 +1322,7 @@
 - SOP: Standard Operating Procedure
 - UX: User Experience
 - QBR: Quarterly Business Review
+- OKR: Objectives and Key Results 
 
 ### Roles
 - CEO: Chief Executive Officer
