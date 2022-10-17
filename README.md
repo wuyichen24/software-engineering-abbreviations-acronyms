@@ -1355,28 +1355,28 @@
 - **WFH**: Work From Home
 
 ### English
-- AFAICT: As Far As I Can Tell
-- AFAIK: As Far As I Know
-- AKA: As Known As
-- ASAP: As Soon As Possible
-- BRB: Be Right Back
-- BTW: By The Way
-- DOB: Date Of Birth
-- ETA: Estimated Time of Arrival
-- FAQ: Frequently Asked Questions
-- FWIW: For What It's Worth
-- FYI: For Your Information
-- IIRC: If I Recall/Remember Correctly
-- IMO: In My Opinion
-- IMHO: In My Honest Opinion
-- IOW: In Other Words
-- LGTM: Looks Good to Me
-- LMK: Let Me Know
-- NIT: nit-pick / nitpicking / Nitpick
-- TBA: To Be Announced
-- WIP: Work In Progress
-- e.g.: for example
-- i.e.: in other words
+- **AFAICT**: As Far As I Can Tell
+- **AFAIK**: As Far As I Know
+- **AKA**: As Known As
+- **ASAP**: As Soon As Possible
+- **BRB**: Be Right Back
+- **BTW**: By The Way
+- **DOB**: Date Of Birth
+- **ETA**: Estimated Time of Arrival
+- **FAQ**: Frequently Asked Questions
+- **FWIW**: For What It's Worth
+- **FYI**: For Your Information
+- **IIRC**: If I Recall/Remember Correctly
+- **IMO**: In My Opinion
+- **IMHO**: In My Honest Opinion
+- **IOW**: In Other Words
+- **LGTM**: Looks Good to Me
+- **LMK**: Let Me Know
+- **NIT**: nit-pick / nitpicking / Nitpick
+- **TBA**: To Be Announced
+- **WIP**: Work In Progress
+- **e.g.**: for example
+- **i.e.**: in other words
 
 ## References
 - https://adr.github.io/
