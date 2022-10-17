@@ -1268,6 +1268,13 @@
 - EBC: Entity-Boundary-Control (Same with ECB)
 - BCE: Boundary-Control-Entity (Same with ECB)
 
+### Java
+- JDBC: Java Database Connectivity
+- JDK: Java Development Kit
+- JMS: Java Message Service
+- JRE: Java Runtime Environment
+- JVM: Java Virtual Machine
+
 ### Organization
 - ISO: International Organization for Standardization
 - IEEE: Institute of Electrical and Electronic Engineers
