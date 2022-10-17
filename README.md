@@ -855,93 +855,93 @@
    - Trusted Third Party
 
 ### U
-- UAP
+- **UAP**
    - Uniform Access Principle
-- UAT
+- **UAT**
    - User Acceptance Testing
-- UCaaS
+- **UCaaS**
    - Unified Communication as a Service
-- UCD
+- **UCD**
    - User-Centered Design
-- UDD
+- **UDD**
    - User-Driven Development (Same with UCD)
-- UDDI
+- **UDDI**
    - Universal Description, Discovery and Integration
-- UDP
+- **UDP**
    - User Datagram Protocol
-- UML
+- **UML**
    - Unified Modeling Language
-- URI
+- **URI**
    - Uniform Resource Identifier
-- URL
+- **URL**
    - Uniform Resource Locator
-- USD
+- **USD**
    - Unified Software Development
-- UTC
+- **UTC**
    - Coordinated Universal Time
-- UTF-8
+- **UTF-8**
    - Unicode  Transformation Format - 8-bit
-- UUT
+- **UUT**
    - Unit Under Test
-- UX
+- **UX**
    - User Experience
 
 ### V
-- VA
+- **VA**
    - Validation Authority
-- VDD
+- **VDD**
    - Value-Driven Design
-- VLAN
+- **VLAN**
    - Virtual LAN (Local Area Network)
-- VPN
+- **VPN**
    - Virtual Private Network
-- V&V
+- **V&V**
    - Verification and Validation
 
 ### W
-- WAL
+- **WAL**
    - Write-Ahead Logging (PostgreSQL)
-- WAN
+- **WAN**
    - Wide Area Network
-- WBAN
+- **WBAN**
    - Wireless BAN (Body Area Network)
-- WFH
+- **WFH**
    - Work From Home
-- WIP
+- **WIP**
    - Work In Progress
-- WLAN
+- **WLAN**
    - Wireless LAN (Local Area Network)
-- WS
+- **WS**
    - Web Service
-- WSDL
+- **WSDL**
    - Web Service Description Language
 
 ### X
-- XML
+- **XML**
    - Extensible Markup Language
-- XP
+- **XP**
    - Extreme Programming
 
 ### Y
-- YAGNI
+- **YAGNI**
    - You Aren't Gonna Need It (principle)
-- YAML
+- **YAML**
    - YAML Ain’t Markup Language (Recursive acronym)
-- YB
+- **YB**
    - Yottabyte
 
 ### Z
-- ZB
+- **ZB**
    - Zettabyte
 
 ### 2
-- 2PC
+- **2PC**
    - Two-Phase Commit
-- 2PL
+- **2PL**
    - Two-phase Locking
 
 ### 3
-- 3PC
+- **3PC**
    - Three-Phase Commit
 
 ----
