@@ -1317,7 +1317,6 @@
 - EOD
 - EOW
 - DM
-- ETA
 - FTE
 - PTE
 - HR
@@ -1333,7 +1332,7 @@
 ### English
 - AFAICT: As Far As I Can Tell
 - AFAIK: As Far As I Know
-- AKA
+- AKA: As Known As
 - ASAP: As Soon As Possible
 - BRB
 - BTW
