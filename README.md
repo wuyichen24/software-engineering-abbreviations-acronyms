@@ -16,13 +16,13 @@
 
 ## Ordered by alphabet
 ### A
-- AADD
+- **AADD**
    - Active-Admin-Driven Development
-- AC
+- **AC**
    - Acceptance Criteria
-- ACID
+- **ACID**
    - Atomicity, Consistency, Isolation, and Durability
-- ACK / Ack
+- **ACK / Ack**
    - Acknowledgement
 - ACL
    - Anti-Corruption Layer
