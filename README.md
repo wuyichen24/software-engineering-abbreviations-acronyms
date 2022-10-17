@@ -456,120 +456,120 @@
    - in other words
 
 ### J
-- JAD
+- **JAD**
    - Joint Application Design
-- JDBC
+- **JDBC**
    - Java Database Connectivity
-- JDK
+- **JDK**
    - Java Development Kit
-- JMS
+- **JMS**
    - Java Message Service
-- JRE
+- **JRE**
    - Java Runtime Environment
-- JSON
+- **JSON**
    - JavaScript Object Notation
-- JVM
+- **JVM**
    - Java Virtual Machine
 
 ### K
-- KB
+- **KB**
    - Kilobyte
-- KBps
+- **KBps**
    - Kilobyte per second
-- KISS
+- **KISS**
    - Keep It Simple, Stupid! (principle)
-- KMS
+- **KMS**
    - Key Management Service
-- KPI
+- **KPI**
    - Key Performance Indicator
 
 ### L
-- LAMP
+- **LAMP**
    - Linux, Apache, MySQL, PHP/Perl/Python (tech stack)
-- LAN
+- **LAN**
    - Local Area Network
-- LB
+- **LB**
    - Load Balancer
-- LCME
+- **LCME**
    - Linux, Yaws, CouchDB, Erlang (tech stack)
-- LDAP 
+- **LDAP**
    - Lightweight Directory Access Protocol
-- LeSS
+- **LeSS**
    - Large-Scale Scrum
-- LGTM
+- **LGTM**
    - Looks Good to Me
-- LIFO
+- **LIFO**
    - Last In, First Out
-- LMK
+- **LMK**
    - Let Me Know
-- LMS
+- **LMS**
    - Learning Management System
-- LYME
+- **LYME**
    - Linux, Yaws, Mnesia, Erlang (tech stack)
 
 ### M
-- MAN
+- **MAN**
    - Metropolitan Area Network
-- MB
+- **MB**
    - Megabyte
-- MBaaS / BaaS
+- **MBaaS / BaaS**
    - Mobile backend as a service / Backend as a Service
-- MBps
+- **MBps**
    - Megabyte per second
-- MDM
+- **MDM**
    - Master Data Management
-- MEAN
+- **MEAN**
    - MongoDB, Express.js, AngularJS and Node.js (tech stack)
-- MERN
+- **MERN**
    - MongoDB, Express.js, React and Node.js (tech stack)
-- MEVN
+- **MEVN**
    - MongoDB, Express.js, VueJS, Node.js (tech stack)
-- MFA
+- **MFA**
    - Multi-Factor Authentication
-- MFT
+- **MFT**
    - Managed File Transfer
-- ML
+- **ML**
    - Machine Learning
-- MOM
+- **MOM**
    - Message-Oriented Middleware
-- MQ
+- **MQ**
    - Message Queue
-- MTBF
+- **MTBF**
    - Mean Time Before Failure
-- MTTA
+- **MTTA**
    - Mean Time To Acknowledge
-- MTTF
+- **MTTF**
    - Mean Time To Failure
-- MTTR
+- **MTTR**
    - Mean Time To Recovery
    - Mean Time To Repair
    - Mean Time To Respond
    - Mean Time To Resolve
-- MVA
+- **MVA**
    - Model–View–Adapter
-- MVC
+- **MVC**
    - Model–View–Controller
-- MVCC
+- **MVCC**
    - Multi-Version Concurrency Control
-- MVCO
+- **MVCO**
    - Multi-Version Commitment Ordering
-- MVNO
+- **MVNO**
    - Mobile Virtual Network Operator
-- MVP
+- **MVP**
    - Model–View–Presenter
-- MVVM
+- **MVVM**
    - Model–View–View Model
-- MWN
+- **MWN**
    - Municipal Wireless Network
 
 ### N
-- NaaS
+- **NaaS**
    - Network as a Service
-- NACK
+- **NACK**
    - Negative-Acknowledgement
-- NIT / nit
+- **NIT / nit**
    - nit-pick / nitpicking / Nitpick
-- NLP
+- **NLP**
    - Natural Language Processing
 
 ### O
