@@ -1056,33 +1056,33 @@
 - **DSV**: Delimiter-Separated Values
 
 ### Data-related language
-- DDL: Data Definition Language
-- DQL: Database Query Language
-- DML: Data Manipulation Language
-- DCL: Data Control Language
+- **DDL**: Data Definition Language
+- **DQL**: Database Query Language
+- **DML**: Data Manipulation Language
+- **DCL**: Data Control Language
 
 ### Incident metrics
-- MTBF: Mean Time Before Failure
-- MTTA: Mean Time To Acknowledge
-- MTTF: Mean Time To Failure
-- MTTR: Mean Time To Recovery/Repair/Respond/Resolve
+- **MTBF**: Mean Time Before Failure
+- **MTTA**: Mean Time To Acknowledge
+- **MTTF**: Mean Time To Failure
+- **MTTR**: Mean Time To Recovery/Repair/Respond/Resolve
 
 ### Risk management
-- DR: Disaster Recovery
-- DRP: Disaster Recovery Plan
-- BC: Business Continuity
-- BCP: Business Continuity Planning
-- RTO: Recovery Time Objective
-- RPO: Recovery Point Objective
-- MTPoD: Maximum Tolerable Period of Disruption
-- MTD: Maximum Tolerable Downtime
-- MTO: Maximum Tolerable Outage
-- MAO: Maximum Allowable Outage
-- RCO: Recovery Consistency Objective
-- RCC: Recovery Consistency Characteristics
-- ROG: Recovery Object Granularity
-- BIA: Business Impact Analysis
-- TRA: Threat and Risk Analysis
+- **DR**: Disaster Recovery
+- **DRP**: Disaster Recovery Plan
+- **BC**: Business Continuity
+- **BCP**: Business Continuity Planning
+- **RTO**: Recovery Time Objective
+- **RPO**: Recovery Point Objective
+- **MTPoD**: Maximum Tolerable Period of Disruption
+- **MTD**: Maximum Tolerable Downtime
+- **MTO**: Maximum Tolerable Outage
+- **MAO**: Maximum Allowable Outage
+- **RCO**: Recovery Consistency Objective
+- **RCC**: Recovery Consistency Characteristics
+- **ROG**: Recovery Object Granularity
+- **BIA**: Business Impact Analysis
+- **TRA**: Threat and Risk Analysis
 
 ### Service level terminologies
 - SLA: Service Level Agreement
