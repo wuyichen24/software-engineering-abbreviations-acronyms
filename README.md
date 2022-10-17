@@ -1313,6 +1313,19 @@
 - UX: User Experience
 - QBR: Quarterly Business Review
 
+### Roles
+- CEO: Chief Executive Officer
+- CFO: Chief Financial Officer
+- CMO: Chief Marketing Officer
+- COO: Chief Operating Officer / Chief Operation Officer
+- CSO: Chief Security Officer
+- CTO: Chief Technology Officer
+- IC: Individual Contributor
+- PM: Project Manager
+- PM: Product Manager
+- TLM: Tech Lead Manager
+- TPM: Technical Program Manager
+
 ### Workspace
 - EOD
 - EOW
@@ -1322,33 +1335,29 @@
 - HR
 - OOO
 - PTO
-- PM: Project Manager
-- PM: Product Manager
-- IC
-- TPM
 - TLDR / TL;DR
-
 
 ### English
 - AFAICT: As Far As I Can Tell
 - AFAIK: As Far As I Know
 - AKA: As Known As
 - ASAP: As Soon As Possible
-- BRB
-- BTW
+- BRB: Be Right Back
+- BTW: By The Way
 - DOB: Date Of Birth
-- ETA
+- ETA: Estimated Time of Arrival
+- FAQ: Frequently Asked Questions
 - FWIW: For What It's Worth
 - FYI: For Your Information
 - IIRC: If I Recall/Remember Correctly
-- IMO
+- IMO: In My Opinion
 - IMHO: In My Honest Opinion
 - IOW: In Other Words
-- LGTM
+- LGTM: Looks Good to Me
 - LMK: Let Me Know
-- NIT
+- NIT: nit-pick / nitpicking / Nitpick
 - TBA: To Be Announced
-- WIP
+- WIP: Work In Progress
 - e.g.: for example
 - i.e.: in other words
 
