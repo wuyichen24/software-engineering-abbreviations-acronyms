@@ -210,249 +210,249 @@
    - Chief Technology Officer
 
 ### D
-- DaaS
+- **DaaS**
    - Data as a Service
    - Destop as a Service
-- DAD
+- **DAD**
    - Disciplined Agile Delivery
-- DBA
+- **DBA**
    - Database Administrator
-- DBaaS
+- **DBaaS**
    - Database as a Service
-- DBMS
+- **DBMS**
    - Database Management System
-- DCL
+- **DCL**
    - Data Control Language
-- DDD
+- **DDD**
    - Domain-Driven Design
-- DDL
+- **DDL**
    - Data Definition Language
-- DDoS
+- **DDoS**
    - Distributed Denial-of-Service (DDoS) Attack
-- DES
+- **DES**
    - Data Encryption Standard
-- DFD
+- **DFD**
    - Data Flow Diagram
-- DHCP
+- **DHCP**
    - Dynamic Host Configuration Protocol
-- DHT
+- **DHT**
    - Distributed Hash Table
-- DM
+- **DM**
    - Direct Message
    - Dimensional Modeling
-- DML
+- **DML**
    - Data Manipulation Language
-- DND
+- **DND**
    - Do Not Disturb
-- DNS
+- **DNS**
    - Domain Name System
-- DOB
+- **DOB**
    - Date Of Birth
-- DOM
+- **DOM**
    - Document Object Model
-- DORA
+- **DORA**
    - DevOps Research and Assessment
-- DQL
+- **DQL**
    - Database Query Language
-- DR
+- **DR**
    - Disaster Recovery
-- DRP
+- **DRP**
    - Disaster Recovery Plan
-- DRY
+- **DRY**
    - Don't Repeat Yourself (principle)
-- DSDM
+- **DSDM**
    - Dynamic Systems Development Method
-- DST
+- **DST**
    - Daylight Saving Time
-- DSV
+- **DSV**
    - Delimiter-Separated Values
-- DTSTTCPW
+- **DTSTTCPW**
    - Do The Simplest Thing That Could Possibly Work (principle)
-- DUT
+- **DUT**
    - Device Under Test
-- DW
+- **DW**
    - Data Warehouse
-- DWH
+- **DWH**
    - Data WareHouse (Same with DW)
-- DWIM
+- **DWIM**
    - Do What I Mean (principle)
-- D3
+- **D3**
    - Design-Driven Development
 
 ### E
-- EAI
+- **EAI**
    - Enterprise Application Integration
-- EB
+- **EB**
    - Exabyte
-- EBC
+- **EBC**
    - Entity-Boundary-Control (Same with ECB)
-- EC
+- **EC**
    - Eventual Consistency
-- ECB
+- **ECB**
    - Entity-Control-Boundary
-- ECO
+- **ECO**
    - Extended Commitment Ordering
-- EDA
+- **EDA**
    - Event-Driven Architecture
-- EDH
+- **EDH**
    - Enterprise Data Hub
-- EDW
+- **EDW**
    - Enterprise Data Warehouse (Same with DW)
-- ELK
+- **ELK**
    - Elasticsearch, Logstash, and Kibana (tech stack)
-- ELT
+- **ELT**
    - Extract, Load, and Transform
-- EMV
+- **EMV**
    - Europay, Mastercard and Visa
-- EOD
+- **EOD**
    - End of Day
-- EOF
+- **EOF**
    - End of File
-- EOL
+- **EOL**
    - End of Line
-- EOM
+- **EOM**
    - End of Month
    - End of Message
-- EOT
+- **EOT**
    - End of Transmission
-- EOW
+- **EOW**
    - End of Week
-- ER
+- **ER**
    - Entity Relationship
-- ERD
+- **ERD**
    - Entity-relationship Diagram
-- ERP
+- **ERP**
    - Enterprise Resource Planning
-- ES
+- **ES**
    - Event Sourcing
-- ESB
+- **ESB**
    - Enterprise Service Bus
-- ESP
+- **ESP**
    - Event Stream Processing
-- EST
+- **EST**
    - Eastern Time Zone
-- ETA
+- **ETA**
    - Estimated Time of Arrival
-- ETL
+- **ETL**
    - Extract, Transform, and Load
-- EUT
+- **EUT**
    - Equipment Under Test
-- e.g.
+- **e.g.**
    - for example
 
 ### F
-- FaaS
+- **FaaS**
    - Function as a Service
-- FACTA
+- **FACTA**
    - Fair and Accurate Credit Transactions Act
-- FAQ
+- **FAQ**
    - Frequently Asked Questions
-- FDD
+- **FDD**
    - Feature-Driven Development
-- FIFO
+- **FIFO**
    - First In, First Out
-- FK
+- **FK**
    - Foreign Key
-- FP
+- **FP**
    - Functional Programming
-- FSM
+- **FSM**
    - Finite-State Machine
-- FTE
+- **FTE**
    - Full-Time Employee
-- FTP
+- **FTP**
    - File Transfer Protocol
-- FWIW
+- **FWIW**
    - For What It's Worth
-- FYI
+- **FYI**
    - For Your Information
 
 ### G
-- GAN
+- **GAN**
    - Global Area Network
-- GB
+- **GB**
    - Gigabyte
-- GBps
+- **GBps**
    - Gigabyte per second
-- GCP
+- **GCP**
    - Google Cloud Platform
-- GMT
+- **GMT**
    - Greenwich Mean Time
-- GNU
+- **GNU**
    - An extensive collection of free software
-- GRASP
+- **GRASP**
    - General Responsibility Assignment Software Patterns
-- GSM
+- **GSM**
    - Goals, Signals and Measures (framework)
-- GUI
+- **GUI**
    - Graphical User Interface
 
 ### H
-- HAN
+- **HAN**
    - Home Area Network
-- HDD
+- **HDD**
    - Hard Disk Drive
-- Hex
+- **Hex**
    - Hexadecimal
-- HIPAA
+- **HIPAA**
    - Health Insurance Portability and Accountability Act
-- HMVC
+- **HMVC**
    - Hierarchical Model–View–Controller
-- HOOD
+- **HOOD**
    - Hierarchic Object-Oriented Design
-- HR
+- **HR**
    - Human Resources
-- HRM
+- **HRM**
    - Human Resources Management
-- HSM
+- **HSM**
    - Hardware Security Module
-- HTML
+- **HTML**
    - HyperText Markup Language
-- HTTP
+- **HTTP**
    - Hypertext Transfer Protocol
-- HTTPS
+- **HTTPS**
    - Hypertext Transfer Protocol Secure
 
 ### I
-- IaaS
+- **IaaS**
    - Infrastructure as a Service
-- IC
+- **IC**
    - Individual Contributor
-- ICN
+- **ICN**
    - Information-Centric Networking
-- IDE
+- **IDE**
    - Integrated Development Environment
-- IDL
+- **IDL**
    - Interface Definition Language
-- IEEE
+- **IEEE**
    - Institute of Electrical and Electronic Engineers
-- IIRC
+- **IIRC**
    - If I Recall/Remember Correctly
-- IMAP
+- **IMAP**
    - Internet Message Access Protocol
-- IMO
+- **IMO**
    - In My Opinion
-- IMHO
+- **IMHO**
    - In My Honest Opinion
-- IoT
+- **IoT**
    - Internet of Things
-- IOW
+- **IOW**
    - In Other Words
-- IP
+- **IP**
    - Internet Protocol
    - Intellectual Property
-- IPC
+- **IPC**
    - Inter-Process Communication / InterProcess Communication
-- IPv4
+- **IPv4**
    - Internet Protocol version 4
-- IPv6
+- **IPv6**
    - Internet Protocol version 6
-- ISO
+- **ISO**
    - International Organization for Standardization
-- ISP
+- **ISP**
    - Internet Service Provider
-- ISV
+- **ISV**
    - Independent Software Vendor
-- i.e.
+- **i.e.**
    - in other words
 
 ### J
