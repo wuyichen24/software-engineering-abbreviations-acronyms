@@ -337,6 +337,8 @@
    - Extract, Transform, and Load
 - **EUT**
    - Equipment Under Test
+- **E2E**
+   - End-To-End 
 - **e.g.**
    - for example
 
