@@ -80,133 +80,133 @@
    - Amazon Web Services
 
 ### B
-- B
+- **B**
    - Byte
-- b
+- **b**
    - bit
-- BAN
+- **BAN**
    - Body Area Network
-- BASE
+- **BASE**
    - Basically Available, Soft state, Eventually consistent
-- BC
+- **BC**
    - Business Continuity
-- BCE
+- **BCE**
    - Boundary-Control-Entity (Same with ECB)
-- BCP
+- **BCP**
    - Business Continuity Planning
-- BDD
+- **BDD**
    - Behavior-Driven Development
-- BDUF
+- **BDUF**
    - Big Design Up Front (principle)
-- BFF
+- **BFF**
    - Backend for Frontend
-- BgDD
+- **BgDD**
    - Bug-Driven Development
-- BI
+- **BI**
    - Business Intelligence
-- BLOB / blob
+- **BLOB / blob**
    - Binary Large OBject
-- bps
+- **bps**
    - bits per second
-- Bps
+- **Bps**
    - Bytes per second
-- BRB
+- **BRB**
    - Be Right Back
-- BSON
+- **BSON**
    - Binary JSON
-- BTW
+- **BTW**
    - By The Way
-- B2B
+- **B2B**
    - Business to Business
-- B2C
+- **B2C**
    - Business to Consumer
 
 ### C
-- CA
+- **CA**
    - Certificate Authority / Certification Authority
-- CaaS
+- **CaaS**
    - Container as a Service
-- CAP theorem
+- **CAP theorem**
    - Consistency, Availability and Partition tolerance
-- CAN
+- **CAN**
    - Campus Area Network
-- CASE
+- **CASE**
    - Computer Aided Software Engineering
-- CBD
+- **CBD**
    - Component-Based Development (Same with CBSE)
-- CBSE
+- **CBSE**
    - Component-Based Software Engineering
-- CCP
+- **CCP**
    - Common-Closure Principle
-- CD
+- **CD**
    - Continuous Delivery
    - Continuous Deployment
-- CDC
+- **CDC**
    - Change Data Capture
-- CDD
+- **CDD**
    - Configuration-Driven Development
-- CDN
+- **CDN**
    - Content Delivery Network
-- CDT
+- **CDT**
    - Central Daylight Time
-- CEO
+- **CEO**
    - Chief Executive Officer
-- CEP
+- **CEP**
    - Complex Event Processing
-- CFD
+- **CFD**
    - Control-Flow Diagram
    - Cumulative Flow Diagram
-- CFO
+- **CFO**
    - Chief Financial Officer
-- CI
+- **CI**
    - Continuous Integration
-- CI/CD / CICD
+- **CI/CD / CICD**
    - Continuous Integration and Continuous Delivery / Continuous Deployment
-- CL
+- **CL**
    - Change List / ChangeList
-- CLOB / clob
+- **CLOB / clob**
    - Character Large OBject
-- CLT
+- **CLT**
    - Command Line Tools
-- CMO
+- **CMO**
    - Chief Marketing Officer
-- CMP
+- **CMP**
    - Certificate Management Protocol
-- CMS
+- **CMS**
    - Content Management System
-- CO
+- **CO**
    - Commitment Ordering
-- COO
+- **COO**
    - Chief Operating Officer / Chief Operation Officer
-- CPS
+- **CPS**
    - Connections Per Second
-- CPU
+- **CPU**
    - Central Processing Unit
-- CQRS
+- **CQRS**
    - Command and Query Responsibility Segregation
-- CQS
+- **CQS
    - Command-Query Separation (principle)
-- CRM
+- **CRM**
    - Customer Relationship Management
-- CRP
+- **CRP**
    - Common-Reuse Principle
-- CRUD
+- **CRUD**
    - Create, Read, Update and Delete
-- CSA
+- **CSA**
    - Cloud Security Alliance
-- CSO
+- **CSO**
    - Chief Security Officer
-- CSP
+- **CSP**
    - Cloud Service Provider
-- CSS
+- **CSS**
    - Cascading Style Sheets
-- CST
+- **CST**
    - Central Standard Time
-- CSV
+- **CSV**
    - Comma-Separated Values
-- CTDD
+- **CTDD**
    - Continuous Test-Driven Development
-- CTO
+- **CTO**
    - Chief Technology Officer
 
 ### D
