@@ -950,71 +950,71 @@
 
 ## Group by prefix or suffix
 ### C(X)O
-- CEO: Chief Executive Officer
-- CFO: Chief Financial Officer
-- COO: Chief Operating Officer / Chief Operation Officer
-- CTO: Chief Technology Officer
-- CMO: Chief Marketing Officer
-- CSO: Chief Security Officer
+- **CEO**: Chief Executive Officer
+- **CFO**: Chief Financial Officer
+- **COO**: Chief Operating Officer / Chief Operation Officer
+- **CTO**: Chief Technology Officer
+- **CMO**: Chief Marketing Officer
+- **CSO**: Chief Security Officer
 
 ### EO(X)
-- EOD: End of Day
-- EOF: End of File
-- EOL: End of Line
-- EOM: End of Message
-- EOM: End of Month
-- EOT: End of Transmission
-- EOW: End of Week
+- **EOD**: End of Day
+- **EOF**: End of File
+- **EOL**: End of Line
+- **EOM**: End of Message
+- **EOM**: End of Month
+- **EOT**: End of Transmission
+- **EOW**: End of Week
 
 ### SL(X)
-- SLA: Service Level Agreement
-- SLI: Service Level Indicator
-- SLO: Service Level Objective
+- **SLA**: Service Level Agreement
+- **SLI**: Service Level Indicator
+- **SLO**: Service Level Objective
 
 ### (X)aaS
-- SaaS: Software as a Service
-- FaaS: Function as a Service
-- DaaS: Data as a Service / Destop as a Service
-- DBaaS: Database as a Service
-- PaaS: Platform as a Service
-- CaaS: Container as a Service
-- IaaS: Infrastructure as a Service
-- aPaaS: application Platform as a Service (Same with PaaS)
+- **SaaS**: Software as a Service
+- **FaaS**: Function as a Service
+- **DaaS**: Data as a Service / Destop as a Service
+- **DBaaS**: Database as a Service
+- **PaaS**: Platform as a Service
+- **CaaS**: Container as a Service
+- **IaaS**: Infrastructure as a Service
+- **aPaaS**: application Platform as a Service (Same with PaaS)
 
 ### (X)DD
-- TDD: Test-Driven Development
-- BDD: Behavior-Driven Development
-- DDD: Domain-Driven Design
+- **TDD**: Test-Driven Development
+- **BDD**: Behavior-Driven Development
+- **DDD**: Domain-Driven Design
 
 ### (X)MS
-- CMS: Content Management System
-- DBMS: Database Management System
-- KMS: Key Management Service
-- TMS: Translation Management System
-- LMS: Learning Management System
+- **CMS**: Content Management System
+- **DBMS**: Database Management System
+- **KMS**: Key Management Service
+- **TMS**: Translation Management System
+- **LMS**: Learning Management System
 
 ### (X)PS
-- TPS: Transactions Per Second
-- QPS: Queries Per Second
-- RPS: Requests Per Second
-- CPS: Connections Per Second
-- bps: bits per second
-- Bps: Bytes per second
-- KBps: Kilobyte per second
-- MBps: Megabyte per second
-- GBps: Gigabyte per second
-- TBps: Terabyte per second
+- **TPS**: Transactions Per Second
+- **QPS**: Queries Per Second
+- **RPS**: Requests Per Second
+- **CPS**: Connections Per Second
+- **bps**: bits per second
+- **Bps**: Bytes per second
+- **KBps**: Kilobyte per second
+- **MBps**: Megabyte per second
+- **GBps**: Gigabyte per second
+- **TBps**: Terabyte per second
 
 ### (X)SP
-- CSP: Cloud Service Provider
-- ISP: Internet Service Provider
-- PSP: Payment Service Provider
+- **CSP**: Cloud Service Provider
+- **ISP**: Internet Service Provider
+- **PSP**: Payment Service Provider
 
 ### (X)UT
-- DUT: Device Under Test
-- EUT: Equipment Under Test
-- SUT: System Under Test
-- UUT: Unit Under Test
+- **DUT**: Device Under Test
+- **EUT**: Equipment Under Test
+- **SUT**: System Under Test
+- **UUT**: Unit Under Test
 
 ----
 
