@@ -1274,6 +1274,7 @@
 - JMS: Java Message Service
 - JRE: Java Runtime Environment
 - JVM: Java Virtual Machine
+- POJO: Plain Old Java Object
 
 ### Organization
 - ISO: International Organization for Standardization
