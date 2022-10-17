@@ -1085,52 +1085,52 @@
 - **TRA**: Threat and Risk Analysis
 
 ### Service level terminologies
-- SLA: Service Level Agreement
-- SLI: Service Level Indicator
-- SLO: Service Level Objective
+- **SLA**: Service Level Agreement
+- **SLI**: Service Level Indicator
+- **SLO**: Service Level Objective
 
 ### Network
-- GAN: Global Area Network
-- WAN: Wide Area Network
-- RAN: Religious Area Network
-- MAN: Metropolitan Area Network
-   - MWN: Municipal Wireless Network
-- CAN: Campus Area Network
-- HAN: Home Area Network
-- LAN: Local Area Network
-   - SAN: Storage Area Network
-   - WLAN: Wireless LAN (Local Area Network)
-   - VLAN: Virtual LAN (Local Area Network)
-- PAN: Personal Area Network
-- BAN: Body Area Network
-   - WBAN: Wireless BAN (Body Area Network)
-- VPN
+- **GAN**: Global Area Network
+- **WAN**: Wide Area Network
+- **RAN**: Religious Area Network
+- **MAN**: Metropolitan Area Network
+   - **MWN**: Municipal Wireless Network
+- **CAN**: Campus Area Network
+- **HAN**: Home Area Network
+- **LAN**: Local Area Network
+   - **SAN**: Storage Area Network
+   - **WLAN**: Wireless LAN (Local Area Network)
+   - **VLAN**: Virtual LAN (Local Area Network)
+- **PAN**: Personal Area Network
+- **BAN**: Body Area Network
+   - **WBAN**: Wireless BAN (Body Area Network)
+- **VPN**
 
 ### OSI model
-- Layer 7: Application layer
-   - AMQP: Advanced Message Queuing Protocol
-   - DHCP: Dynamic Host Configuration Protocol
-   - DNS: Domain Name System
-   - FTP: File Transfer Protocol
-   - HTTP: Hypertext Transfer Protocol
-   - HTTPS: Hypertext Transfer Protocol Secure
-   - IMAP: Internet Message Access Protocol
-   - LDAP: Lightweight Directory Access Protocol
-   - SFTP: SSH File Transfer Protocol / Secure File Transfer Protocol
-   - SMTP: Simple Mail Transfer Protocol
-   - SSH: Secure Shell (protocol)
-- Layer 4: Transport layer
-   - TCP: Transmission Control Protocol
-   - UDP: User Datagram Protocol
-- Layer 3: Network layer
-   - IP: Internet Protocol
-   - IPv4: IP (Internet Protocol) version 4
-   - IPv6: IP (Internet Protocol) version 6
+- **Layer 7: Application layer**
+   - **AMQP**: Advanced Message Queuing Protocol
+   - **DHCP**: Dynamic Host Configuration Protocol
+   - **DNS**: Domain Name System
+   - **FTP**: File Transfer Protocol
+   - **HTTP**: Hypertext Transfer Protocol
+   - **HTTPS**: Hypertext Transfer Protocol Secure
+   - **IMAP**: Internet Message Access Protocol
+   - **LDAP**: Lightweight Directory Access Protocol
+   - **SFTP**: SSH File Transfer Protocol / Secure File Transfer Protocol
+   - **SMTP**: Simple Mail Transfer Protocol
+   - **SSH**: Secure Shell (protocol)
+- **Layer 4: Transport layer**
+   - **TCP**: Transmission Control Protocol
+   - **UDP**: User Datagram Protocol
+- **Layer 3: Network layer**
+   - **IP**: Internet Protocol
+   - **IPv4**: IP (Internet Protocol) version 4
+   - **IPv6**: IP (Internet Protocol) version 6
 
 ### Compliance
-- AML: Anti-Money Laundering
-- FACTA: Fair and Accurate Credit Transactions Act
-- HIPPA: Health Insurance Portability and Accountability Act
+- **AML**: Anti-Money Laundering
+- **FACTA**: Fair and Accurate Credit Transactions Act
+- **HIPPA**: Health Insurance Portability and Accountability Act
 
 ### Communication
 - Synchronous
