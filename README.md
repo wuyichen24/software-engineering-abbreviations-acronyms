@@ -668,190 +668,190 @@
    - Peer-to-Peer
 
 ### Q
-- QA
+- **QA**
    - Quality Assurance
-- Q&A
+- **Q&A**
    - Question-and-Answer
-- QBR
+- **QBR**
    - Quarterly Business Review
-- QC
+- **QC**
    - Quality Control
-- QPS
+- **QPS**
    - Queries Per Second
-- QTR
+- **QTR**
    - Quarterly Tech Review
 
 ### R
-- RA
+- **RA**
    - Registration Authority
-- RAB
+- **RAB**
    - Rapid Application Building (Same with RAD)
-- RAD
+- **RAD**
    - Rapid Application Development
-- RAID
+- **RAID**
    - Redundant Array of Inexpensive Disks / Redundant Array of Independent Disks
-- RAM
+- **RAM**
    - Random Access Memory
-- RAN
+- **RAN**
    - Religious Area Network
-- regex / regexp
+- **regex / regexp**
    - Regular Expression
-- REP
+- **REP**
    - Reuse-release Equivalence Principle
-- RERO
+- **RERO**
    - Release Early, Release Often (principle)
-- REST
+- **REST**
    - Representational State Transfer
-- RCA
+- **RCA**
    - Root Cause Analysis
-- RDBMS
+- **RDBMS**
    - Relational Database Management System
-- RFC
+- **RFC**
    - Remote Function Call
    - Request For Comments
-- RPC
+- **RPC**
    - Remote Procedure Call
-- RPO
+- **RPO**
    - Recovery Point Objective
-- RPS
+- **RPS**
    - Requests Per Second
-- ROM
+- **ROM**
    - Read Only Memory
-- RSA
+- **RSA**
    - Rivest–Shamir–Adleman
-- RT
+- **RT**
    - Response Time
-- RTO
+- **RTO**
    - Recovery Time Objective
-- RUP
+- **RUP**
    - Rational Unified Process
-- R&D
+- **R&D**
    - Research and Development
 
 ### S
-- SaaS
+- **SaaS**
    - Software as a Service
-- SAFe
+- **SAFe**
    - Scaled Agile Framework
-- SAN
+- **SAN**
    - Storage Area Network
-- SAP
+- **SAP**
    - Stable-Abstractions Principle
-- SBA
+- **SBA**
    - Space-Based Architecture
-- SCA
+- **SCA**
    - Service Component Architecture
-- SCM
+- **SCM**
    - Software Configuration Management
    - Supply Chain Management
-- SCO
+- **SCO**
    - Strict Commitment Ordering
-- SDK
+- **SDK**
    - Software Development Kits
-- SDLC
+- **SDLC**
    - Systems development Life Cycle
-- SDN
+- **SDN**
    - Software-Defined Networking
-- SDP
+- **SDP**
    - Stable-Dependencies Principle
-- SECaaS
+- **SECaaS
    - Security as a Service
-- SEO
+- **SEO**
    - Search Engine Optimization
-- SFTP
+- **SFTP**
    - SSH File Transfer Protocol
    - Secure File Transfer Protocol
-- SLA
+- **SLA**
    - Service Level Agreement
-- SLI
+- **SLI**
    - Service Level Indicator
-- SLO
+- **SLO**
    - Service Level Objective
-- SMART
-   - Specific, Measurable, Achievable, Relevant, Time-bound
-- SMS
+- **SMART**
+   - Specific, Measurable, Achievable, Relevant, Time-bound (goal setting framework)
+- **SMS**
    - Short Message Service
-- SMTP
+- **SMTP**
    - Simple Mail Transfer Protocol
-- SN
+- **SN**
    - Shared-Nothing (architecture)
    - Serial Number
-- SOA
+- **SOA**
    - Service-Oriented Architecture
-- SOAP
+- **SOAP**
    - Simple Object Access Protocol
-- SOLID
+- **SOLID**
    - Single-responsibility principle, Open–closed principle, Liskov substitution principle, Interface segregation principle, Dependency inversion principle
-- SOP
+- **SOP**
    - Standard Operating Procedure
-- SPOF
+- **SPOF**
    - Single Point Of Failure
-- SQA
+- **SQA**
    - Software Quality Assurance
-- SQL
+- **SQL**
    - Structured Query Language
-- SRE
+- **SRE**
    - Site Reliability Engineering
-- SSADM
+- **SSADM**
    - Structured Systems Analysis and Design Method
-- SSD
+- **SSD**
    - Solid-State Drive
    - System Sequence Diagram
-- SSH
+- **SSH**
    - Secure Shell (Protocol)
-- SSL
+- **SSL**
    - Secure Sockets Layer
-- SSO
+- **SSO**
    - Single Sign-On
-- SSOT
+- **SSOT**
    - Single Source Of Truth
-- SUT
+- **SUT**
    - System Under Test
-- SVOT
+- **SVOT**
    - Single Version Of Truth
-- SS2PL
+- **SS2PL**
    - Strong Strict 2-Phase Locking
-- S2PL
+- **S2PL**
    - Strict 2-Phase Locking
 
 ### T
-- TB
+- **TB**
    - Terabyte
-- TBA
+- **TBA**
    - To Be Announced
-- TBps
+- **TBps**
    - Terabyte per second
-- TCC
+- **TCC**
    - Try-Confirm/Cancel
-- TCP
+- **TCP**
    - Transmission Control Protocol
-- TDD
+- **TDD**
    - Test-Driven Development
-- TDS
+- **TDS**
    - Transaction Data Store
-- TL
+- **TL**
    - Tech Lead
-- TLM
+- **TLM**
    - Tech Lead Manager
-- TLS
+- **TLS**
    - Transport Layer Security
-- TLDR / TL;DR
+- **TLDR / TL;DR**
    - Too Long, Didn't Read
-- TMS
+- **TMS**
    - Translation Management System
-- TMTOWTDI
+- **TMTOWTDI**
    - There's More Than One Way To Do It (principle)
-- TPM
+- **TPM**
    - Technical Program Manager
-- TO
+- **TO**
    - Timestamp Ordering
-- TPS
+- **TPS**
    - Transactions Per Second
-- TSV
+- **TSV**
    - Tab-Separated Values
-- TTL
+- **TTL**
    - Time to Live
-- TTP
+- **TTP**
    - Trusted Third Party
 
 ### U
@@ -1336,6 +1336,7 @@
 - IC: Individual Contributor
 - PM: Project Manager
 - PM: Product Manager
+- TL: Tech Lead
 - TLM: Tech Lead Manager
 - TPM: Technical Program Manager
 
