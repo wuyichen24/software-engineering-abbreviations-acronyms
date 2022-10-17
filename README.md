@@ -24,59 +24,59 @@
    - Atomicity, Consistency, Isolation, and Durability
 - **ACK / Ack**
    - Acknowledgement
-- ACL
+- **ACL**
    - Anti-Corruption Layer
    - Access Control List
-- AD
+- **AD**
    - Active Directory
    - Architectural Decision
    - Architectural Design
-- ADP
+- **ADP**
    - Acyclic Dependencies Principle
-- ADR 
+- **ADR**
    - Architectural Decision Records
    - Action–Domain–Responder
-- AES
+- **AES**
    - Advanced Encryption Standard
-- AFAICT
+- **AFAICT**
    - As Far As I Can Tell
-- AFAIK
+- **AFAIK**
    - As Far As I Know
-- AI
+- **AI**
    - Artificial Intelligence
-- AKA
+- **AKA**
    - As Known As
-- AKM
+- **AKM**
    - Architectural Knowledge Management
-- ALM
+- **ALM**
    - Application Lifecycle Management
-- AML
+- **AML**
    - Anti-Money Laundering
-- AMQP
+- **AMQP**
    - Advanced Message Queuing Protocol
-- AOF
+- **AOF**
    - Append Only File
-- aPaaS
+- **aPaaS**
    - application Platform as a Service (Same with PaaS)
-- API
+- **API**
    - Application Programming Interface
-- APM
+- **APM**
    - Application Performance Monitoring
    - Agile Project Management
    - Application Portfolio Management
-- ASAP
+- **ASAP**
    - As Soon As Possible
-- ASCII
+- **ASCII**
    - American Standard Code for Information Interchange
-- ASD
+- **ASD**
    - Adaptive Software Development
-- ASR
+- **ASR**
    - Architecturally Significant Requirement
-- ATDD
+- **ATDD**
    - Acceptance Test-Driven Development
-- AUP
+- **AUP**
    - Agile Unified Process
-- AWS
+- **AWS**
    - Amazon Web Services
 
 ### B
