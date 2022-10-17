@@ -1018,40 +1018,40 @@
 
 ## Group by topic
 ### Database
-- DBA: Database Administrator
-- DBMS: Database Management System
-- RDBMS: Relational Database Management System
-- ACID: Atomicity, Consistency, Isolation, and Durability
-- PK: Primary Key
-- FK: Foreign Key
-- BLOB: Binary Large OBject
-- CLOB: Character Large OBject
-- CAP theorem: Consistency, Availability and Partition tolerance
-- CRUD: Create, Read, Update and Delete
-- SQL: Structured Query Language
-- DDL: Data Definition Language
-- DQL: Database Query Language
-- DML: Data Manipulation Language
-- DCL: Data Control Language
-- WAL: Write-Ahead Logging (PostgreSQL)
-- JDBC: Java Database Connectivity
-- ODBC: Open Database Connectivity
+- **DBA**: Database Administrator
+- **DBMS**: Database Management System
+- **RDBMS**: Relational Database Management System
+- **ACID**: Atomicity, Consistency, Isolation, and Durability
+- **PK**: Primary Key
+- **FK**: Foreign Key
+- **BLOB**: Binary Large OBject
+- **CLOB**: Character Large OBject
+- **CAP theorem**: Consistency, Availability and Partition tolerance
+- **CRUD**: Create, Read, Update and Delete
+- **SQL**: Structured Query Language
+- **DDL**: Data Definition Language
+- **DQL**: Database Query Language
+- **DML**: Data Manipulation Language
+- **DCL**: Data Control Language
+- **WAL**: Write-Ahead Logging (PostgreSQL)
+- **JDBC**: Java Database Connectivity
+- **ODBC**: Open Database Connectivity
 
 ### Data engineering
-- DW: Data Warehouse
-- DWH: Data WareHouse (Same with DW)
-- EWD: Enterprise Data Warehouse (Same with DW)
-- ETL: Extract, Transform, and Load
-- ELT: Extract, Load, and Transform
-- ELK: Elasticsearch, Logstash, and Kibana (tech stack)
+- **DW**: Data Warehouse
+- **DWH**: Data WareHouse (Same with DW)
+- **EWD**: Enterprise Data Warehouse (Same with DW)
+- **ETL**: Extract, Transform, and Load
+- **ELT**: Extract, Load, and Transform
+- **ELK**: Elasticsearch, Logstash, and Kibana (tech stack)
 
 ### Data interchange format
-- XML: Extensible Markup Language
-- JSON: JavaScript Object Notation
-- BSON: Binary JSON (JavaScript Object Notation)
-- CSV: Comma-Separated Values
-- TSV: Tab-Separated Values
-- DSV: Delimiter-Separated Values
+- **XML**: Extensible Markup Language
+- **JSON**: JavaScript Object Notation
+- **BSON**: Binary JSON (JavaScript Object Notation)
+- **CSV**: Comma-Separated Values
+- **TSV**: Tab-Separated Values
+- **DSV**: Delimiter-Separated Values
 
 ### Data-related language
 - DDL: Data Definition Language
