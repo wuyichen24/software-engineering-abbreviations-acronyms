@@ -1299,48 +1299,48 @@
 - **YB**: Yottabyte
 
 ### Data-rate units
-- bps: bits per second
-- Bps: Bytes per second
-- KBps: Kilobyte per second
-- MBps: Megabyte per second
-- GBps: Gigabyte per second
-- TBps: Terabyte per second
+- **bps**: bits per second
+- **Bps**: Bytes per second
+- **KBps**: Kilobyte per second
+- **MBps**: Megabyte per second
+- **GBps**: Gigabyte per second
+- **TBps**: Terabyte per second
 
 ### Timezone
-- UTC: Coordinated Universal Time
-- GMT: Greenwich Mean Time
-- PST: Pacific Time Zone
-- EST: Eastern Time Zone
-- CST: Central Standard Time
-- CDT: Central Daylight Time
-- DST: Daylight Saving Time
+- **UTC**: Coordinated Universal Time
+- **GMT**: Greenwich Mean Time
+- **PST**: Pacific Time Zone
+- **EST**: Eastern Time Zone
+- **CST**: Central Standard Time
+- **CDT**: Central Daylight Time
+- **DST**: Daylight Saving Time
 
 ### Business
-- BC: Business Continuity
-- BCP: Business Continuity Planning
-- B2B: Business to Business
-- B2C: Business to Consumer
-- IP: Intellectual Property
-- KPI: Key Performance Indicator
-- R&D: Research and Development
-- SOP: Standard Operating Procedure
-- UX: User Experience
-- QBR: Quarterly Business Review
-- OKR: Objectives and Key Results 
+- **BC**: Business Continuity
+- **BCP**: Business Continuity Planning
+- **B2B**: Business to Business
+- **B2C**: Business to Consumer
+- **IP**: Intellectual Property
+- **KPI**: Key Performance Indicator
+- **R&D**: Research and Development
+- **SOP**: Standard Operating Procedure
+- **UX**: User Experience
+- **QBR**: Quarterly Business Review
+- **OKR**: Objectives and Key Results 
 
 ### Roles
-- CEO: Chief Executive Officer
-- CFO: Chief Financial Officer
-- CMO: Chief Marketing Officer
-- COO: Chief Operating Officer / Chief Operation Officer
-- CSO: Chief Security Officer
-- CTO: Chief Technology Officer
-- IC: Individual Contributor
-- PM: Project Manager
-- PM: Product Manager
-- TL: Tech Lead
-- TLM: Tech Lead Manager
-- TPM: Technical Program Manager
+- **CEO**: Chief Executive Officer
+- **CFO**: Chief Financial Officer
+- **CMO**: Chief Marketing Officer
+- **COO**: Chief Operating Officer / Chief Operation Officer
+- **CSO**: Chief Security Officer
+- **CTO**: Chief Technology Officer
+- **IC**: Individual Contributor
+- **PM**: Project Manager
+- **PM**: Product Manager
+- **TL**: Tech Lead
+- **TLM**: Tech Lead Manager
+- **TPM**: Technical Program Manager
 
 ### Workspace
 - EOD
