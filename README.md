@@ -1331,26 +1331,25 @@
 
 
 ### English
+- AFAICT: As Far As I Can Tell
+- AFAIK: As Far As I Know
+- AKA
+- ASAP: As Soon As Possible
 - BRB
-- IMO
-- WIP
-- NIT
-- LGTM
+- BTW
+- DOB: Date Of Birth
 - ETA
-- TBA: To Be Announced
+- FWIW: For What It's Worth
+- FYI: For Your Information
+- IIRC: If I Recall/Remember Correctly
 - IMO
 - IMHO: In My Honest Opinion
-- ASAP: As Soon As Possible
-- AFAIK: As Far As I Know
-- AFAICT: As Far As I Can Tell
-- FWIW: For What It's Worth
-- IIRC: If I Recall/Remember Correctly
 - IOW: In Other Words
+- LGTM
 - LMK: Let Me Know
-- DOB: Date Of Birth
-- FYI: For Your Information
-- AKA
-- BTW
+- NIT
+- TBA: To Be Announced
+- WIP
 - e.g.: for example
 - i.e.: in other words
 
