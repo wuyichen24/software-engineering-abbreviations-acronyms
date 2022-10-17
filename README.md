@@ -1318,6 +1318,7 @@
 - IOW: In Other Words
 - LMK: Let Me Know
 - DOB: Date Of Birth
+- FYI: For Your Information
 - e.g.: for example
 - i.e.: in other words
 
