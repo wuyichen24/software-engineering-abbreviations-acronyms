@@ -1263,40 +1263,40 @@
 - **SOA**: Service-Oriented Architecture
 
 ### Software architectural pattern
-- ADR: Action–Domain–Responder
-   - MVC: Model–View–Controller
-   - PAC: Presentation–Abstraction–Control
-   - MVP: Model–View–Presenter
-   - MVA: Model–View–Adapter
-   - MVVM: Model–View–View Model
-- HMVC: Hierarchical Model–View–Controller
-- ECB: Entity-Control-Boundary
-- EBC: Entity-Boundary-Control (Same with ECB)
-- BCE: Boundary-Control-Entity (Same with ECB)
+- **ADR**: Action–Domain–Responder
+   - **MVC**: Model–View–Controller
+   - **PAC**: Presentation–Abstraction–Control
+   - **MVP**: Model–View–Presenter
+   - **MVA**: Model–View–Adapter
+   - **MVVM**: Model–View–View Model
+- **HMVC**: Hierarchical Model–View–Controller
+- **ECB**: Entity-Control-Boundary
+- **EBC**: Entity-Boundary-Control (Same with ECB)
+- **BCE**: Boundary-Control-Entity (Same with ECB)
 
 ### Java
-- JDBC: Java Database Connectivity
-- JDK: Java Development Kit
-- JMS: Java Message Service
-- JRE: Java Runtime Environment
-- JVM: Java Virtual Machine
-- POJO: Plain Old Java Object
+- **JDBC**: Java Database Connectivity
+- **JDK**: Java Development Kit
+- **JMS**: Java Message Service
+- **JRE**: Java Runtime Environment
+- **JVM**: Java Virtual Machine
+- **POJO**: Plain Old Java Object
 
 ### Organization
-- ISO: International Organization for Standardization
-- IEEE: Institute of Electrical and Electronic Engineers
+- **ISO**: International Organization for Standardization
+- **IEEE**: Institute of Electrical and Electronic Engineers
 
 ### Units of measurement for data storage
-- b: bit
-- B: Byte
-- KB: Kilobyte
-- MB: Megabyte
-- GB: Gigabyte
-- TB: Terabyte
-- PB: Petabyte
-- EB: Exabyte
-- ZB: Zettabyte
-- YB: Yottabyte
+- **b**: bit
+- **B**: Byte
+- **KB**: Kilobyte
+- **MB**: Megabyte
+- **GB**: Gigabyte
+- **TB**: Terabyte
+- **PB**: Petabyte
+- **EB**: Exabyte
+- **ZB**: Zettabyte
+- **YB**: Yottabyte
 
 ### Data-rate units
 - bps: bits per second
