@@ -1306,7 +1306,20 @@
 - WIP
 - NIT
 - LGTM
+- ETA
+- TBA: To Be Announced
 - IMO
+- IMHO: In My Honest Opinion
+- ASAP: As Soon As Possible
+- AFAIK: As Far As I Know
+- AFAICT: As Far As I Can Tell
+- FWIW: For What It's Worth
+- IIRC: If I Recall/Remember Correctly
+- IOW: In Other Words
+- LMK: Let Me Know
+- DOB: Date Of Birth
+- e.g.: for example
+- i.e.: in other words
 
 ## References
 - https://adr.github.io/
