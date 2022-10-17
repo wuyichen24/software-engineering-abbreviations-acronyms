@@ -573,98 +573,98 @@
    - Natural Language Processing
 
 ### O
-- OAuth
+- **OAuth**
    - Open Authorization
-- OCC
+- **OCC**
    - Optimistic Concurrency Control (Optimistic locking)
-- OCO
+- **OCO**
    - Optimistic Commitment Ordering
-- ODBC
+- **ODBC**
    - Open Database Connectivity
-- ODS
+- **ODS**
    - Operational Data Store
-- OKR
+- **OKR**
    - Objectives and Key Results 
-- OLAP
+- **OLAP**
    - Online Analytical Processing
-- OLEP
+- **OLEP**
    - Online Event Processing
-- OLTP
+- **OLTP**
    - Online Transaction Processing
-- OMT
+- **OMT**
    - Object-modeling Technique
-- OOA
+- **OOA**
    - Object-Oriented Analysis
-- OOAD
+- **OOAD**
    - Object-Oriented Analysis and Design
-- OOD
+- **OOD**
    - Object-Oriented Design
-- OOO
+- **OOO**
    - Out Of Office
-- OOP
+- **OOP**
    - Object-Oriented Programming
-- OpenUP
+- **OpenUP**
    - Open Unified Process
-- ORB
+- **ORB**
    - Object Request Broker
-- ORM
+- **ORM**
    - Object–Relational Mapping
-- OSI
+- **OSI**
    - Open Systems Interconnection (model)
-- OSS
+- **OSS**
    - Open-source Software
    - Object Storage Service (Alibaba Cloud)
 
 ### P
-- PaaS
+- **PaaS**
    - Platform as a Service
-- PAC
+- **PAC**
    - Presentation–Abstraction–Control
-- PAN
+- **PAN**
    - Personal Area Network
-- PB
+- **PB**
    - Petabyte
-- PBI
+- **PBI**
    - Product Backlog Item
-- PC
+- **PC**
    - Personal Computer
-- PCC
+- **PCC**
    - Pessimistic Concurrency Control (Pessimistic locking)
-- PCI
+- **PCI**
    - Payment Card Industry
-- PIN
+- **PIN**
    - Personal Identification Number
-- PK
+- **PK**
    - Primary Key
-- PKI
+- **PKI**
    - Public Key Infrastructure
-- PM
+- **PM**
    - Project Manager
    - Product Manager
-- POC / PoC
+- **POC / PoC**
    - Proof of Concept
    - Point of Contact
-- POJO
+- **POJO**
    - Plain Old Java Object
-- POLA
+- **POLA**
    - Principle Of Least Astonishment
-- POV / PoV
+- **POV / PoV**
    - Proof of Value
-- PR
+- **PR**
    - Pull Request
-- Protobuf
+- **Protobuf**
    - Protocol Buffers
-- PSP
+- **PSP**
    - Payment Service Provider
-- PST
+- **PST**
    - Pacific Time Zone
-- PTE
+- **PTE**
    - Part-Time Employee
-- PTO
+- **PTO**
    - Paid Time Off
-- PuTTY
+- **PuTTY**
    - A free and open-source terminal emulator, serial console and network file transfer application
-- P2P
+- **P2P**
    - Peer-to-Peer
 
 ### Q
@@ -905,6 +905,8 @@
    - Wide Area Network
 - WBAN
    - Wireless BAN (Body Area Network)
+- WFH
+   - Work From Home
 - WIP
    - Work In Progress
 - WLAN
@@ -1347,6 +1349,7 @@
 - OOO
 - PTO
 - TLDR / TL;DR
+- WFH: Work From Home
 
 ### English
 - AFAICT: As Far As I Can Tell
