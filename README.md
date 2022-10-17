@@ -184,7 +184,7 @@
    - Central Processing Unit
 - **CQRS**
    - Command and Query Responsibility Segregation
-- **CQS
+- **CQS**
    - Command-Query Separation (principle)
 - **CRM**
    - Customer Relationship Management
