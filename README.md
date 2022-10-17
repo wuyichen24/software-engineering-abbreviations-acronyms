@@ -1343,16 +1343,16 @@
 - **TPM**: Technical Program Manager
 
 ### Workspace
-- EOD
-- EOW
-- DM
-- FTE
-- PTE
-- HR
-- OOO
-- PTO
-- TLDR / TL;DR
-- WFH: Work From Home
+- **EOD**
+- **EOW**
+- **DM**
+- **FTE**
+- **PTE**
+- **HR**
+- **OOO**
+- **PTO**
+- **TLDR / TL;DR**
+- **WFH**: Work From Home
 
 ### English
 - AFAICT: As Far As I Can Tell
