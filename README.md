@@ -38,8 +38,14 @@
    - Action–Domain–Responder
 - AES
    - Advanced Encryption Standard
+- AFAICT
+   - As Far As I Can Tell
+- AFAIK
+   - As Far As I Know
 - AI
    - Artificial Intelligence
+- AKA
+   - As Known As
 - AKM
    - Architectural Knowledge Management
 - ALM
@@ -58,6 +64,8 @@
    - Application Performance Monitoring
    - Agile Project Management
    - Application Portfolio Management
+- ASAP
+   - As Soon As Possible
 - ASCII
    - American Standard Code for Information Interchange
 - ASD
@@ -106,6 +114,8 @@
    - Be Right Back
 - BSON
    - Binary JSON
+- BTW
+   - By The Way
 - B2B
    - Business to Business
 - B2C
@@ -236,10 +246,12 @@
    - Do Not Disturb
 - DNS
    - Domain Name System
-- DORA
-   - DevOps Research and Assessment
+- DOB
+   - Date Of Birth
 - DOM
    - Document Object Model
+- DORA
+   - DevOps Research and Assessment
 - DQL
    - Database Query Language
 - DR
@@ -325,6 +337,8 @@
    - Extract, Transform, and Load
 - EUT
    - Equipment Under Test
+- e.g.
+   - for example
 
 ### F
 - FaaS
@@ -347,6 +361,10 @@
    - Full-Time Employee
 - FTP
    - File Transfer Protocol
+- FWIW
+   - For What It's Worth
+- FYI
+   - For Your Information
 
 ### G
 - GAN
@@ -407,12 +425,18 @@
    - Interface Definition Language
 - IEEE
    - Institute of Electrical and Electronic Engineers
+- IIRC
+   - If I Recall/Remember Correctly
 - IMAP
    - Internet Message Access Protocol
 - IMO
    - In My Opinion
+- IMHO
+   - In My Honest Opinion
 - IoT
    - Internet of Things
+- IOW
+   - In Other Words
 - IP
    - Internet Protocol
    - Intellectual Property
@@ -428,6 +452,8 @@
    - Internet Service Provider
 - ISV
    - Independent Software Vendor
+- i.e.
+   - in other words
 
 ### J
 - JAD
@@ -474,6 +500,8 @@
    - Looks Good to Me
 - LIFO
    - Last In, First Out
+- LMK
+   - Let Me Know
 - LMS
    - Learning Management System
 - LYME
@@ -787,6 +815,8 @@
 ### T
 - TB
    - Terabyte
+- TBA
+   - To Be Announced
 - TBps
    - Terabyte per second
 - TCC
