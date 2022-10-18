@@ -752,7 +752,7 @@
 - **SDK**
    - Software Development Kits
 - **SDLC**
-   - Systems development Life Cycle
+   - Systems Development Life Cycle
 - **SDN**
    - Software-Defined Networking
 - **SDP**
@@ -795,6 +795,8 @@
    - Structured Query Language
 - **SRE**
    - Site Reliability Engineering
+- **SRLC**
+   - Software Release Life Cycle
 - **SSADM**
    - Structured Systems Analysis and Design Method
 - **SSD**
@@ -1274,6 +1276,10 @@
 - **ECB**: Entity-Control-Boundary
 - **EBC**: Entity-Boundary-Control (Same with ECB)
 - **BCE**: Boundary-Control-Entity (Same with ECB)
+
+### Software life cycle
+- **SDLC**: Systems Development Life Cycle
+- **SRLC**: Systems Release Life Cycle
 
 ### Java
 - **JDBC**: Java Database Connectivity
