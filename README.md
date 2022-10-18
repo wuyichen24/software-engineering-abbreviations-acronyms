@@ -1175,7 +1175,7 @@
 - **ACL**: Anti-Corruption Layer
 - **TCC**: Try-Confirm/Cancel
 
-### Tech stack
+### Tech stacks
 - **LAMP**: Linux, Apache, MySQL, PHP/Perl/Python (tech stack)
 - **ELK**: Elasticsearch, Logstash, and Kibana (tech stack)
 - **LYME**: Linux, Yaws, Mnesia, Erlang (tech stack)
@@ -1266,7 +1266,7 @@
 - **SN**: Shared-Nothing (architecture)
 - **SOA**: Service-Oriented Architecture
 
-### Software architectural pattern
+### Software architectural patterns
 - **ADR**: Action–Domain–Responder
    - **MVC**: Model–View–Controller
    - **PAC**: Presentation–Abstraction–Control
@@ -1278,7 +1278,7 @@
 - **EBC**: Entity-Boundary-Control (Same with ECB)
 - **BCE**: Boundary-Control-Entity (Same with ECB)
 
-### Software life cycle
+### Software life cycles
 - **SDLC**: Systems Development Life Cycle
 - **SRLC**: Systems Release Life Cycle
 
@@ -1290,7 +1290,7 @@
 - **JVM**: Java Virtual Machine
 - **POJO**: Plain Old Java Object
 
-### Organization
+### Organizations
 - **ISO**: International Organization for Standardization
 - **IEEE**: Institute of Electrical and Electronic Engineers
 
