@@ -1,0 +1,1 @@
+# ADR: Action–Domain–Responder
