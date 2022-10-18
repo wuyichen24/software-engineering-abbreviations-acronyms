@@ -1,4 +1,4 @@
-# {Abbv}: {Full_Name}
+# {ABBV}: {Full_Name}
 
 ## Name
 
