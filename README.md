@@ -1057,6 +1057,7 @@
 - **CSV**: Comma-Separated Values
 - **TSV**: Tab-Separated Values
 - **DSV**: Delimiter-Separated Values
+- **Protobuf**: Protocol buffers
 
 ### Data-related language
 - **DDL**: Data Definition Language
