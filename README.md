@@ -1108,7 +1108,7 @@
 - **PAN**: Personal Area Network
 - **BAN**: Body Area Network
    - **WBAN**: Wireless BAN (Body Area Network)
-- **VPN**
+- **VPN**: Virtual Private Network
 
 ### OSI model
 - **Layer 7: Application layer**
