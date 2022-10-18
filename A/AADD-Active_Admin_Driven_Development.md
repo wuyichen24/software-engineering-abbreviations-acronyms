@@ -1,2 +1,1 @@
-# AADD
-# Active-Admin-Driven Development
+# AADD: Active-Admin-Driven Development
