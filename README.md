@@ -38,6 +38,10 @@
    - [Programming paradigms](#programming-paradigms)
    - [Software architecture paradigms](#software-architecture-paradigms)
    - [Software architectural patterns](#software-architectural-patterns)
+   - [Software life cycles](#software-life-cycles)
+   - [Java](#java)
+   - [Organizations](#organizations)'
+   - []()
 
 ## Ordered by alphabet
 ### A
@@ -1318,7 +1322,7 @@
 - **ISO**: International Organization for Standardization
 - **IEEE**: Institute of Electrical and Electronic Engineers
 
-### Units of measurement for data storage
+### Data-size units
 - **b**: bit
 - **B**: Byte
 - **KB**: Kilobyte
