@@ -24,6 +24,12 @@
    - [OSI model](#osi-model)
    - [Compliance](#compliance)
    - [Communication](#communication)
+   - [Agile](#agile)
+   - [Cloud service provider](#cloud-service-provider)
+   - [Diagram](#diagram)
+   - [Hardware](#hardware)
+   - [Microservice design patterns](#microservice-design-patterns)
+   - [Tech stacks](#tech-stacks)
 
 ## Ordered by alphabet
 ### A
