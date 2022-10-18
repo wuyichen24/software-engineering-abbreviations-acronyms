@@ -30,6 +30,14 @@
    - [Hardware](#hardware)
    - [Microservice design patterns](#microservice-design-patterns)
    - [Tech stacks](#tech-stacks)
+   - [Concurrency control](#concurrency-control)
+   - [Factor-driven software development methodologies](#factor-driven-software-development-methodologies)
+   - [Software development process](#software-development-process)
+   - [Software design methodologies](#software-design-methodologies)
+   - [Software development principles](#software-development-principles)
+   - [Programming paradigms](#programming-paradigms)
+   - [Software architecture paradigms](#software-architecture-paradigms)
+   - [Software architectural patterns](#software-architectural-patterns)
 
 ## Ordered by alphabet
 ### A
