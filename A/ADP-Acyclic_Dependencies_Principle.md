@@ -1,0 +1,1 @@
+# ADP: Acyclic Dependencies Principle
