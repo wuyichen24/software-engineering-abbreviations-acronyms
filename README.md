@@ -757,7 +757,7 @@
    - Software-Defined Networking
 - **SDP**
    - Stable-Dependencies Principle
-- **SECaaS
+- **SECaaS**
    - Security as a Service
 - **SEO**
    - Search Engine Optimization
