@@ -1,8 +1,8 @@
 # software-engineering-abbreviations
 
-- [Ordered by alphabet](#ordered-by-alphabet)
+- [**Ordered by alphabet**](#ordered-by-alphabet)
    - [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z) [2](#2) [3](#3)
-- [Group by prefix or suffix](#group-by-prefix-or-suffix)
+- [**Group by prefix or suffix**](#group-by-prefix-or-suffix)
    - [C(X)O](#cxo)
    - [EO(X)](#eox)
    - [SL(X)](#slx)
@@ -12,7 +12,7 @@
    - [(X)PS](#xps)
    - [(X)SP](#xsp)
    - [(X)UT](#xut)
-- [Group by topic](#group-by-topic)
+- [**Group by topic**](#group-by-topic)
    - [Database](#database)
    - [Data engineering](data-engineering)
    - [Data interchange format](#data-interchange-format)
