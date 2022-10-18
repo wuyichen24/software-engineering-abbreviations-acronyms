@@ -40,6 +40,7 @@
    - [Software architectural patterns](#software-architectural-patterns)
    - [Software life cycles](#software-life-cycles)
    - [Java](#java)
+   - [File system](#file-system)
    - [Organizations](#organizations)
    - [Data-size units](#data-size-units)
    - [Data-rate units](#data-rate-units)
@@ -616,6 +617,8 @@
    - nit-pick / nitpicking / Nitpick
 - **NLP**
    - Natural Language Processing
+- **NTFS**
+   - New Technology File System
 
 ### O
 - **OAuth**
