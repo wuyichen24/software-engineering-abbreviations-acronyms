@@ -40,8 +40,14 @@
    - [Software architectural patterns](#software-architectural-patterns)
    - [Software life cycles](#software-life-cycles)
    - [Java](#java)
-   - [Organizations](#organizations)'
-   - []()
+   - [Organizations](#organizations)
+   - [Data-size units](#data-size-units)
+   - [Data-rate units](#data-rate-units)
+   - [Timezone](#timezone)
+   - [Business](#business)
+   - [Roles](#roles)
+   - [Workspace](#workspace)
+   - [English](#english)
 
 ## Ordered by alphabet
 ### A
