@@ -6,8 +6,8 @@
 
 ## Full explanation
 
-## Wiki
-
 ## See also
+
+## Wiki
 
 ## References
