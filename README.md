@@ -436,6 +436,8 @@
    - Hierarchical Model–View–Controller
 - **HOOD**
    - Hierarchic Object-Oriented Design
+- **HPC**
+   - High-Performance Computing
 - **HR**
    - Human Resources
 - **HRM**
