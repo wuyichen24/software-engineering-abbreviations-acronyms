@@ -14,6 +14,16 @@
    - [(X)UT](#xut)
 - [Group by topic](#group-by-topic)
    - [Database](#database)
+   - [Data engineering](data-engineering)
+   - [Data interchange format](#data-interchange-format)
+   - [Data-related language](#data-related-language)
+   - [Incident metrics](#incident-metrics)
+   - [Risk management](#risk-management)
+   - [Service level terminologies](#service-level-terminologies)
+   - [Network](#network)
+   - [OSI model](#osi-model)
+   - [Compliance](#compliance)
+   - [Communication](#communication)
 
 ## Ordered by alphabet
 ### A
@@ -1145,7 +1155,7 @@
 - **Asynchronous**
    - **MQ**: Message Queue
 
-### Scrum / Agile
+### Agile
 - **AC**: Acceptance Criteria
 - **APM**: Agile Project Management
 - **PBI**: Product Backlog Item
