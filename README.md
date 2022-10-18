@@ -1326,6 +1326,12 @@
 - **JVM**: Java Virtual Machine
 - **POJO**: Plain Old Java Object
 
+### File system
+- **GFS**: Google File System
+- **HDFS**: Hadoop Distributed File System
+- **NTFS**: New Technology File System
+- **FAT**:  File Allocation Table
+
 ### Organizations
 - **ISO**: International Organization for Standardization
 - **IEEE**: Institute of Electrical and Electronic Engineers
