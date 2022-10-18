@@ -2,9 +2,9 @@
 
 ## Name
 
-## Short description
+## Overview
 
-## Full explanation
+## Description
 
 ## See also
 
