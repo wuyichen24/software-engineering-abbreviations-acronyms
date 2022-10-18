@@ -384,6 +384,8 @@
    - Fair and Accurate Credit Transactions Act
 - **FAQ**
    - Frequently Asked Questions
+- **FAT**
+   - File Allocation Table
 - **FDD**
    - Feature-Driven Development
 - **FIFO**
@@ -412,6 +414,8 @@
    - Gigabyte per second
 - **GCP**
    - Google Cloud Platform
+- **GFS**
+   - Google File System
 - **GMT**
    - Greenwich Mean Time
 - **GNU**
@@ -428,6 +432,8 @@
    - Home Area Network
 - **HDD**
    - Hard Disk Drive
+- **HDFS**
+   - Hadoop Distributed File System
 - **Hex**
    - Hexadecimal
 - **HIPAA**
