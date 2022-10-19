@@ -1,0 +1,1 @@
+# CQS: Command-Query Separation
