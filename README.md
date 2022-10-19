@@ -248,7 +248,7 @@
 ### D
 - **DaaS**
    - Data as a Service
-   - Destop as a Service
+   - Desktop as a Service
 - **DAD**
    - Disciplined Agile Delivery
 - **DBA**
