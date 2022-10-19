@@ -159,7 +159,7 @@
 
 ### C
 - **CA**
-   - Certificate Authority / Certification Authority
+   - Certificate / Certification Authority
 - **CaaS**
    - Container as a Service
 - **CAN**
@@ -197,7 +197,7 @@
 - **CI**
    - Continuous Integration
 - **CI/CD / CICD**
-   - Continuous Integration and Continuous Delivery / Continuous Deployment
+   - Continuous Integration and Continuous Delivery / Deployment
 - **CL**
    - Change List / ChangeList
 - **CLOB / clob**
