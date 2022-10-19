@@ -162,10 +162,10 @@
    - Certificate Authority / Certification Authority
 - **CaaS**
    - Container as a Service
-- **CAP theorem**
-   - Consistency, Availability and Partition tolerance
 - **CAN**
    - Campus Area Network
+- **CAP theorem**
+   - Consistency, Availability and Partition tolerance
 - **CASE**
    - Computer Aided Software Engineering
 - **CBD**
