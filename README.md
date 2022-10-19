@@ -264,7 +264,7 @@
 - **DDL**
    - Data Definition Language
 - **DDoS**
-   - Distributed Denial-of-Service (DDoS) Attack
+   - Distributed Denial-of-Service (attack)
 - **DES**
    - Data Encryption Standard
 - **DFD**
