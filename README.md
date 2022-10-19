@@ -742,6 +742,8 @@
    - Random Access Memory
 - **RAN**
    - Religious Area Network
+- **RE**
+   - Release Engineering
 - **regex / regexp**
    - Regular Expression
 - **REP**
