@@ -1,0 +1,1 @@
+# CCP: Common-Closure Principle
