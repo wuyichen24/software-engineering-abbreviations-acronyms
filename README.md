@@ -660,7 +660,7 @@
 - **OSI**
    - Open Systems Interconnection (model)
 - **OSS**
-   - Open-source Software
+   - Open-Source Software
    - Object Storage Service (Alibaba Cloud)
 
 ### P
