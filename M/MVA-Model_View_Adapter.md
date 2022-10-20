@@ -1,0 +1,1 @@
+# MVA: Model–View–Adapter
