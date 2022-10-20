@@ -356,7 +356,7 @@
 - **ER**
    - Entity Relationship
 - **ERD**
-   - Entity-relationship Diagram
+   - Entity-Relationship Diagram
 - **ERP**
    - Enterprise Resource Planning
 - **ES**
