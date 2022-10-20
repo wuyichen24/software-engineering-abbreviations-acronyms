@@ -1,0 +1,1 @@
+# UAP: Uniform Access Principle
