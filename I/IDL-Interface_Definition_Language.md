@@ -1,1 +1,1 @@
-# IDE: Interface Definition Language
+# IDL: Interface Definition Language
