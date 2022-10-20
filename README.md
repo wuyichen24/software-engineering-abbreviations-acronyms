@@ -640,7 +640,7 @@
 - **OLTP**
    - Online Transaction Processing
 - **OMT**
-   - Object-modeling Technique
+   - Object-Modeling Technique
 - **OOA**
    - Object-Oriented Analysis
 - **OOAD**
