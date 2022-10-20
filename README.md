@@ -990,7 +990,7 @@
 - **2PC**
    - Two-Phase Commit
 - **2PL**
-   - Two-phase Locking
+   - Two-Phase Locking
 
 ### 3
 - **3PC**
