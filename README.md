@@ -759,14 +759,14 @@
 - **RFC**
    - Remote Function Call
    - Request For Comments
+- **ROM**
+   - Read Only Memory
 - **RPC**
    - Remote Procedure Call
 - **RPO**
    - Recovery Point Objective
 - **RPS**
    - Requests Per Second
-- **ROM**
-   - Read Only Memory
 - **RSA**
    - Rivest–Shamir–Adleman
 - **RT**
