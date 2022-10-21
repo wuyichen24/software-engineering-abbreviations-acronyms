@@ -902,7 +902,7 @@
 - **TSV**
    - Tab-Separated Values
 - **TTL**
-   - Time to Live
+   - Time To Live
 - **TTP**
    - Trusted Third Party
 
