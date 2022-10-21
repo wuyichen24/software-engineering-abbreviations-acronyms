@@ -857,12 +857,12 @@
    - Single Sign-On
 - **SSOT**
    - Single Source Of Truth
+- **SS2PL**
+   - Strong Strict 2-Phase Locking
 - **SUT**
    - System Under Test
 - **SVOT**
    - Single Version Of Truth
-- **SS2PL**
-   - Strong Strict 2-Phase Locking
 - **S2PL**
    - Strict 2-Phase Locking
 
