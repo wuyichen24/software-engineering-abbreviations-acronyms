@@ -742,6 +742,10 @@
    - Random Access Memory
 - **RAN**
    - Religious Area Network
+- **RCA**
+   - Root Cause Analysis
+- **RDBMS**
+   - Relational Database Management System
 - **RE**
    - Release Engineering
 - **regex / regexp**
@@ -752,10 +756,6 @@
    - Release Early, Release Often (principle)
 - **REST**
    - Representational State Transfer
-- **RCA**
-   - Root Cause Analysis
-- **RDBMS**
-   - Relational Database Management System
 - **RFC**
    - Remote Function Call
    - Request For Comments
