@@ -3,7 +3,8 @@
 ## Name
 
 ## Overview
-- An agile software development process that encourages technical and non-technical participants to use conversation and concrete examples to formalize how the application should behave.
+- An agile software development process:
+   - Encourage technical and non-technical participants to use conversation and concrete examples to formalize how the application should behave.
 - Behavior-driven development is an extension of test-driven development (TDD).
 
 ## Description
