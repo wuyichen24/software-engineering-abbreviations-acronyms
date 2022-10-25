@@ -131,7 +131,7 @@
 - **BCP**
    - Business Continuity Planning
 - **BDD**
-   - Behavior-Driven Development
+   - [Behavior-Driven Development](dictionary/B/BDD-Behavior_Driven_Development.md)
 - **BDUF**
    - Big Design Up Front (principle)
 - **BFF**
