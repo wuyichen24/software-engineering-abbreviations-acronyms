@@ -3,7 +3,7 @@
 ## Name
 
 ## Overview
-- Measurable metrics within an SLA such as availability, throughput, frequency, response time, or quality.
+- An individual, measurable promise within an SLA such as availability, throughput, frequency, response time, or quality.
 
 ## Description
 
