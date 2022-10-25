@@ -362,7 +362,7 @@
 - **ERP**
    - Enterprise Resource Planning
 - **ES**
-   - Event Sourcing
+   - [Event Sourcing](dictionary/E/ES-Event_Sourcing.md)
 - **ESB**
    - Enterprise Service Bus
 - **ESP**
