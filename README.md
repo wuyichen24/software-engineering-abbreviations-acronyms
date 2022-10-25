@@ -390,7 +390,7 @@
 - **FAT**
    - File Allocation Table
 - **FDD**
-   - Feature-Driven Development
+   - [Feature-Driven Development](dictionary/F/FDD-Feature_Driven_Development.md)
 - **FIFO**
    - First In, First Out
 - **FK**
@@ -1259,7 +1259,7 @@
 - **CBD**: Component-Based Development (Same with CBSE)
 - **CDD**: Configuration-Driven Development
 - **D3**: Design-Driven Development
-- **FDD**: Feature-Driven Development
+- [**FDD**: Feature-Driven Development](dictionary/F/FDD-Feature_Driven_Development.md)
 - **UDD**: User-Driven Development (Same with UCD)
 
 ### Software development process
