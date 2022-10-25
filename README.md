@@ -1220,7 +1220,7 @@
 ### Microservice design patterns
 - **CQRS**: Command and Query Responsibility Segregation
 - **BFF**: Backend for Frontend
-- **ES**: Event Sourcing
+- [**ES**: Event Sourcing](dictionary/E/ES-Event_Sourcing.md)
 - **ACL**: Anti-Corruption Layer
 - **TCC**: Try-Confirm/Cancel
 
