@@ -3,7 +3,14 @@
 ## Name
 
 ## Overview
-- A model-driven short-iteration software development process:
+- An iterative and incremental software development process:
+   - Driven from a feature perspective.
+- FDD consists 5 basic activities:
+   - Develop overall model
+   - Build feature list
+   - Plan by feature
+   - Design by feature
+   - Build by feature
 
 ## Description
 
