@@ -241,7 +241,7 @@
 - **CSV**
    - Comma-Separated Values
 - **CTDD**
-   - Continuous Test-Driven Development
+   - [Continuous Test-Driven Development](dictionary/C/CTDD-Continuous_Test_Driven_Development.md)
 - **CTO**
    - Chief Technology Officer
 
@@ -1253,9 +1253,9 @@
 - [**TDD**: Test-Driven Development](dictionary/T/TDD-Test_Driven_Development.md)
    - [**BDD**: Behavior-Driven Development](dictionary/B/BDD-Behavior_Driven_Development.md)
    - [**ATDD**: Acceptance Test-Driven Development](dictionary/A/ATDD-Acceptance_Test_Driven_Development.md)
-   - **CTDD**: Continuous Test-Driven Development
+   - [**CTDD**: Continuous Test-Driven Development](dictionary/C/CTDD-Continuous_Test_Driven_Development.md)
 - **AADD**: Active-Admin-Driven Development 
-- **BgDD**: Bug-Driven Development
+- [**BgDD**: Bug-Driven Development](dictionary/B/BGDD-Bug_Driven_Development.md)
 - **CBD**: Component-Based Development (Same with CBSE)
 - **CDD**: Configuration-Driven Development
 - **D3**: Design-Driven Development
