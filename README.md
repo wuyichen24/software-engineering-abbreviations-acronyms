@@ -814,11 +814,11 @@
    - SSH File Transfer Protocol
    - Secure File Transfer Protocol
 - **SLA**
-   - Service Level Agreement
+   - [Service Level Agreement](dictionary/S/SLA-Service_Level_Agreement.md)
 - **SLI**
-   - Service Level Indicator
+   - [Service Level Indicator](dictionary/S/SLI-Service_Level_Indicator.md)
 - **SLO**
-   - Service Level Objective
+   - [Service Level Objective](dictionary/S/SLO-Service_Level_Objective.md)
 - **SMART**
    - Specific, Measurable, Achievable, Relevant, Time-bound (goal setting framework)
 - **SMS**
@@ -1140,9 +1140,9 @@
 - **TRA**: Threat and Risk Analysis
 
 ### Service level terminologies
-- **SLA**: Service Level Agreement
-- **SLI**: Service Level Indicator
-- **SLO**: Service Level Objective
+- [**SLA**: Service Level Agreement](dictionary/S/SLA-Service_Level_Agreement.md)
+- [**SLI**: Service Level Indicator](dictionary/S/SLI-Service_Level_Indicator.md)
+- [**SLO**: Service Level Objective](dictionary/S/SLO-Service_Level_Objective.md)
 
 ### Network
 - **GAN**: Global Area Network
