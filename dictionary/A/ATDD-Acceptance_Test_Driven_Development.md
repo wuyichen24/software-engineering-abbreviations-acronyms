@@ -14,7 +14,8 @@
 | | TDD | ATDD |
 |---|---|---|
 | Participants | Developers (primarily) | Business customers, developers, and testers |
-| Test type | Unit test, integration test | Acceptance test |
+| Test type | Unit test, integration test | Acceptance test (Should be readable by the business customers) |
+| Require test automation | Yes | No (Although test automation helps with regression testing) |
 
 ## See also
 
