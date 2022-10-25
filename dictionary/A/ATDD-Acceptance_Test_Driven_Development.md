@@ -10,12 +10,8 @@
 
 ## Description
 
-## Difference
-| | TDD | ATDD |
-|---|---|---|
-| Participants | Developers (primarily) | Business customers, developers, and testers |
-| Test type | Unit test, integration test, acceptance test | Acceptance test |
-| Require test automation | Yes | No (Although test automation helps with regression testing) |
+## Same and differences
+- [TDD vs. ATDD](../../differences/TDD_ATDD.md)
 
 ## See also
 
