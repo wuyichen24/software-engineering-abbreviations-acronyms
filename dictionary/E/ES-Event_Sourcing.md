@@ -13,3 +13,4 @@
 ## Wiki
 
 ## References
+- [Github | system-design-knowledge](https://github.com/wuyichen24/system-design-knowledge/blob/master/patterns/data_management_patterns/Event_Sourcing.md)
