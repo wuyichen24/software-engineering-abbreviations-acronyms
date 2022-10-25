@@ -15,4 +15,4 @@
 ## References
 - [Atlassian | SLA vs. SLO vs. SLI: What’s the difference?](https://www.atlassian.com/incident-management/kpis/sla-vs-slo-vs-sli)
 - [Google Cloud | SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-slis-slas-and-slos)
-- [PagerDuty | What’s the Difference Between SLAs, SLOs and SLIs?](What’s the Difference Between SLAs, SLOs and SLIs?)
+- [PagerDuty | What’s the Difference Between SLAs, SLOs and SLIs?](https://www.pagerduty.com/resources/learn/what-is-slo-sla-sli/)
