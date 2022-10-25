@@ -3,7 +3,7 @@
 ## Name
 
 ## Overview
-- The actual metric measures a service.
+- The actual metric measures the performance of a service.
 
 ## Description
 
