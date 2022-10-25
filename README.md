@@ -260,7 +260,7 @@
 - **DCL**
    - Data Control Language
 - **DDD**
-   - Domain-Driven Design
+   - [Domain-Driven Design](dictionary/D/DDD-Domain_Driven_Design.md)
 - **DDL**
    - Data Definition Language
 - **DDoS**
@@ -1273,7 +1273,7 @@
 - **DSDM**: Dynamic Systems Development Method
 
 ### Software design methodologies
-- **DDD**: Domain-Driven Design
+- [**DDD**: Domain-Driven Design](dictionary/D/DDD-Domain_Driven_Design.md)
 - **UCD**: User-Centered Design
 - **VDD**: Value-Driven Design
 - **SSADM**: Structured Systems Analysis and Design Method
