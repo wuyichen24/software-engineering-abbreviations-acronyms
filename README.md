@@ -1249,7 +1249,7 @@
 
 ### Factor-driven software development methodologies
 - **AADD**: Active-Admin-Driven Development 
-- **BDD**: Behavior-Driven Development
+- [**BDD**: Behavior-Driven Development](dictionary/B/BDD-Behavior_Driven_Development.md)
 - **BgDD**: Bug-Driven Development
 - **CBD**: Component-Based Development (Same with CBSE)
 - **CDD**: Configuration-Driven Development
