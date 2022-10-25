@@ -3,6 +3,7 @@
 ## Name
 
 ## Overview
+- A metric measures the performance of a service.
 
 ## Description
 
