@@ -13,6 +13,7 @@
 ## Difference
 | | TDD | ATDD |
 |---|---|---|
+| Participants | Developers (primarily) | Business customers, developers, and testers |
 
 ## See also
 
