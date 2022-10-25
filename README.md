@@ -199,7 +199,7 @@
 - **CI/CD / CICD**
    - Continuous Integration and Continuous Delivery / Deployment
 - **CL**
-   - Change List / ChangeList
+   - [Change List / ChangeList](dictionary/C/CL-ChangeList.md)
 - **CLOB / clob**
    - Character Large OBject
 - **CLT**
