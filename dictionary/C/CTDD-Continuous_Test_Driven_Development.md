@@ -3,6 +3,9 @@
 ## Name
 
 ## Overview
+- A software development practice:
+   - The tests are run automatically by a continuous testing tool running in the background.
+- An extension of test-driven development (TDD).
 
 ## Description
 
