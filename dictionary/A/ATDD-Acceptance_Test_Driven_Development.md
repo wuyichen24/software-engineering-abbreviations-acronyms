@@ -14,6 +14,7 @@
 | | TDD | ATDD |
 |---|---|---|
 | Participants | Developers (primarily) | Business customers, developers, and testers |
+| Test type | Unit test, integration test | Acceptance test |
 
 ## See also
 
