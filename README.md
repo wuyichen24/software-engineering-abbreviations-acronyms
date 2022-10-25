@@ -109,7 +109,7 @@
 - **ASR**
    - Architecturally Significant Requirement
 - **ATDD**
-   - Acceptance Test-Driven Development
+   - [Acceptance Test-Driven Development](dictionary/A/ATDD-Acceptance_Test_Driven_Development.md)
 - **AUP**
    - Agile Unified Process
 - **AWS**
