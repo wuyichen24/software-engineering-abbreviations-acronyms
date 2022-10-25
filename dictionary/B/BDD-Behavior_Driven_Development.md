@@ -9,6 +9,9 @@
 
 ## Description
 
+## Same and differences
+- [TDD vs. BDD](../../differences/TDD_BDD.md)
+
 ## See also
 
 ## Wiki
