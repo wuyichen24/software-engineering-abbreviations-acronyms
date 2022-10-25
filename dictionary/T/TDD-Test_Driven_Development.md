@@ -9,6 +9,7 @@
 
 ## Same and differences
 - [TDD vs. ATDD](../../differences/TDD_ATDD.md)
+- [TDD vs. BDD](../../differences/TDD_BDD.md)
 
 ## See also
 
