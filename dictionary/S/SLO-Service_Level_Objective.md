@@ -7,6 +7,9 @@
 
 ## Description
 
+## Same and differences
+- [SLA vs. SLO vs. SLI](../../differences/SLA_SLO_SLI.md)
+
 ## See also
 
 ## Wiki
