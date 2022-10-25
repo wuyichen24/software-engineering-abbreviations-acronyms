@@ -7,6 +7,9 @@
 
 ## Description
 
+## Same and differences
+- [TDD vs. ATDD](../../differences/TDD_ATDD.md)
+
 ## See also
 
 ## Wiki
