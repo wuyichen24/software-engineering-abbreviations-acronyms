@@ -55,11 +55,11 @@
 - **AADD**
    - [Active-Admin-Driven Development](dictionary/A/AADD-Active_Admin_Driven_Development.md)
 - **AC**
-   - Acceptance Criteria
+   - [Acceptance Criteria](dictionary/A/AC-Acceptance_Criteria.md)
 - **ACID**
-   - Atomicity, Consistency, Isolation, and Durability
+   - [Atomicity, Consistency, Isolation, and Durability](dictionary/A/ACID-Atomicity_Consistency_Isolation_Durability.md)
 - **ACK / Ack**
-   - Acknowledgement
+   - [Acknowledgement](dictionary/A/ACK-Acknowledgement.md)
 - **ACL**
    - Anti-Corruption Layer
    - Access Control List
