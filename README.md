@@ -701,7 +701,7 @@
 - **POV / PoV**
    - Proof of Value
 - **PR**
-   - Pull Request
+   - Pull Request (Same with CL)
 - **Protobuf**
    - Protocol Buffers
 - **PSP**
