@@ -1250,16 +1250,16 @@
    - **MVCO**: Multi-Version Commitment Ordering
 
 ### Factor-driven software development methodologies
+- [**TDD**: Test-Driven Development](dictionary/T/TDD-Test_Driven_Development.md)
+   - [**BDD**: Behavior-Driven Development](dictionary/B/BDD-Behavior_Driven_Development.md)
+   - [**ATDD**: Acceptance Test-Driven Development](dictionary/A/ATDD-Acceptance_Test_Driven_Development.md)
+   - **CTDD**: Continuous Test-Driven Development
 - **AADD**: Active-Admin-Driven Development 
-- [**BDD**: Behavior-Driven Development](dictionary/B/BDD-Behavior_Driven_Development.md)
 - **BgDD**: Bug-Driven Development
 - **CBD**: Component-Based Development (Same with CBSE)
 - **CDD**: Configuration-Driven Development
 - **D3**: Design-Driven Development
 - **FDD**: Feature-Driven Development
-- [**TDD**: Test-Driven Development](dictionary/T/TDD-Test_Driven_Development.md)
-   - **ATDD**: Acceptance Test-Driven Development
-   - **CTDD**: Continuous Test-Driven Development
 - **UDD**: User-Driven Development (Same with UCD)
 
 ### Software development process
