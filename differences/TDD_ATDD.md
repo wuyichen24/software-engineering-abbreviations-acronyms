@@ -1,4 +1,4 @@
-# TDD ATDD
+# TDD vs. ATDD
 
 ## Same
 
