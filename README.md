@@ -298,6 +298,8 @@
    - Don't Repeat Yourself (principle)
 - **DSDM**
    - Dynamic Systems Development Method
+- **DSL**
+   - Domain-Specific Language
 - **DST**
    - Daylight Saving Time
 - **DSV**
