@@ -3,7 +3,7 @@
 ## Name
 
 ## Overview
-- An iterative and incremental software development process:
+- A model-driven short-iteration software development process:
 
 ## Description
 
