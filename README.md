@@ -880,7 +880,7 @@
 - **TCP**
    - Transmission Control Protocol
 - **TDD**
-   - Test-Driven Development
+   - [Test-Driven Development](dictionary/T/TDD-Test_Driven_Development.md)
 - **TDS**
    - Transaction Data Store
 - **TL**
@@ -1257,7 +1257,7 @@
 - **CDD**: Configuration-Driven Development
 - **D3**: Design-Driven Development
 - **FDD**: Feature-Driven Development
-- **TDD**: Test-Driven Development
+- [**TDD**: Test-Driven Development](dictionary/T/TDD-Test_Driven_Development.md)
    - **ATDD**: Acceptance Test-Driven Development
    - **CTDD**: Continuous Test-Driven Development
 - **UDD**: User-Driven Development (Same with UCD)
