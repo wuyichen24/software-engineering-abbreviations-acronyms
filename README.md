@@ -61,19 +61,19 @@
 - **ACK / Ack**
    - [Acknowledgement](dictionary/A/ACK-Acknowledgement.md)
 - **ACL**
-   - Anti-Corruption Layer
-   - Access Control List
+   - [Anti-Corruption Layer](dictionary/A/ACL-Anti_Corruption_Layer.md)
+   - [Access Control List](dictionary/A/ACL-Access_Control_List.md)
 - **AD**
-   - Active Directory
-   - Architectural Decision
-   - Architectural Design
+   - [Active Directory](dictionary/A/AD-Active_Directory.md)
+   - [Architectural Decision](dictionary/A/AD-Architectural_Decision.md)
+   - [Architectural Design](dictionary/A/AD-Architectural_Design.md)
 - **ADP**
-   - Acyclic Dependencies Principle
+   - [Acyclic Dependencies Principle](dictionary/A/ADP-Acyclic_Dependencies_Principle.md)
 - **ADR**
-   - Architectural Decision Records
-   - Action–Domain–Responder
+   - [Architectural Decision Records](dictionary/A/ADR-Architectural_Decision_Records.md)
+   - [Action–Domain–Responder](dictionary/A/ADR-Action_Domain_Responder.md)
 - **AES**
-   - Advanced Encryption Standard
+   - [Advanced Encryption Standard](dictionary/A/AES-Advanced_Encryption_Standard.md)
 - **AFAICT**
    - As Far As I Can Tell
 - **AFAIK**
