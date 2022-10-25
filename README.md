@@ -53,7 +53,7 @@
 ## Ordered by alphabet
 ### A
 - **AADD**
-   - Active-Admin-Driven Development
+   - [Active-Admin-Driven Development](dictionary/A/AADD-Active_Admin_Driven_Development.md)
 - **AC**
    - Acceptance Criteria
 - **ACID**
