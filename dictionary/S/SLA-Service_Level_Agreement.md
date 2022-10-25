@@ -3,7 +3,7 @@
 ## Name
 
 ## Overview
-- An agreement between service provider and service clients about promising the aspects of the service - quality, availability, responsibilities, etc.
+- An agreement between service provider and service clients about promising the quality, availability, responsibilities of the service.
 
 ## Description
 
