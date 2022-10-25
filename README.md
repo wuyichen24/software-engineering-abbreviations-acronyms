@@ -838,6 +838,8 @@
    - Standard Operating Procedure
 - **SPOF**
    - Single Point Of Failure
+- **SPOT**
+   - Single Point Of Truth (Same with SSOT)
 - **SQA**
    - Software Quality Assurance
 - **SQL**
