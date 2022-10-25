@@ -137,7 +137,7 @@
 - **BFF**
    - Backend for Frontend
 - **BgDD**
-   - Bug-Driven Development
+   - [Bug-Driven Development](dictionary/B/BGDD-Bug_Driven_Development.md)
 - **BI**
    - Business Intelligence
 - **BLOB / blob**
