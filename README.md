@@ -283,7 +283,7 @@
 - **DND**
    - Do Not Disturb
 - **DNS**
-   - Domain Name System
+   - [Domain Name System](https://github.com/wuyichen24/software-engineering-abbreviations/blob/master/dictionary/D/DNS-Domain_Name_System.md)
 - **DOB**
    - Date Of Birth
 - **DOM**
