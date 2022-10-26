@@ -184,7 +184,7 @@
 - **CDD**
    - Configuration-Driven Development
 - **CDN**
-   - Content Delivery Network
+   - [Content Delivery Network](dictionary/C/CDN-Content_Delivery_Network.md)
 - **CDT**
    - Central Daylight Time
 - **CEO**
