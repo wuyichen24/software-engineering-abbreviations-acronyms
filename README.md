@@ -1348,6 +1348,18 @@
 - **SDLC**: Systems Development Life Cycle
 - **SRLC**: Systems Release Life Cycle
 
+### Interfaces
+- **API**: Application Programming Interface
+- **UI**: User Interface
+   - **CLI**: Command-Line Interface
+   - **GUI**: Graphical User Interface
+   - **AUI**: Attentive User Interface
+   - **OOUI**: Object-Oriented User Interface
+   - **CUI**: Conversational User Interface
+   - **TUI**: Tangible User Interface
+   - **TUI**: Touch User Interface
+   - **TUI**: Text-based User Interfaces
+
 ### Java
 - **JDBC**: Java Database Connectivity
 - **JDK**: Java Development Kit
