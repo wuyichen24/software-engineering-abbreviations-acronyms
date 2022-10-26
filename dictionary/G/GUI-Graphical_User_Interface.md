@@ -3,7 +3,7 @@
 ## Name
 
 ## Overview
--  A user interface allows users to interact with electronic devices through graphical icons and audio indicator
+-  A user interface allows users to interact with electronic devices through graphical icons and audio indicator.
 
 ## Description
 
