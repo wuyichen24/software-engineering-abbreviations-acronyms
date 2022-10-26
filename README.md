@@ -67,6 +67,8 @@
    - [Active Directory](dictionary/A/AD-Active_Directory.md)
    - [Architectural Decision](dictionary/A/AD-Architectural_Decision.md)
    - [Architectural Design](dictionary/A/AD-Architectural_Design.md)
+- **ADL**
+   - Architecture Decision Log
 - **ADP**
    - [Acyclic Dependencies Principle](dictionary/A/ADP-Acyclic_Dependencies_Principle.md)
 - **ADR**
@@ -107,7 +109,7 @@
 - **ASD**
    - Adaptive Software Development
 - **ASR**
-   - Architecturally Significant Requirement
+   - Architecturally-Significant Requirement
 - **ATDD**
    - [Acceptance Test-Driven Development](dictionary/A/ATDD-Acceptance_Test_Driven_Development.md)
 - **AUP**
