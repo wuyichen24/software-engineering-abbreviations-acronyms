@@ -283,7 +283,7 @@
 - **DND**
    - Do Not Disturb
 - **DNS**
-   - [Domain Name System](https://github.com/wuyichen24/software-engineering-abbreviations/blob/master/dictionary/D/DNS-Domain_Name_System.md)
+   - [Domain Name System](dictionary/D/DNS-Domain_Name_System.md)
 - **DOB**
    - Date Of Birth
 - **DOM**
@@ -1178,7 +1178,7 @@
 - **Layer 7: Application layer**
    - **AMQP**: Advanced Message Queuing Protocol
    - **DHCP**: Dynamic Host Configuration Protocol
-   - **DNS**: Domain Name System
+   - [**DNS**: Domain Name System](dictionary/D/DNS-Domain_Name_System.md)
    - **FTP**: File Transfer Protocol
    - **HTTP**: Hypertext Transfer Protocol
    - **HTTPS**: Hypertext Transfer Protocol Secure
