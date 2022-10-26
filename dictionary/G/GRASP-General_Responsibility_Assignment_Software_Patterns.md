@@ -9,7 +9,7 @@
    - Indirection
    - Information expert: Assign the responsibility on the class with the most information required to fulfill it.
    - Low coupling: Lower dependency between the classes and change in one class having a lower impact on other classes.
-   - High cohesion
+   - High cohesion: The responsibilities of a given set of elements are strongly related and highly focused on a specific topic.
    - Polymorphism
    - Protected variations
    - Pure fabrication
