@@ -135,7 +135,7 @@
 - **BDUF**
    - Big Design Up Front (principle)
 - **BFF**
-   - Backend for Frontend
+   - [Backend for Frontend](dictionary/B/BFF-Backend_For_Frontend.md)
 - **BgDD**
    - [Bug-Driven Development](dictionary/B/BGDD-Bug_Driven_Development.md)
 - **BI**
