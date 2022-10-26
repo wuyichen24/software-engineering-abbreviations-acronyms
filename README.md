@@ -937,6 +937,8 @@
    - Universal Description, Discovery and Integration
 - **UDP**
    - User Datagram Protocol
+- **UI**
+   - [User Interface](dictionary/U/UI-User_Interface.md)
 - **UML**
    - Unified Modeling Language
 - **URI**
