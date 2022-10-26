@@ -821,7 +821,7 @@
 - **SECaaS**
    - Security as a Service
 - **SEO**
-   - Search Engine Optimization
+   - [Search Engine Optimization](dictionary/S/SEO-Search_Engine_Optimization.md)
 - **SFTP**
    - SSH File Transfer Protocol
    - Secure File Transfer Protocol
