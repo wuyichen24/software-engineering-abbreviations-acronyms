@@ -19,5 +19,6 @@
 ## See also
 
 ## Wiki
+- [GRASP (object-oriented design)](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
 
 ## References
