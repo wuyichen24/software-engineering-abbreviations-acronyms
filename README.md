@@ -545,7 +545,7 @@
 - **LAN**
    - Local Area Network
 - **LB**
-   - Load Balancer
+   - [Load Balancer](dictionary/L/LB-Load_Balancer.md)
 - **LCME**
    - Linux, Yaws, CouchDB, Erlang (tech stack)
 - **LDAP**
