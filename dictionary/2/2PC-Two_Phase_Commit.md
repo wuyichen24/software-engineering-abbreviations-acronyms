@@ -6,6 +6,8 @@
 ## Overview
 - A distributed algorithm that coordinates all the processes that participate in a distributed atomic transaction on whether to commit or abort (roll back) the transaction by 2 phases.
 
+  ![2pc_small](https://user-images.githubusercontent.com/8989447/198064648-b06742be-f365-4cc0-89af-0f3e448f8fb2.png)
+
 ## Description
 
 ## See also
