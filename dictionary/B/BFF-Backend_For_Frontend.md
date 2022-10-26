@@ -14,4 +14,4 @@
 ## Wiki
 
 ## References
-- - [Github | wuyichen24/system-design-knowledge](https://github.com/wuyichen24/system-design-knowledge/blob/master/patterns/external_api_patterns/Backends_For_Frontends.md)
+- [Github | wuyichen24/system-design-knowledge](https://github.com/wuyichen24/system-design-knowledge/blob/master/patterns/external_api_patterns/Backends_For_Frontends.md)
