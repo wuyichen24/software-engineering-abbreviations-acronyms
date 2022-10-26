@@ -806,6 +806,8 @@
    - Supply Chain Management
 - **SCO**
    - Strict Commitment Ordering
+- **SDD**
+   - Story-Driven Development
 - **SDK**
    - Software Development Kits
 - **SDLC**
