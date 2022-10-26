@@ -876,7 +876,7 @@
 - **SUT**
    - System Under Test
 - **SVOT**
-   - Single Version Of Truth
+   - [Single Version Of Truth](dictionary/S/SVOT-Single_Version_Of_Truth.md)
 - **S2PL**
    - Strict 2-Phase Locking
 
@@ -1300,7 +1300,7 @@
 - **TMTOWTDI / TIMTOWTDI**: There's More Than One Way To Do It (principle in Perl)
 - **DTSTTCPW**: Do The Simplest Thing That Could Possibly Work (principle)
 - [**SSOT**: Single Source Of Truth](dictionary/S/SSOT-Single_Source_Of_Truth.md)
-- **SVOT**: Single Version Of Truth
+- [**SVOT**: Single Version Of Truth](dictionary/S/SVOT-Single_Version_Of_Truth.md)
 - **POLA**: Principle Of Least Astonishment
 - **KISS**: Keep It Simple, Stupid! (principle)
 - **DRY**: Don't Repeat Yourself (principle)
