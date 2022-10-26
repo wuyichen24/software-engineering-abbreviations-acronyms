@@ -1002,13 +1002,13 @@
 
 ### 2
 - **2PC**
-   - Two-Phase Commit
+   - [Two-Phase Commit](dictionary/2/2PC-Two_Phase_Commit.md)
 - **2PL**
    - Two-Phase Locking
 
 ### 3
 - **3PC**
-   - Three-Phase Commit
+   - [Three-Phase Commit](dictionary/3/3PC-Three_Phase_Commit.md)
 
 ----
 
@@ -1231,9 +1231,9 @@
 
 ### Microservice design patterns
 - **CQRS**: Command and Query Responsibility Segregation
-- **BFF**: Backend for Frontend
+- [**BFF**: Backend for Frontend](dictionary/B/BFF-Backend_For_Frontend.md)
 - [**ES**: Event Sourcing](dictionary/E/ES-Event_Sourcing.md)
-- **ACL**: Anti-Corruption Layer
+- [**ACL**: Anti-Corruption Layer](dictionary/A/ACL-Anti_Corruption_Layer.md)
 - **TCC**: Try-Confirm/Cancel
 
 ### Tech stacks
