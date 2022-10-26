@@ -204,8 +204,10 @@
    - [Change List / ChangeList](dictionary/C/CL-ChangeList.md)
 - **CLOB / clob**
    - Character Large OBject
+- **CLI**
+   - [Command-Line Interface](dictionary/C/CLI-Command_Line_Interface.md)
 - **CLT**
-   - Command Line Tools
+   - Command-Line Tool
 - **CMO**
    - Chief Marketing Officer
 - **CMP**
@@ -436,7 +438,7 @@
 - **GSM**
    - Goals, Signals and Measures (framework)
 - **GUI**
-   - Graphical User Interface
+   - [Graphical User Interface](dictionary/G/GUI-Graphical_User_Interface.md)
 
 ### H
 - **HAN**
@@ -1349,10 +1351,10 @@
 - **SRLC**: Systems Release Life Cycle
 
 ### Interfaces
-- **API**: Application Programming Interface
-- **UI**: User Interface
-   - **CLI**: Command-Line Interface
-   - **GUI**: Graphical User Interface
+- [**API**: Application Programming Interface](dictionary/A/API-Application_Programming_Interface.md)
+- [**UI**: User Interface](dictionary/U/UI-User_Interface.md)
+   - [**CLI**: Command-Line Interface](dictionary/C/CLI-Command_Line_Interface.md)
+   - [**GUI**: Graphical User Interface](dictionary/G/GUI-Graphical_User_Interface.md)
    - **AUI**: Attentive User Interface
    - **OOUI**: Object-Oriented User Interface
    - **CUI**: Conversational User Interface
