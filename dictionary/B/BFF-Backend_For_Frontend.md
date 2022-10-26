@@ -5,6 +5,8 @@
 ## Overview
 - The architectural design pattern which separates multiple backends (BFFs) to address the different needs of different frontend frameworks (mobile, desktop, etc.).
 
+
+
 ## Description
 
 ## See also
