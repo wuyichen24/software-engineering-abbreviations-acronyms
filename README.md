@@ -430,7 +430,7 @@
 - **GNU**
    - An extensive collection of free software
 - **GRASP**
-   - General Responsibility Assignment Software Patterns
+   - [General Responsibility Assignment Software Patterns](dictionary/G/GRASP-General_Responsibility_Assignment_Software_Patterns.md)
 - **GSM**
    - Goals, Signals and Measures (framework)
 - **GUI**
@@ -1293,7 +1293,7 @@
 
 ### Software development principles
 - [**RERO**: Release Early, Release Often (principle)](dictionary/R/RERO-Release_Early_Release_Often.md)
-- **GRASP**: General Responsibility Assignment Software Patterns
+- [**GRASP**: General Responsibility Assignment Software Patterns](dictionary/G/GRASP-General_Responsibility_Assignment_Software_Patterns.md)
 - **SOLID**: Single-responsibility principle, Open–closed principle, Liskov substitution principle, Interface segregation principle, Dependency inversion principle
 - [**YAGNI**: You Aren't Gonna Need It (principle)](dictionary/Y/YAGNI-You_Arent_Gonna_Need_It.md)
 - **UAP**: Uniform Access Principle
