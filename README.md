@@ -1299,7 +1299,7 @@
 - **UAP**: Uniform Access Principle
 - **TMTOWTDI / TIMTOWTDI**: There's More Than One Way To Do It (principle in Perl)
 - **DTSTTCPW**: Do The Simplest Thing That Could Possibly Work (principle)
-- **SSOT**: Single Source Of Truth 
+- [**SSOT**: Single Source Of Truth](dictionary/S/SSOT-Single_Source_Of_Truth.md)
 - **SVOT**: Single Version Of Truth
 - **POLA**: Principle Of Least Astonishment
 - **KISS**: Keep It Simple, Stupid! (principle)
