@@ -297,7 +297,7 @@
 - **DRP**
    - Disaster Recovery Plan
 - **DRY**
-   - Don't Repeat Yourself (principle)
+   - [Don't Repeat Yourself (principle)](dictionary/D/DRY-Dont_Repeat_Yourself.md)
 - **DSDM**
    - Dynamic Systems Development Method
 - **DSL**
@@ -1306,7 +1306,7 @@
 - [**SVOT**: Single Version Of Truth](dictionary/S/SVOT-Single_Version_Of_Truth.md)
 - **POLA**: Principle Of Least Astonishment
 - **KISS**: Keep It Simple, Stupid! (principle)
-- **DRY**: Don't Repeat Yourself (principle)
+- [**DRY**: Don't Repeat Yourself (principle)](dictionary/D/DRY-Dont_Repeat_Yourself.md)
 - **DWIM**: Do What I Mean (principle)
 - **CQS**: Command-Query Separation (principle)
 - **Package principles**
