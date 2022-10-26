@@ -766,7 +766,7 @@
    - Representational State Transfer
 - **RFC**
    - Remote Function Call
-   - Request For Comments
+   - [Request For Comments](dictionary/R/RFC-Request_For_Comments.md)
 - **ROM**
    - Read Only Memory
 - **RPC**
