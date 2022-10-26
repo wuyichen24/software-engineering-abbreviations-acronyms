@@ -211,7 +211,7 @@
 - **CMP**
    - Certificate Management Protocol
 - **CMS**
-   - Content Management System
+   - [Content Management System](dictionary/C/CMS-Content_Management_System.md)
 - **CO**
    - Commitment Ordering
 - **COO**
@@ -906,7 +906,7 @@
 - **TLDR / TL;DR**
    - Too Long, Didn't Read
 - **TMS**
-   - Translation Management System
+   - [Translation Management System](dictionary/T/TMS-Translation_Management_System.md)
 - **TMTOWTDI**
    - There's More Than One Way To Do It (principle)
 - **TPM**
