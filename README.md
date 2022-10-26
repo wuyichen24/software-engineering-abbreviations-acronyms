@@ -310,6 +310,8 @@
    - Do The Simplest Thing That Could Possibly Work (principle)
 - **DUT**
    - Device Under Test
+- **DVCS**
+   - Distributed Version Control System
 - **DW**
    - Data Warehouse
 - **DWH**
@@ -334,6 +336,8 @@
    - Extended Commitment Ordering
 - **EDA**
    - Event-Driven Architecture
+- **EDD**
+   - Example-Driven Development
 - **EDH**
    - Enterprise Data Hub
 - **EDW**
@@ -793,6 +797,8 @@
    - Stable-Abstractions Principle
 - **SBA**
    - Space-Based Architecture
+- **SBE**
+   - Specification By Example 
 - **SCA**
    - Service Component Architecture
 - **SCM**
