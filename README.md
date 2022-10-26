@@ -425,6 +425,8 @@
    - Google Cloud Platform
 - **GFS**
    - Google File System
+- **GMS**
+   - Globalization Management System (Same with TMS)
 - **GMT**
    - Greenwich Mean Time
 - **GNU**
@@ -1053,6 +1055,7 @@
 ### (X)MS
 - **CMS**: Content Management System
 - **DBMS**: Database Management System
+- **GMS**: Globalization Management System (Same with TMS)
 - **KMS**: Key Management Service
 - **TMS**: Translation Management System
 - **LMS**: Learning Management System
