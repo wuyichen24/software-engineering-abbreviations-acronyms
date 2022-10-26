@@ -761,7 +761,7 @@
 - **REP**
    - Reuse-release Equivalence Principle
 - **RERO**
-   - Release Early, Release Often (principle)
+   - [Release Early, Release Often (principle)](dictionary/R/RERO-Release_Early_Release_Often.md)
 - **REST**
    - Representational State Transfer
 - **RFC**
@@ -1292,10 +1292,10 @@
 - **HOOD**: Hierarchic Object-Oriented Design
 
 ### Software development principles
-- **RERO**: Release Early, Release Often (principle)
+- [**RERO**: Release Early, Release Often (principle)](dictionary/R/RERO-Release_Early_Release_Often.md)
 - **GRASP**: General Responsibility Assignment Software Patterns
 - **SOLID**: Single-responsibility principle, Open–closed principle, Liskov substitution principle, Interface segregation principle, Dependency inversion principle
-- **YAGNI**: You Aren't Gonna Need It (principle)
+- [**YAGNI**: You Aren't Gonna Need It (principle)](dictionary/Y/YAGNI-You_Arent_Gonna_Need_It.md)
 - **UAP**: Uniform Access Principle
 - **TMTOWTDI / TIMTOWTDI**: There's More Than One Way To Do It (principle in Perl)
 - **DTSTTCPW**: Do The Simplest Thing That Could Possibly Work (principle)
