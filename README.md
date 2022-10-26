@@ -559,7 +559,7 @@
 - **LMK**
    - Let Me Know
 - **LMS**
-   - Learning Management System
+   - [Learning Management System](dictionary/L/LMS-Learning_Management_System.md)
 - **LYME**
    - Linux, Yaws, Mnesia, Erlang (tech stack)
 
