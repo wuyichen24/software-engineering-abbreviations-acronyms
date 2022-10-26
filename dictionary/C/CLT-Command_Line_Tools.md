@@ -1,4 +1,4 @@
-# CLT: Command Line Tools
+# CLT: Command-Line Tool
 
 ## Name
 
