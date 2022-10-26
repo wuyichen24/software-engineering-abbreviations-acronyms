@@ -1,4 +1,4 @@
-# ASR: Architecturally Significant Requirement
+# ASR: Architecturally-Significant Requirement
 
 ## Name
 
