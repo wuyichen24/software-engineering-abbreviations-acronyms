@@ -91,7 +91,7 @@
 - **AML**
    - Anti-Money Laundering
 - **AMQP**
-   - Advanced Message Queuing Protocol
+   - [Advanced Message Queuing Protocol](dictionary/A/AMQP-Advanced_Message_Queuing_Protocol.md)
 - **AOF**
    - Append Only File
 - **aPaaS**
@@ -1176,7 +1176,7 @@
 
 ### OSI model
 - **Layer 7: Application layer**
-   - **AMQP**: Advanced Message Queuing Protocol
+   - [**AMQP**: Advanced Message Queuing Protocol](dictionary/A/AMQP-Advanced_Message_Queuing_Protocol.md)
    - **DHCP**: Dynamic Host Configuration Protocol
    - [**DNS**: Domain Name System](dictionary/D/DNS-Domain_Name_System.md)
    - **FTP**: File Transfer Protocol
