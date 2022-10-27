@@ -3,7 +3,7 @@
 ## Name
 
 ## Overview
-- A cloud delivery model which a business application (CRM, ERP, HRM, etc.) is delivered as a service over the Internet.
+- A cloud service delivery model which a business application (CRM, ERP, HRM, etc.) is delivered as a service over the Internet.
 
 ## Description
 
