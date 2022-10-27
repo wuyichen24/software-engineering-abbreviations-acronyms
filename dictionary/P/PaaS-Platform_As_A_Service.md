@@ -3,7 +3,7 @@
 ## Name
 
 ## Overview
-- A cloud service delivery model which a development platform is delivered as a service over the Internet.
+- A cloud service delivery model which a platform is delivered as a service over the Internet.
    - Consumer: Control software development and deployment.
    - Provider: Provide network, servers, database, operating system, middleware, runtime, etc.
 
