@@ -574,8 +574,8 @@
    - Metropolitan Area Network
 - **MB**
    - Megabyte
-- **MBaaS / BaaS**
-   - Mobile backend as a service / Backend as a Service
+- **MBaaS**
+   - Mobile Backend as a Service
 - **MBps**
    - Megabyte per second
 - **MDM**
@@ -1050,17 +1050,19 @@
 - **SLO**: Service Level Objective
 
 ### (X)aaS
-- **SaaS**: Software as a Service
-- **FaaS**: Function as a Service
-- **DaaS**: Data as a Service / Destop as a Service
-- **DBaaS**: Database as a Service
+- [**SaaS**: Software as a Service](dictionary/S/SaaS-Software_As_A_Service.md)
 - **PaaS**: Platform as a Service
-- **CaaS**: Container as a Service
 - **IaaS**: Infrastructure as a Service
+- **FaaS**: Function as a Service
+- **DaaS**: Destop as a Service
+- **DBaaS**: Database as a Service
+- **DCaaS**: Data Center as a Service
+- **CaaS**: Container as a Service
 - **NaaS**: Network as a Service
 - **SECaaS**: Security as a Service
 - **UCaaS**: Unified Communication as a Service
-- **MBaaS / BaaS**: Mobile backend as a service / Backend as a Service
+- **MBaaS**: Mobile Backend as a Service
+- **MSaaS**: Managed Software as a Service
 - **aPaaS**: application Platform as a Service (Same with PaaS)
 
 ### (X)DD
