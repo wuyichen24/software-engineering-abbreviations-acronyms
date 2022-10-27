@@ -160,6 +160,8 @@
    - Business to Business
 - **B2C**
    - Business to Consumer
+- **B2E**
+   - Business to Employee
 
 ### C
 - **CA**
@@ -181,6 +183,8 @@
 - **CD**
    - Continuous Delivery
    - Continuous Deployment
+- **CDA**
+   - Content Delivery Application
 - **CDC**
    - Change Data Capture
 - **CDD**
@@ -210,6 +214,8 @@
    - [Command-Line Interface](dictionary/C/CLI-Command_Line_Interface.md)
 - **CLT**
    - Command-Line Tool
+- **CM**
+   - Content Management
 - **CMO**
    - Chief Marketing Officer
 - **CMP**
@@ -252,6 +258,10 @@
    - Chief Technology Officer
 - **CUI**
    - [Conversational User Interface](dictionary/C/CUI-Conversational_User_Interface.md)
+- **C2B**
+   - Consumer to Business
+- **C2C**
+   - Consumer to Consumer
 
 ### D
 - **DaaS**
@@ -265,8 +275,14 @@
    - Database as a Service
 - **DBMS**
    - Database Management System
+- **DC**
+   - Data Center
+- **DCI**
+   - Data Center Interconnect
 - **DCL**
    - Data Control Language
+- **DCO**
+   - Data Center Outsourcing
 - **DDD**
    - [Domain-Driven Design](dictionary/D/DDD-Domain_Driven_Design.md)
 - **DDL**
@@ -284,6 +300,8 @@
 - **DM**
    - Direct Message
    - Dimensional Modeling
+- **DMCA**
+   - Digital Millennium Copyright Act
 - **DML**
    - Data Manipulation Language
 - **DND**
@@ -300,6 +318,8 @@
    - Database Query Language
 - **DR**
    - Disaster Recovery
+- **DRM**
+   - Digital Rights Management
 - **DRP**
    - Disaster Recovery Plan
 - **DRY**
@@ -338,6 +358,8 @@
    - Eventual Consistency
 - **ECB**
    - Entity-Control-Boundary
+- **ECM**
+   - Enterprise Content Management
 - **ECO**
    - Extended Commitment Ordering
 - **EDA**
@@ -431,6 +453,8 @@
    - Google Cloud Platform
 - **GFS**
    - Google File System
+- **GIS**
+   - Geographic Information System
 - **GMS**
    - Globalization Management System (Same with TMS)
 - **GMT**
@@ -487,8 +511,12 @@
    - Interface Definition Language
 - **IEEE**
    - Institute of Electrical and Electronic Engineers
+- **IETF**
+   - Internet Engineering Task Force
 - **IIRC**
    - If I Recall/Remember Correctly
+- **IM**
+   - Instant Messaging
 - **IMAP**
    - Internet Message Access Protocol
 - **IMO**
@@ -514,6 +542,10 @@
    - Internet Service Provider
 - **ISV**
    - Independent Software Vendor
+- **IT**
+   - Information Technology
+- **ITSM**
+   - Information Technology Service Management
 - **i.e.**
    - in other words
 
@@ -590,6 +622,8 @@
    - Multi-Factor Authentication
 - **MFT**
    - Managed File Transfer
+- **MIS**
+   - Management Information System
 - **ML**
    - Machine Learning
 - **MOM**
@@ -598,6 +632,8 @@
    - Message Queue
 - **MTBF**
    - Mean Time Before Failure
+- **MTDC**
+   - Multi-Tenant Data Center
 - **MTTA**
    - Mean Time To Acknowledge
 - **MTTF**
@@ -633,6 +669,8 @@
    - nit-pick / nitpicking / Nitpick
 - **NLP**
    - Natural Language Processing
+- **NLU**
+   - Natural Language Understanding
 - **NTFS**
    - New Technology File System
 
@@ -675,6 +713,8 @@
    - Object Request Broker
 - **ORM**
    - Object–Relational Mapping
+- **OS**
+   - Operating System
 - **OSI**
    - Open Systems Interconnection (model)
 - **OSS**
@@ -764,6 +804,8 @@
    - Root Cause Analysis
 - **RDBMS**
    - Relational Database Management System
+- **RDUF**
+   - Rough Design Up Front (principle)
 - **RE**
    - Release Engineering
 - **regex / regexp**
@@ -805,6 +847,8 @@
    - Storage Area Network
 - **SAP**
    - Stable-Abstractions Principle
+- **SASE**
+   - Secure Access Service Edge
 - **SBA**
    - Space-Based Architecture
 - **SBE**
@@ -824,6 +868,8 @@
    - Systems Development Life Cycle
 - **SDN**
    - Software-Defined Networking
+- **SD-WAN**
+   - Software-Defined WAN
 - **SDP**
    - Stable-Dependencies Principle
 - **SECaaS**
@@ -919,6 +965,7 @@
    - There's More Than One Way To Do It (principle)
 - **TPM**
    - Technical Program Manager
+   - Technological Protection Measure
 - **TO**
    - Timestamp Ordering
 - **TPS**
@@ -985,6 +1032,8 @@
    - Wide Area Network
 - **WBAN**
    - Wireless BAN (Body Area Network)
+- **WCM**
+   - Web Content Management
 - **WFH**
    - Work From Home
 - **WIP**
@@ -1013,6 +1062,8 @@
 ### Z
 - **ZB**
    - Zettabyte
+- **ZTN**
+   - Zero Trust Network
 
 ### 2
 - **2PC**
@@ -1194,6 +1245,7 @@
 - **BAN**: Body Area Network
    - **WBAN**: Wireless BAN (Body Area Network)
 - **VPN**: Virtual Private Network
+- **ZTN**: Zero Trust Network
 
 ### OSI model
 - **Layer 7: Application layer**
@@ -1220,6 +1272,7 @@
 - **AML**: Anti-Money Laundering
 - **FACTA**: Fair and Accurate Credit Transactions Act
 - **HIPPA**: Health Insurance Portability and Accountability Act
+- **DMCA**: Digital Millennium Copyright Act
 
 ### Communication
 - **Synchronous**
@@ -1395,6 +1448,7 @@
 ### Organizations
 - **ISO**: International Organization for Standardization
 - **IEEE**: Institute of Electrical and Electronic Engineers
+- **IETF**: Internet Engineering Task Force
 
 ### Data-size units
 - **b**: bit
@@ -1430,6 +1484,9 @@
 - **BCP**: Business Continuity Planning
 - **B2B**: Business to Business
 - **B2C**: Business to Consumer
+- **B2E**: Business to Employee
+- **C2C**: Consumer to Consumer
+- **C2B**: Consumer to Business
 - **IP**: Intellectual Property
 - **KPI**: Key Performance Indicator
 - **R&D**: Research and Development
