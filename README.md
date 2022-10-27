@@ -1055,7 +1055,7 @@
    - **aPaaS**: application Platform as a Service
    - **iPaaS**: integration Platform as a Service
    - **dPaaS**: data Platform as a Service
-- **IaaS**: Infrastructure as a Service
+- [**IaaS**: Infrastructure as a Service](dictionary/I/IaaS-Infrastructure_As_A_Service.md)
 - **FaaS**: Function as a Service
 - **DaaS**: Destop as a Service
 - **DBaaS**: Database as a Service
