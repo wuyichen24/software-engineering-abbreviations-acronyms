@@ -1052,6 +1052,9 @@
 ### (X)aaS
 - [**SaaS**: Software as a Service](dictionary/S/SaaS-Software_As_A_Service.md)
 - **PaaS**: Platform as a Service
+   - **aPaaS**: application Platform as a Service
+   - **iPaaS**: integration Platform as a Service
+   - **dPaaS**: data Platform as a Service
 - **IaaS**: Infrastructure as a Service
 - **FaaS**: Function as a Service
 - **DaaS**: Destop as a Service
@@ -1063,7 +1066,7 @@
 - **UCaaS**: Unified Communication as a Service
 - **MBaaS**: Mobile Backend as a Service
 - **MSaaS**: Managed Software as a Service
-- **aPaaS**: application Platform as a Service (Same with PaaS)
+
 
 ### (X)DD
 - **TDD**: Test-Driven Development
