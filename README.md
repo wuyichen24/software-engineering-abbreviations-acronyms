@@ -626,7 +626,7 @@
 
 ### N
 - **NaaS**
-   - Network as a Service
+   - [Network as a Service](dictionary/N/NaaS-Network_As_A_Service.md)
 - **NACK**
    - Negative-Acknowledgement
 - **NIT / nit**
@@ -1061,7 +1061,7 @@
 - **DBaaS**: Database as a Service
 - **DCaaS**: Data Center as a Service
 - **CaaS**: Container as a Service
-- **NaaS**: Network as a Service
+- [**NaaS**: Network as a Service](dictionary/N/NaaS-Network_As_A_Service.md)
 - **SECaaS**: Security as a Service
 - **UCaaS**: Unified Communication as a Service
 - **MBaaS**: Mobile Backend as a Service
