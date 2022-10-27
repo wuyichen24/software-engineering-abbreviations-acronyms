@@ -931,8 +931,6 @@
    - Trusted Third Party
 - **TUI**
    - Tangible User Interface
-   - Touch User Interface
-   - Text-based User Interfaces
 
 ### U
 - **UAP**
@@ -1365,12 +1363,10 @@
 - [**UI**: User Interface](dictionary/U/UI-User_Interface.md)
    - [**CLI**: Command-Line Interface](dictionary/C/CLI-Command_Line_Interface.md)
    - [**GUI**: Graphical User Interface](dictionary/G/GUI-Graphical_User_Interface.md)
-   - **AUI**: Attentive User Interface
-   - **OOUI**: Object-Oriented User Interface
-   - **CUI**: Conversational User Interface
-   - **TUI**: Tangible User Interface
-   - **TUI**: Touch User Interface
-   - **TUI**: Text-based User Interfaces
+   - [**AUI**: Attentive User Interface](dictionary/A/AUI-Attentive_User_Interface.md)
+   - [**OOUI**: Object-Oriented User Interface](dictionary/O/OOUI-Object_Oriented_User_Interface.md)
+   - [**CUI**: Conversational User Interface](dictionary/C/CUI-Conversational_User_Interface.md)
+   - [**TUI**: Tangible User Interface](dictionary/T/TUI-Tangible_User_Interface.md)
 
 ### Java
 - **JDBC**: Java Database Connectivity
