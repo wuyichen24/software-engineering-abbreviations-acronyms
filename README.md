@@ -476,7 +476,7 @@
 
 ### I
 - **IaaS**
-   - Infrastructure as a Service
+   - [Infrastructure as a Service](dictionary/I/IaaS-Infrastructure_As_A_Service.md)
 - **IC**
    - Individual Contributor
 - **ICN**
