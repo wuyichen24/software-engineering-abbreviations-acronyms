@@ -251,7 +251,7 @@
 - **CTO**
    - Chief Technology Officer
 - **CUI**
-   - Conversational User Interface
+   - [Conversational User Interface](dictionary/C/CUI-Conversational_User_Interface.md)
 
 ### D
 - **DaaS**
@@ -668,7 +668,7 @@
 - **OOP**
    - Object-Oriented Programming
 - **OOUI**
-   - Object-Oriented User Interface
+   - [Object-Oriented User Interface](dictionary/O/OOUI-Object_Oriented_User_Interface.md)
 - **OpenUP**
    - Open Unified Process
 - **ORB**
@@ -930,7 +930,7 @@
 - **TTP**
    - Trusted Third Party
 - **TUI**
-   - Tangible User Interface
+   - [Tangible User Interface](dictionary/T/TUI-Tangible_User_Interface.md)
 
 ### U
 - **UAP**
