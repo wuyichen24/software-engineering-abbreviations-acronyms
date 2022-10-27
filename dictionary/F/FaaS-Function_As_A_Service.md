@@ -7,6 +7,9 @@
 
 ## Description
 
+## Same and differences
+- [PaaS vs. FaaS](../../differences/PaaS_FaaS.md)
+
 ## See also
 
 ## Wiki
