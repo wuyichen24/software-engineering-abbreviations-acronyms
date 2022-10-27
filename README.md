@@ -113,7 +113,7 @@
 - **ATDD**
    - [Acceptance Test-Driven Development](dictionary/A/ATDD-Acceptance_Test_Driven_Development.md)
 - **AUI**
-   - Attentive User Interface
+   - [Attentive User Interface](dictionary/A/AUI-Attentive_User_Interface.md)
 - **AUP**
    - Agile Unified Process
 - **AWS**
