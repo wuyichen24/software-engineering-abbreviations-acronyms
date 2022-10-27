@@ -1330,6 +1330,7 @@
 - [**DRY**: Don't Repeat Yourself (principle)](dictionary/D/DRY-Dont_Repeat_Yourself.md)
 - **DWIM**: Do What I Mean (principle)
 - **CQS**: Command-Query Separation (principle)
+- [**BDUF**: Big Design Up Front (principle)](dictionary/B/BDUF-Big_Design_Up_Front.md)
 - **Package principles**
    - **Principles of package cohesion**
       - **REP**: Reuse-release Equivalence Principle
