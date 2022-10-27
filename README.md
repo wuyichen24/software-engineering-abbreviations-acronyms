@@ -394,7 +394,7 @@
 
 ### F
 - **FaaS**
-   - Function as a Service
+   - [Function as a Service](dictionary/F/FaaS-Function_As_A_Service.md)
 - **FACTA**
    - Fair and Accurate Credit Transactions Act
 - **FAQ**
@@ -1056,7 +1056,7 @@
    - **iPaaS**: integration Platform as a Service
    - **dPaaS**: data Platform as a Service
 - [**IaaS**: Infrastructure as a Service](dictionary/I/IaaS-Infrastructure_As_A_Service.md)
-- **FaaS**: Function as a Service
+- [**FaaS**: Function as a Service](dictionary/F/FaaS-Function_As_A_Service.md)
 - **DaaS**: Destop as a Service
 - **DBaaS**: Database as a Service
 - **DCaaS**: Data Center as a Service
