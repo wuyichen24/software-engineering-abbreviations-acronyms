@@ -683,7 +683,7 @@
 
 ### P
 - **PaaS**
-   - Platform as a Service
+   - [Platform as a Service](dictionary/P/PaaS-Platform_As_A_Service.md)
 - **PAC**
    - Presentation–Abstraction–Control
 - **PAN**
@@ -798,7 +798,7 @@
 
 ### S
 - **SaaS**
-   - Software as a Service
+   - [Software as a Service](dictionary/S/SaaS-Software_As_A_Service.md)
 - **SAFe**
    - Scaled Agile Framework
 - **SAN**
@@ -1051,7 +1051,7 @@
 
 ### (X)aaS
 - [**SaaS**: Software as a Service](dictionary/S/SaaS-Software_As_A_Service.md)
-- **PaaS**: Platform as a Service
+- [**PaaS**: Platform as a Service](dictionary/P/PaaS-Platform_As_A_Service.md)
    - **aPaaS**: application Platform as a Service
    - **iPaaS**: integration Platform as a Service
    - **dPaaS**: data Platform as a Service
