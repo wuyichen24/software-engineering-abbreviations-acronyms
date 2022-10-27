@@ -1057,6 +1057,10 @@
 - **PaaS**: Platform as a Service
 - **CaaS**: Container as a Service
 - **IaaS**: Infrastructure as a Service
+- **NaaS**: Network as a Service
+- **SECaaS**: Security as a Service
+- **UCaaS**: Unified Communication as a Service
+- **MBaaS / BaaS**: Mobile backend as a service / Backend as a Service
 - **aPaaS**: application Platform as a Service (Same with PaaS)
 
 ### (X)DD
