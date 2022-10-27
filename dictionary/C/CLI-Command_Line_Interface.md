@@ -3,7 +3,7 @@
 ## Name
 
 ## Overview
-- A user interface receives commands from a user in the form of lines of text.
+- A type of user interface receives commands from a user in the form of lines of text.
 
 ## Description
 
