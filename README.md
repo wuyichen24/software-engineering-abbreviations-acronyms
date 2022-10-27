@@ -112,6 +112,8 @@
    - Architecturally-Significant Requirement
 - **ATDD**
    - [Acceptance Test-Driven Development](dictionary/A/ATDD-Acceptance_Test_Driven_Development.md)
+- **AUI**
+   - Attentive User Interface
 - **AUP**
    - Agile Unified Process
 - **AWS**
@@ -248,6 +250,8 @@
    - [Continuous Test-Driven Development](dictionary/C/CTDD-Continuous_Test_Driven_Development.md)
 - **CTO**
    - Chief Technology Officer
+- **CUI**
+   - Conversational User Interface
 
 ### D
 - **DaaS**
@@ -663,6 +667,8 @@
    - Out Of Office
 - **OOP**
    - Object-Oriented Programming
+- **OOUI**
+   - Object-Oriented User Interface
 - **OpenUP**
    - Open Unified Process
 - **ORB**
@@ -923,6 +929,10 @@
    - Time To Live
 - **TTP**
    - Trusted Third Party
+- **TUI**
+   - Tangible User Interface
+   - Touch User Interface
+   - Text-based User Interfaces
 
 ### U
 - **UAP**
