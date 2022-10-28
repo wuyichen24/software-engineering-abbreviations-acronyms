@@ -309,7 +309,7 @@
 - **DMCA**
    - Digital Millennium Copyright Act
 - **DML**
-   - Data Manipulation Language
+   - [Data Manipulation Language](dictionary/D/DML-Data_Manipulation_Language.md)
 - **DND**
    - Do Not Disturb
 - **DNS**
@@ -1182,7 +1182,7 @@
 - **SQL**: Structured Query Language
    - [**DDL**: Data Definition Language](dictionary/D/DDL-Data_Definition_Language.md)
    - [**DQL**: Data Query Language](dictionary/D/DQL-Database_Query_Language.md)
-   - **DML**: Data Manipulation Language
+   - [**DML**: Data Manipulation Language](dictionary/D/DML-Data_Manipulation_Language.md)
    - **DCL**: Data Control Language
 - **WAL**: Write-Ahead Logging (PostgreSQL)
 - **JDBC**: Java Database Connectivity
