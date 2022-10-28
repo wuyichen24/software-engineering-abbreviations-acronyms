@@ -1384,6 +1384,7 @@
 - **DWIM**: Do What I Mean (principle)
 - **CQS**: Command-Query Separation (principle)
 - [**BDUF**: Big Design Up Front (principle)](dictionary/B/BDUF-Big_Design_Up_Front.md)
+- **RDUF**: Rough Design Up Front (principle)
 - **Package principles**
    - **Principles of package cohesion**
       - **REP**: Reuse-release Equivalence Principle
