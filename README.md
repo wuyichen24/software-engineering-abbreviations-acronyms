@@ -454,7 +454,7 @@
 - **GBps**
    - Gigabyte per second
 - **GC**
-   - Garbage Collection
+   - [Garbage Collection](dictionary/G/GC-Garbage_Collection.md)
 - **GCP**
    - Google Cloud Platform
 - **GFS**
