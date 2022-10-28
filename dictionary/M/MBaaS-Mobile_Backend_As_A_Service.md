@@ -10,6 +10,6 @@
 ## See also
 
 ## Wiki
-- [Mobile backend as a service]([https://en.wikipedia.org/wiki/Function_as_a_service](https://en.wikipedia.org/wiki/Mobile_backend_as_a_service))
+- [Mobile backend as a service](https://en.wikipedia.org/wiki/Mobile_backend_as_a_service)
 
 ## References
