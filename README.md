@@ -82,6 +82,8 @@
    - As Far As I Know
 - **AI**
    - Artificial Intelligence
+- **AIOps**
+   - Artificial Intelligence for IT Operations
 - **AKA**
    - As Known As
 - **AKM**
