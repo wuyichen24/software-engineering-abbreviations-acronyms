@@ -453,6 +453,8 @@
    - Gigabyte
 - **GBps**
    - Gigabyte per second
+- **GC**
+   - Garbage Collection
 - **GCP**
    - Google Cloud Platform
 - **GFS**
