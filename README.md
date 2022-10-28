@@ -1117,7 +1117,7 @@
 - [**NaaS**: Network as a Service](dictionary/N/NaaS-Network_As_A_Service.md)
 - **SECaaS**: Security as a Service
 - **UCaaS**: Unified Communication as a Service
-- **MBaaS**: [Mobile Backend as a Service](dictionary/M/MBaaS-Mobile_Backend_As_A_Service.md)
+- [**MBaaS**: Mobile Backend as a Service](dictionary/M/MBaaS-Mobile_Backend_As_A_Service.md)
 - **MSaaS**: Managed Software as a Service
 
 
