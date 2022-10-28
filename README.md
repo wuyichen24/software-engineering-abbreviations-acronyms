@@ -273,12 +273,14 @@
    - Desktop as a Service
 - **DAD**
    - Disciplined Agile Delivery
+- **DB**
+   - Database
 - **DBA**
    - [Database Administrator](dictionary/D/DBA-Database_Administrator.md)
 - **DBaaS**
    - Database as a Service
 - **DBMS**
-   - Database Management System
+   - [Database Management System](dictionary/D/DBMS-Database_Management_System.md)
 - **DC**
    - Data Center
 - **DCI**
@@ -1166,8 +1168,9 @@
 
 ## Group by topic
 ### Database
+- [**DB**: Database](dictionary/D/DB-Database.md)
 - [**DBA**: Database Administrator](dictionary/D/DBA-Database_Administrator.md)
-- **DBMS**: Database Management System
+- [**DBMS**: Database Management System](dictionary/D/DBMS-Database_Management_System.md)
 - **RDBMS**: Relational Database Management System
 - **ACID**: Atomicity, Consistency, Isolation, and Durability
 - **PK**: Primary Key
