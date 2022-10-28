@@ -292,7 +292,7 @@
 - **DDD**
    - [Domain-Driven Design](dictionary/D/DDD-Domain_Driven_Design.md)
 - **DDL**
-   - Data Definition Language
+   - [Data Definition Language](dictionary/D/DDL-Data_Definition_Language.md)
 - **DDoS**
    - Distributed Denial-of-Service (attack)
 - **DES**
@@ -1180,7 +1180,7 @@
 - **CAP theorem**: Consistency, Availability and Partition tolerance
 - **CRUD**: Create, Read, Update and Delete
 - **SQL**: Structured Query Language
-- **DDL**: Data Definition Language
+- [**DDL**: Data Definition Language](dictionary/D/DDL-Data_Definition_Language.md)
 - **DQL**: Database Query Language
 - **DML**: Data Manipulation Language
 - **DCL**: Data Control Language
