@@ -3,8 +3,8 @@
 ## Name
 
 ## Overview
-- A sub-language of SQL for controlling access to data stored in a database.
-- Common examples of DCL statements include `GRANT` and `REVOKE`.
+- A syntax for controlling access to data stored in a database.
+- Common examples of DCL in SQL are `GRANT` and `REVOKE`.
 
 ## Description
 
