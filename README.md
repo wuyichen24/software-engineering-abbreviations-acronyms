@@ -1171,7 +1171,7 @@
 - [**DB**: Database](dictionary/D/DB-Database.md)
 - [**DBA**: Database Administrator](dictionary/D/DBA-Database_Administrator.md)
 - [**DBMS**: Database Management System](dictionary/D/DBMS-Database_Management_System.md)
-- [**RDBMS**: Relational Database Management System](dictionary/R/RDBMS-Relational_Database_Management_System.md)
+   - [**RDBMS**: Relational Database Management System](dictionary/R/RDBMS-Relational_Database_Management_System.md)
 - **ACID**: Atomicity, Consistency, Isolation, and Durability
 - **PK**: Primary Key
 - **FK**: Foreign Key
@@ -1180,10 +1180,10 @@
 - **CAP theorem**: Consistency, Availability and Partition tolerance
 - **CRUD**: Create, Read, Update and Delete
 - **SQL**: Structured Query Language
-- [**DDL**: Data Definition Language](dictionary/D/DDL-Data_Definition_Language.md)
-- **DQL**: Data Query Language
-- **DML**: Data Manipulation Language
-- **DCL**: Data Control Language
+   - [**DDL**: Data Definition Language](dictionary/D/DDL-Data_Definition_Language.md)
+   - **DQL**: Data Query Language
+   - **DML**: Data Manipulation Language
+   - **DCL**: Data Control Language
 - **WAL**: Write-Ahead Logging (PostgreSQL)
 - **JDBC**: Java Database Connectivity
 - **ODBC**: Open Database Connectivity
