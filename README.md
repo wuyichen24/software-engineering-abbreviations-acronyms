@@ -811,7 +811,7 @@
 - **RCA**
    - Root Cause Analysis
 - **RDBMS**
-   - Relational Database Management System
+   - [Relational Database Management System](dictionary/R/RDBMS-Relational_Database_Management_System.md)
 - **RDUF**
    - Rough Design Up Front (principle)
 - **RE**
@@ -1171,7 +1171,7 @@
 - [**DB**: Database](dictionary/D/DB-Database.md)
 - [**DBA**: Database Administrator](dictionary/D/DBA-Database_Administrator.md)
 - [**DBMS**: Database Management System](dictionary/D/DBMS-Database_Management_System.md)
-- **RDBMS**: Relational Database Management System
+- [**RDBMS**: Relational Database Management System](dictionary/R/RDBMS-Relational_Database_Management_System.md)
 - **ACID**: Atomicity, Consistency, Isolation, and Durability
 - **PK**: Primary Key
 - **FK**: Foreign Key
