@@ -4,6 +4,7 @@
 
 ## Overview
 - A type of software interacts with users and applications to define, create, query, maintain and secure a relational database.
+- An extension of database management system (DBMS).
 
 ## Description
 
