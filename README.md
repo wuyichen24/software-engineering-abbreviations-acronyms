@@ -1334,7 +1334,7 @@
    - **OCC**: Optimistic Concurrency Control (Optimistic locking)
    - **PCC**: Pessimistic Concurrency Control (Pessimistic locking)
 - **Methods**
-   - **2P**L: 2-Phase Locking
+   - **2PL**: 2-Phase Locking
    - **S2PL**: Strict 2-Phase Locking
    - **SS2PL**: Strong Strict 2-Phase Locking
    - **TO**: Timestamp Ordering
