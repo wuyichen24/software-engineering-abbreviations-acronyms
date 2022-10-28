@@ -3,8 +3,8 @@
 ## Name
 
 ## Overview
-- A sub-language of SQL for performing queries on the data in the database.
-- An example of DQL statements is `SELECT`.
+- A syntax for performing queries on the data in the database.
+- A common example of DQL in SQL is `SELECT`.
 
 ## Description
 
