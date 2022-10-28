@@ -99,7 +99,7 @@
 - **aPaaS**
    - application Platform as a Service (Same with PaaS)
 - **API**
-   - Application Programming Interface
+   - [Application Programming Interface](dictionary/A/API-Application_Programming_Interface.md)
 - **APM**
    - Application Performance Monitoring
    - Agile Project Management
@@ -274,7 +274,7 @@
 - **DAD**
    - Disciplined Agile Delivery
 - **DBA**
-   - Database Administrator
+   - [Database Administrator](dictionary/D/DBA-Database_Administrator.md)
 - **DBaaS**
    - Database as a Service
 - **DBMS**
@@ -1166,7 +1166,7 @@
 
 ## Group by topic
 ### Database
-- **DBA**: Database Administrator
+- [**DBA**: Database Administrator](dictionary/D/DBA-Database_Administrator.md)
 - **DBMS**: Database Management System
 - **RDBMS**: Relational Database Management System
 - **ACID**: Atomicity, Consistency, Isolation, and Durability
