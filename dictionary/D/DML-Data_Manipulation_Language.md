@@ -3,8 +3,8 @@
 ## Name
 
 ## Overview
-- A sub-language of SQL for adding (inserting), deleting, and modifying (updating) data in a database.
-- Common examples of DML statements include `INSERT`, `UPDATE`, and `DELETE`.
+- A syntax for adding (inserting), deleting, and modifying (updating) data in a database.
+- Common examples of DML in SQL are `INSERT`, `UPDATE`, and `DELETE`.
 
 ## Description
 
