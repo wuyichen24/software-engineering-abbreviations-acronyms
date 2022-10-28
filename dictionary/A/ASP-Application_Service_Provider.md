@@ -3,7 +3,7 @@
 ## Name
 
 ## Overview
-- A business providing application software generally through the Web.
+- A company providing application software generally through the Web.
 
 ## Description
 
