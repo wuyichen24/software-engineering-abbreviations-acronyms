@@ -3,8 +3,8 @@
 ## Name
 
 ## Overview
-- A sub-language of SQL for creating and modifying database objects such as tables, indices, and users.
-- Common examples of DDL statements include `CREATE`, `ALTER`, `DROP`, and `TRUNCATE`.
+- A syntax for creating and modifying database objects such as tables, indices, and users.
+- Common examples of DDL for SQL are `CREATE`, `ALTER`, `DROP`, and `TRUNCATE`.
 
 ## Description
 
