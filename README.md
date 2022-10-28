@@ -286,7 +286,7 @@
 - **DCI**
    - Data Center Interconnect
 - **DCL**
-   - Data Control Language
+   - [Data Control Language](dictionary/D/DCL-Data_Control_Language.md)
 - **DCO**
    - Data Center Outsourcing
 - **DDD**
@@ -1183,7 +1183,7 @@
    - [**DDL**: Data Definition Language](dictionary/D/DDL-Data_Definition_Language.md)
    - [**DQL**: Data Query Language](dictionary/D/DQL-Database_Query_Language.md)
    - [**DML**: Data Manipulation Language](dictionary/D/DML-Data_Manipulation_Language.md)
-   - **DCL**: Data Control Language
+   - [**DCL**: Data Control Language](dictionary/D/DCL-Data_Control_Language.md)
 - **WAL**: Write-Ahead Logging (PostgreSQL)
 - **JDBC**: Java Database Connectivity
 - **ODBC**: Open Database Connectivity
