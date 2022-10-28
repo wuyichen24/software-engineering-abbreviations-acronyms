@@ -3,7 +3,7 @@
 ## Name
 
 ## Overview
-- A sub-language of SQL for performing queries on the data within schema objects.
+- A sub-language of SQL for performing queries on the data in the database.
 - An example of DQL statements is `SELECT`.
 
 ## Description
