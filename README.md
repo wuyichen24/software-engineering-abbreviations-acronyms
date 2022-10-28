@@ -274,7 +274,7 @@
 - **DAD**
    - Disciplined Agile Delivery
 - **DB**
-   - Database
+   - [Database](dictionary/D/DB-Database.md)
 - **DBA**
    - [Database Administrator](dictionary/D/DBA-Database_Administrator.md)
 - **DBaaS**
