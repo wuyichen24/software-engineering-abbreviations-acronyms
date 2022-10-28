@@ -321,7 +321,7 @@
 - **DORA**
    - DevOps Research and Assessment
 - **DQL**
-   - Data Query Language
+   - [Data Query Language](dictionary/D/DQL-Database_Query_Language.md)
 - **DR**
    - Disaster Recovery
 - **DRM**
@@ -1181,7 +1181,7 @@
 - **CRUD**: Create, Read, Update and Delete
 - **SQL**: Structured Query Language
    - [**DDL**: Data Definition Language](dictionary/D/DDL-Data_Definition_Language.md)
-   - **DQL**: Data Query Language
+   - [**DQL**: Data Query Language](dictionary/D/DQL-Database_Query_Language.md)
    - **DML**: Data Manipulation Language
    - **DCL**: Data Control Language
 - **WAL**: Write-Ahead Logging (PostgreSQL)
