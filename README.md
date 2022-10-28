@@ -110,6 +110,8 @@
    - American Standard Code for Information Interchange
 - **ASD**
    - Adaptive Software Development
+- **ASP**
+   - Application Service Provider
 - **ASR**
    - Architecturally-Significant Requirement
 - **ATDD**
@@ -1147,6 +1149,7 @@
 - **TBps**: Terabyte per second
 
 ### (X)SP
+- **ASP**: Application Service Provider
 - **CSP**: Cloud Service Provider
 - **ISP**: Internet Service Provider
 - **PSP**: Payment Service Provider
