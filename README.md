@@ -111,7 +111,7 @@
 - **ASD**
    - Adaptive Software Development
 - **ASP**
-   - Application Service Provider
+   - [Application Service Provider](dictionary/A/ASP-Application_Service_Provider.md)
 - **ASR**
    - Architecturally-Significant Requirement
 - **ATDD**
@@ -249,7 +249,7 @@
 - **CSO**
    - Chief Security Officer
 - **CSP**
-   - Cloud Service Provider
+   - [Cloud Service Provider](dictionary/C/CSP-Cloud_Service_Provider.md)
 - **CSS**
    - Cascading Style Sheets
 - **CST**
@@ -543,7 +543,7 @@
 - **ISO**
    - International Organization for Standardization
 - **ISP**
-   - Internet Service Provider
+   - [Internet Service Provider](dictionary/I/ISP-Internet_Service_Provider.md)
 - **ISV**
    - Independent Software Vendor
 - **IT**
@@ -765,7 +765,7 @@
 - **Protobuf**
    - Protocol Buffers
 - **PSP**
-   - Payment Service Provider
+   - [Payment Service Provider](dictionary/P/PSP-Payment_Service_Provider.md)
 - **PST**
    - Pacific Time Zone
 - **PTE**
@@ -1149,10 +1149,10 @@
 - **TBps**: Terabyte per second
 
 ### (X)SP
-- **ASP**: Application Service Provider
-- **CSP**: Cloud Service Provider
-- **ISP**: Internet Service Provider
-- **PSP**: Payment Service Provider
+- [**ASP**: Application Service Provider](dictionary/A/ASP-Application_Service_Provider.md)
+- [**CSP**: Cloud Service Provider](dictionary/C/CSP-Cloud_Service_Provider.md)
+- [**ISP**: Internet Service Provider](dictionary/I/ISP-Internet_Service_Provider.md)
+- [**PSP**: Payment Service Provider](dictionary/P/PSP-Payment_Service_Provider.md)
 
 ### (X)UT
 - **DUT**: Device Under Test
