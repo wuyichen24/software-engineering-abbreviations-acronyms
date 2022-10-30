@@ -636,6 +636,8 @@
    - Multi-Factor Authentication
 - **MFT**
    - Managed File Transfer
+- **MIME**
+   - Multipurpose Internet Mail Extension
 - **MIS**
    - Management Information System
 - **ML**
@@ -984,6 +986,8 @@
    - Technological Protection Measure
 - **TO**
    - Timestamp Ordering
+- **TPA**
+   - Third-Party Authenticator
 - **TPS**
    - Transactions Per Second
 - **TSV**
@@ -1086,6 +1090,8 @@
    - Zero Trust Network
 
 ### 2
+- **2FA**
+   - Two-Factor Authentication (Same with MFA)
 - **2PC**
    - [Two-Phase Commit](dictionary/2/2PC-Two_Phase_Commit.md)
 - **2PL**
