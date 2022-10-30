@@ -316,6 +316,8 @@
    - [Domain Name System](dictionary/D/DNS-Domain_Name_System.md)
 - **DOB**
    - Date Of Birth
+- **DOCTYPE**
+   - DOCument TYPE declaration
 - **DOM**
    - Document Object Model
 - **DORA**
@@ -338,6 +340,8 @@
    - Daylight Saving Time
 - **DSV**
    - Delimiter-Separated Values
+- **DTD**
+   - Document Type Definition
 - **DTSTTCPW**
    - Do The Simplest Thing That Could Possibly Work (principle)
 - **DUT**
@@ -887,6 +891,8 @@
 - **SFTP**
    - SSH File Transfer Protocol
    - Secure File Transfer Protocol
+- **SGML**
+   - Standard Generalized Markup Language
 - **SLA**
    - [Service Level Agreement](dictionary/S/SLA-Service_Level_Agreement.md)
 - **SLI**
@@ -1052,12 +1058,16 @@
    - Web Service
 - **WSDL**
    - Web Service Description Language
+- **W3C**
+   - World Wide Web Consortium
 
 ### X
 - **XML**
    - Extensible Markup Language
 - **XP**
    - Extreme Programming
+- **XSD**
+   - XML Schema Definition
 
 ### Y
 - **YAGNI**
@@ -1460,6 +1470,7 @@
 - **ISO**: International Organization for Standardization
 - **IEEE**: Institute of Electrical and Electronic Engineers
 - **IETF**: Internet Engineering Task Force
+- **W3C**: World Wide Web Consortium
 
 ### Data-size units
 - **b**: bit
