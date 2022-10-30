@@ -515,6 +515,8 @@
 ### I
 - **IaaS**
    - [Infrastructure as a Service](dictionary/I/IaaS-Infrastructure_As_A_Service.md)
+- **IAM**
+   - Identity and Access Management
 - **IC**
    - Individual Contributor
 - **ICN**
@@ -523,6 +525,8 @@
    - Integrated Development Environment
 - **IDL**
    - Interface Definition Language
+- **IdM**
+   - Identity Management
 - **IEEE**
    - Institute of Electrical and Electronic Engineers
 - **IETF**
@@ -644,6 +648,8 @@
    - Machine Learning
 - **MOM**
    - Message-Oriented Middleware
+- **MPA**
+   - Multi-Party Authorization
 - **MQ**
    - Message Queue
 - **MTBF**
@@ -681,6 +687,8 @@
    - [Network as a Service](dictionary/N/NaaS-Network_As_A_Service.md)
 - **NACK**
    - Negative-Acknowledgement
+- **NIS**
+   - Network Information Service
 - **NIT / nit**
    - nit-pick / nitpicking / Nitpick
 - **NLP**
@@ -736,6 +744,10 @@
 - **OSS**
    - Open-Source Software
    - Object Storage Service (Alibaba Cloud)
+- **OTAC**
+   - One-Time Authorization Code
+- **OTP**
+   - One-Time Password
 
 ### P
 - **PaaS**
@@ -859,6 +871,8 @@
    - [Software as a Service](dictionary/S/SaaS-Software_As_A_Service.md)
 - **SAFe**
    - Scaled Agile Framework
+- **SAML**
+   - Security Assertion Markup Language
 - **SAN**
    - Storage Area Network
 - **SAP**
