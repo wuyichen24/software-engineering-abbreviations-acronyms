@@ -332,6 +332,8 @@
    - Disaster Recovery Plan
 - **DRY**
    - [Don't Repeat Yourself (principle)](dictionary/D/DRY-Dont_Repeat_Yourself.md)
+- **DSDL**
+   - Document Schema Definition Language
 - **DSDM**
    - Dynamic Systems Development Method
 - **DSL**
