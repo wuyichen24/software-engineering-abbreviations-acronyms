@@ -766,6 +766,8 @@
    - Pessimistic Concurrency Control (Pessimistic locking)
 - **PCI**
    - Payment Card Industry
+- **PCI-DSS**
+   - Payment Card Industry Data Security Standard
 - **PIN**
    - Personal Identification Number
 - **PK**
