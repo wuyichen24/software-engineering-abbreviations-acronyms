@@ -758,6 +758,8 @@
    - Presentation–Abstraction–Control
 - **PAN**
    - Personal Area Network
+- **PAT**
+   - Personal Access Token
 - **PB**
    - Petabyte
 - **PBI**
