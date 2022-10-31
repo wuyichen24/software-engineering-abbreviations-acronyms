@@ -1060,6 +1060,8 @@
    - Virtual LAN (Local Area Network)
 - **VPN**
    - Virtual Private Network
+- **VS**
+   - Visual Studio
 - **V&V**
    - Verification and Validation
 
