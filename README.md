@@ -951,7 +951,7 @@
 - **SQA**
    - Software Quality Assurance
 - **SQL**
-   - Structured Query Language
+   - [Structured Query Language](dictionary/S/SQL-Structured_Query_Language.md)
 - **SRE**
    - Site Reliability Engineering
 - **SRLC**
@@ -1223,7 +1223,7 @@
 - **CLOB**: Character Large OBject
 - **CAP theorem**: Consistency, Availability and Partition tolerance
 - **CRUD**: Create, Read, Update and Delete
-- **SQL**: Structured Query Language
+- [**SQL**: Structured Query Language](dictionary/S/SQL-Structured_Query_Language.md)
    - [**DDL**: Data Definition Language](dictionary/D/DDL-Data_Definition_Language.md)
    - [**DQL**: Data Query Language](dictionary/D/DQL-Database_Query_Language.md)
    - [**DML**: Data Manipulation Language](dictionary/D/DML-Data_Manipulation_Language.md)
