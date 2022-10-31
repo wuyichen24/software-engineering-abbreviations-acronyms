@@ -8,7 +8,7 @@
    - **Soft state**: Without consistency guarantees, after some amount of time, we only have some probability of knowing the state, since it may not yet have converged.
    - **Eventually consistent**: If the system is functioning and we wait long enough after any given set of inputs, we will eventually be able to know what the state of the database is, and so any further reads will be consistent with our expect.
 - It guarantees availability over consistency.
-- It is the opposite of ACID.
+- It is the opposite of [ACID](../A/ACID-Atomicity_Consistency_Isolation_Durability.md).
 
 ## Description
 
