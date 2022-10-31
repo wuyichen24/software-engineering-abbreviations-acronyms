@@ -131,7 +131,7 @@
 - **BAN**
    - Body Area Network
 - **BASE**
-   - Basically Available, Soft state, Eventually consistent
+   - [Basically Available, Soft state, Eventually consistent](dictionary/B/BASE-Basically_Available_Soft_State_Eventually_Consistent.md)
 - **BC**
    - Business Continuity
 - **BCE**
