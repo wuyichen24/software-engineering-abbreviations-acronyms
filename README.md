@@ -709,6 +709,8 @@
    - Open Database Connectivity
 - **ODS**
    - Operational Data Store
+- **OIDC**
+   - OpenID Connect
 - **OKR**
    - Objectives and Key Results 
 - **OLAP**
