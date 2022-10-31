@@ -652,6 +652,8 @@
    - Multi-Party Authorization
 - **MQ**
    - Message Queue
+- **MS**
+   - Microsoft
 - **MTBF**
    - Mean Time Before Failure
 - **MTDC**
