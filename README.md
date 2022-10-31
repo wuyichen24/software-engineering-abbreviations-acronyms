@@ -768,6 +768,8 @@
    - Payment Card Industry
 - **PCI-DSS**
    - Payment Card Industry Data Security Standard
+- **PEP**
+   - Python Enhancement Proposals
 - **PIN**
    - Personal Identification Number
 - **PK**
