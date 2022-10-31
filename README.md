@@ -243,7 +243,7 @@
 - **CRP**
    - Common-Reuse Principle
 - **CRUD**
-   - Create, Read, Update and Delete
+   - [Create, Read, Update and Delete](dictionary/C/CRUD-Create_Read_Update_Delete.md)
 - **CSA**
    - Cloud Security Alliance
 - **CSO**
@@ -1222,7 +1222,7 @@
 - **BLOB**: Binary Large OBject
 - **CLOB**: Character Large OBject
 - **CAP theorem**: Consistency, Availability and Partition tolerance
-- **CRUD**: Create, Read, Update and Delete
+- [**CRUD**: Create, Read, Update and Delete](dictionary/C/CRUD-Create_Read_Update_Delete.md)
 - [**SQL**: Structured Query Language](dictionary/S/SQL-Structured_Query_Language.md)
    - [**DDL**: Data Definition Language](dictionary/D/DDL-Data_Definition_Language.md)
    - [**DQL**: Data Query Language](dictionary/D/DQL-Database_Query_Language.md)
