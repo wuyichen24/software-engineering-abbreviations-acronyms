@@ -9,7 +9,7 @@
    - **Isolation**: Concurrently executing transactions shouldn’t interfere with each other.
    - **Durability**: Once a transaction has committed successfully, any data it has written will not be forgotten, even if there is a hardware fault or the database crashes.
 - It guarantees consistency over availability.
-- It is the opposite of BASE.
+- It is the opposite of [BASE](../B/BASE-Basically_Available_Soft_State_Eventually_Consistent.md).
 
 ## Description
 
