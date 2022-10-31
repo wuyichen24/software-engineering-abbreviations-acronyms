@@ -1216,7 +1216,8 @@
 - [**DBA**: Database Administrator](dictionary/D/DBA-Database_Administrator.md)
 - [**DBMS**: Database Management System](dictionary/D/DBMS-Database_Management_System.md)
    - [**RDBMS**: Relational Database Management System](dictionary/R/RDBMS-Relational_Database_Management_System.md)
-- **ACID**: Atomicity, Consistency, Isolation, and Durability
+- [**ACID**: Atomicity, Consistency, Isolation, and Durability](dictionary/A/ACID-Atomicity_Consistency_Isolation_Durability.md)
+- **BASE**
 - **PK**: Primary Key
 - **FK**: Foreign Key
 - **BLOB**: Binary Large OBject
