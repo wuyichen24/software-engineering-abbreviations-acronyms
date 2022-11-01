@@ -835,7 +835,7 @@
 - **RAB**
    - Rapid Application Building (Same with RAD)
 - **RAD**
-   - Rapid Application Development
+   - [Rapid Application Development](dictionary/R/RAD-Rapid_Application_Development.md)
 - **RAID**
    - Redundant Array of Inexpensive Disks / Redundant Array of Independent Disks
 - **RAM**
