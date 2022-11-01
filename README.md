@@ -493,6 +493,8 @@
    - Hexadecimal
 - **HIPAA**
    - Health Insurance Portability and Accountability Act
+- **HMAC**
+   - Hash-based Message Authentication Code
 - **HMVC**
    - Hierarchical Model–View–Controller
 - **HOOD**
@@ -620,6 +622,8 @@
    - Linux, Yaws, Mnesia, Erlang (tech stack)
 
 ### M
+- **MAC**
+   - Message Authentication Code
 - **MAN**
    - Metropolitan Area Network
 - **MB**
