@@ -418,7 +418,7 @@
 - **ETA**
    - Estimated Time of Arrival
 - **ETL**
-   - [Extract, Transform, and Load](dictionary/E/ELT-Extract_Load_Transform.md)
+   - [Extract, Transform, and Load](dictionary/E/ETL-Extract_Transform_Load.md)
 - **EUT**
    - Equipment Under Test
 - **E2E**
@@ -1241,7 +1241,7 @@
 - **DW**: Data Warehouse
 - **DWH**: Data WareHouse (Same with DW)
 - **EWD**: Enterprise Data Warehouse (Same with DW)
-- [**ETL**: Extract, Transform, and Load](dictionary/E/ELT-Extract_Load_Transform.md)
+- [**ETL**: Extract, Transform, and Load](dictionary/E/ETL-Extract_Transform_Load.md)
 - **ELT**: Extract, Load, and Transform
 - **ELK**: Elasticsearch, Logstash, and Kibana (tech stack)
 
