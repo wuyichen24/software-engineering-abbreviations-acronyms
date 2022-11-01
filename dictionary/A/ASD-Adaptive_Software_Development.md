@@ -4,7 +4,7 @@
 
 ## Overview
 - A software development process enable teams to quickly and effectively adapt to changing requirements or market needs by dynamic cycles (A repeating series of *speculate*, *collaborate*, and *learn*).
-- ASD is also an antecedent to agile software development.
+- ASD is an antecedent to agile software development.
 
 ## Description
 
