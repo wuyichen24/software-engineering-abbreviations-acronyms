@@ -109,7 +109,7 @@
 - **ASCII**
    - American Standard Code for Information Interchange
 - **ASD**
-   - Adaptive Software Development
+   - [Adaptive Software Development](dictionary/A/ASD-Adaptive_Software_Development.md)
 - **ASP**
    - [Application Service Provider](dictionary/A/ASP-Application_Service_Provider.md)
 - **ASR**
@@ -1411,12 +1411,12 @@
 - **UDD**: User-Driven Development (Same with UCD)
 
 ### Software development process
-- **ASD**: Adaptive Software Development
+- **RAD**: Rapid Application Development
+- [**ASD**: Adaptive Software Development](dictionary/A/ASD-Adaptive_Software_Development.md)
 - **USD**: Unified Software Development
    - **RUP**: Rational Unified Process
    - **OpenUP**: Open Unified Process
    - **AUP**: Agile Unified Process
-- **RAD**: Rapid Application Development
 - **RAB**: Rapid Application Building (Same with RAD)
 - **DSDM**: Dynamic Systems Development Method
 
