@@ -19,3 +19,4 @@
 - [Rapid application development](https://en.wikipedia.org/wiki/Rapid_application_development)
 
 ## References
+- [OutSystems | What Is Rapid Application Development?](https://www.outsystems.com/glossary/what-is-rapid-application-development/)
