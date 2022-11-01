@@ -5,7 +5,7 @@
 ## Overview
 - A three-phase process where data is extracted, transformed (cleaned, sanitized, scrubbed) and loaded into an output data container.
 
-  ![ETL-Process](https://user-images.githubusercontent.com/8989447/199311153-ac97def6-31b4-4240-97a4-ac9df7e49cb8.jpeg)
+  <img width="577" alt="Screen Shot 2022-11-01 at 12 33 50 PM" src="https://user-images.githubusercontent.com/8989447/199322490-e2feab12-3101-4fd5-b982-352309b2f323.png">
 
 ## Description
 
