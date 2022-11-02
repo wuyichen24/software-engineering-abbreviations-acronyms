@@ -385,7 +385,7 @@
 - **ELK**
    - Elasticsearch, Logstash, and Kibana (tech stack)
 - **ELT**
-   - Extract, Load, and Transform
+   - [Extract, Load, and Transform](dictionary/E/ELT-Extract_Load_Transform.md)
 - **EMV**
    - Europay, Mastercard and Visa
 - **EOD**
@@ -1242,7 +1242,7 @@
 - **DWH**: Data WareHouse (Same with DW)
 - **EWD**: Enterprise Data Warehouse (Same with DW)
 - [**ETL**: Extract, Transform, and Load](dictionary/E/ETL-Extract_Transform_Load.md)
-- **ELT**: Extract, Load, and Transform
+- [**ELT**: Extract, Load, and Transform](dictionary/E/ELT-Extract_Load_Transform.md)
 - **ELK**: Elasticsearch, Logstash, and Kibana (tech stack)
 
 ### Data interchange format
