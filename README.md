@@ -374,12 +374,16 @@
    - Enterprise Content Management
 - **ECO**
    - Extended Commitment Ordering
+- **ECRS**
+   - Expense and Cost Recovery System
 - **EDA**
    - Event-Driven Architecture
 - **EDD**
    - Example-Driven Development
 - **EDH**
    - Enterprise Data Hub
+- **EDI**
+   - Electronic Data Interchange
 - **EDW**
    - Enterprise Data Warehouse (Same with DW)
 - **ELK**
@@ -608,6 +612,8 @@
    - Linux, Yaws, CouchDB, Erlang (tech stack)
 - **LDAP**
    - Lightweight Directory Access Protocol
+- **LEDES**
+   - Legal Electronic Data Exchange Standard
 - **LeSS**
    - Large-Scale Scrum
 - **LGTM**
@@ -1510,6 +1516,7 @@
 - **IEEE**: Institute of Electrical and Electronic Engineers
 - **IETF**: Internet Engineering Task Force
 - **W3C**: World Wide Web Consortium
+- **LEDES**: Legal Electronic Data Exchange Standard
 
 ### Data-size units
 - **b**: bit
