@@ -340,7 +340,7 @@
 - **DST**
    - Daylight Saving Time
 - **DSV**
-   - Delimiter-Separated Values
+   - [Delimiter-Separated Values](dictionary/D/DSV-Delimiter_Separated_Values.md)
 - **DTD**
    - Document Type Definition
 - **DTSTTCPW**
@@ -1259,7 +1259,7 @@
 - [**BSON**: Binary JSON (JavaScript Object Notation)](dictionary/B/BSON-Binary_JSON.md)
 - [**CSV**: Comma-Separated Values](dictionary/C/CSV-Comma_Separated_Values.md)
 - [**TSV**: Tab-Separated Values](dictionary/T/TSV-Tab_Separated_Values.md)
-- **DSV**: Delimiter-Separated Values
+- [**DSV**: Delimiter-Separated Values](dictionary/D/DSV-Delimiter_Separated_Values.md)
 - **Protobuf**: Protocol buffers
 
 ### Incident metrics
