@@ -4,7 +4,7 @@
 
 ## Overview
 - A delimited text format that uses a tab character to separate values.
-   - Each line of the file is a data record
+   - Each line of the file is a data record.
    - Each record consists of one or more fields, separated by tab characters.
 - Example
   ```tsv
