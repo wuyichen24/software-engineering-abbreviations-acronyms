@@ -238,7 +238,7 @@
 - **CQS**
    - Command-Query Separation (principle)
 - **CRM**
-   - Customer Relationship Management
+   - [Customer Relationship Management](dictionary/C/CRM-Customer_Relationship_Management.md)
 - **CRP**
    - Common-Reuse Principle
 - **CRUD**
