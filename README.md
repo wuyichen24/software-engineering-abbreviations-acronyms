@@ -254,7 +254,7 @@
 - **CST**
    - Central Standard Time
 - **CSV**
-   - Comma-Separated Values
+   - [Comma-Separated Values](dictionary/C/CSV-Comma_Separated_Values.md)
 - **CTDD**
    - [Continuous Test-Driven Development](dictionary/C/CTDD-Continuous_Test_Driven_Development.md)
 - **CTO**
@@ -1024,7 +1024,7 @@
 - **TPS**
    - Transactions Per Second
 - **TSV**
-   - Tab-Separated Values
+   - [Tab-Separated Values](dictionary/T/TSV-Tab_Separated_Values.md)
 - **TTL**
    - Time To Live
 - **TTP**
@@ -1257,8 +1257,8 @@
 - [**XML**: Extensible Markup Language](dictionary/X/XML-Extensible_Markup_Language.md)
 - [**JSON**: JavaScript Object Notation](dictionary/J/JSON-JavaScript_Object_Notation.md)
 - [**BSON**: Binary JSON (JavaScript Object Notation)](dictionary/B/BSON-Binary_JSON.md)
-- **CSV**: Comma-Separated Values
-- **TSV**: Tab-Separated Values
+- [**CSV**: Comma-Separated Values](dictionary/C/CSV-Comma_Separated_Values.md)
+- [**TSV**: Tab-Separated Values](dictionary/T/TSV-Tab_Separated_Values.md)
 - **DSV**: Delimiter-Separated Values
 - **Protobuf**: Protocol buffers
 
