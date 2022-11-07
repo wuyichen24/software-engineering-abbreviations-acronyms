@@ -1106,7 +1106,7 @@
 
 ### X
 - **XML**
-   - Extensible Markup Language
+   - [Extensible Markup Language](dictionary/X/XML-Extensible_Markup_Language.md)
 - **XP**
    - Extreme Programming
 - **XSD**
@@ -1254,7 +1254,7 @@
 - **ELK**: Elasticsearch, Logstash, and Kibana (tech stack)
 
 ### Data interchange format
-- **XML**: Extensible Markup Language
+- [**XML**: Extensible Markup Language](dictionary/X/XML-Extensible_Markup_Language.md)
 - **JSON**: JavaScript Object Notation
 - **BSON**: Binary JSON (JavaScript Object Notation)
 - **CSV**: Comma-Separated Values
