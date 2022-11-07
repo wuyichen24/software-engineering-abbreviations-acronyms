@@ -3,7 +3,7 @@
 ## Name
 
 ## Overview
-- A delimited text file that uses a comma to separate values.
+- A delimited text format that uses a comma to separate values.
    - Each line of the file is a data record
    - Each record consists of one or more fields, separated by commas.
 - Example:
