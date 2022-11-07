@@ -443,7 +443,7 @@
 - **FIFO**
    - First In, First Out
 - **FK**
-   - Foreign Key
+   - [Foreign Key](dictionary/F/FK-Foreign_Key.md)
 - **FP**
    - Functional Programming
 - **FSM**
@@ -1230,7 +1230,7 @@
 - [**ACID**: Atomicity, Consistency, Isolation, and Durability](dictionary/A/ACID-Atomicity_Consistency_Isolation_Durability.md)
 - [**BASE**: Basically Available, Soft state, Eventually consistent](dictionary/B/BASE-Basically_Available_Soft_State_Eventually_Consistent.md)
 - [**PK**: Primary Key](dictionary/P/PK-Primary_Key.md)
-- **FK**: Foreign Key
+- [**FK**: Foreign Key](dictionary/F/FK-Foreign_Key.md)
 - **BLOB**: Binary Large OBject
 - **CLOB**: Character Large OBject
 - **CAP theorem**: Consistency, Availability and Partition tolerance
