@@ -3,7 +3,7 @@
 ## Name
 
 ## Overview
-- A collection of binary data stored as a single entity.
+- A collection of binary data stored as a single entity in the database.
 
 ## Description
 
