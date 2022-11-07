@@ -3,7 +3,7 @@
 ## Name
 
 ## Overview
-- An open standard file format and data interchange format that uses human-readable text to store and transmit data objects consisting of attribute–value pairs and arrays (or other serializable values).
+- An open standard file format and data interchange format that uses human-readable text to store and transmit data objects consisting of name–value pairs and arrays (or other serializable values).
 - Example:
   ```json
   {
