@@ -788,7 +788,7 @@
 - **PIN**
    - Personal Identification Number
 - **PK**
-   - Primary Key
+   - [Primary Key](dictionary/P/PK-Primary_Key.md)
 - **PKI**
    - Public Key Infrastructure
 - **PM**
@@ -1229,7 +1229,7 @@
    - [**RDBMS**: Relational Database Management System](dictionary/R/RDBMS-Relational_Database_Management_System.md)
 - [**ACID**: Atomicity, Consistency, Isolation, and Durability](dictionary/A/ACID-Atomicity_Consistency_Isolation_Durability.md)
 - [**BASE**: Basically Available, Soft state, Eventually consistent](dictionary/B/BASE-Basically_Available_Soft_State_Eventually_Consistent.md)
-- **PK**: Primary Key
+- [**PK**: Primary Key](dictionary/P/PK-Primary_Key.md)
 - **FK**: Foreign Key
 - **BLOB**: Binary Large OBject
 - **CLOB**: Character Large OBject
