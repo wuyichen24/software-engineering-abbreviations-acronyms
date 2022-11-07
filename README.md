@@ -351,7 +351,7 @@
 - **DVCS**
    - Distributed Version Control System
 - **DW**
-   - Data Warehouse
+   - [Data Warehouse](dictionary/D/DW-Data_Warehouse.md)
 - **DWH**
    - Data WareHouse (Same with DW)
 - **DWIM**
@@ -1244,7 +1244,7 @@
 - **ODBC**: Open Database Connectivity
 
 ### Data engineering
-- **DW**: Data Warehouse
+- [**DW**: Data Warehouse](dictionary/D/DW-Data_Warehouse.md)
 - **DWH**: Data WareHouse (Same with DW)
 - **EWD**: Enterprise Data Warehouse (Same with DW)
 - [**ETL**: Extract, Transform, and Load](dictionary/E/ETL-Extract_Transform_Load.md)
