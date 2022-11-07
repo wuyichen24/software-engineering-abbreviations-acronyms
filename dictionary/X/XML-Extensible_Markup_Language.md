@@ -7,7 +7,7 @@
 - Example:
   ```xml
   <message>
-    <text>Hello, world!</text>
+    <text category = "sentence">Hello, world!</text>
   </message>
   ```
 
