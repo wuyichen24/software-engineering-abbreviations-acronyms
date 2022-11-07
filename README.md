@@ -148,7 +148,7 @@
 - **BI**
    - Business Intelligence
 - **BLOB / blob**
-   - Binary Large OBject
+   - [Binary Large OBject](dictionary/B/BLOB-Binary_Large_Object.md)
 - **bps**
    - bits per second
 - **Bps**
@@ -212,7 +212,7 @@
 - **CL**
    - [Change List / ChangeList](dictionary/C/CL-ChangeList.md)
 - **CLOB / clob**
-   - Character Large OBject
+   - [Character Large OBject](dictionary/C/CLOB-Character_Large_Object.md)
 - **CLI**
    - [Command-Line Interface](dictionary/C/CLI-Command_Line_Interface.md)
 - **CLT**
@@ -1231,8 +1231,8 @@
 - [**BASE**: Basically Available, Soft state, Eventually consistent](dictionary/B/BASE-Basically_Available_Soft_State_Eventually_Consistent.md)
 - [**PK**: Primary Key](dictionary/P/PK-Primary_Key.md)
 - [**FK**: Foreign Key](dictionary/F/FK-Foreign_Key.md)
-- **BLOB**: Binary Large OBject
-- **CLOB**: Character Large OBject
+- [**BLOB**: Binary Large OBject](dictionary/B/BLOB-Binary_Large_Object.md)
+- [**CLOB**: Character Large OBject](dictionary/C/CLOB-Character_Large_Object.md)
 - **CAP theorem**: Consistency, Availability and Partition tolerance
 - [**CRUD**: Create, Read, Update and Delete](dictionary/C/CRUD-Create_Read_Update_Delete.md)
 - [**SQL**: Structured Query Language](dictionary/S/SQL-Structured_Query_Language.md)
