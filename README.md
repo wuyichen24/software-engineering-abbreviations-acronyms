@@ -1072,6 +1072,8 @@
    - Validation Authority
 - **VDD**
    - Value-Driven Design
+- **VDM**
+   - Virtual Database Manager
 - **VLAN**
    - Virtual LAN (Local Area Network)
 - **VPN**
@@ -1242,6 +1244,7 @@
 - **WAL**: Write-Ahead Logging (PostgreSQL)
 - **JDBC**: Java Database Connectivity
 - **ODBC**: Open Database Connectivity
+- **VDM**: Virtual Database Manager
 
 ### Data engineering
 - [**DW**: Data Warehouse](dictionary/D/DW-Data_Warehouse.md)
