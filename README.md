@@ -156,7 +156,7 @@
 - **BRB**
    - Be Right Back
 - **BSON**
-   - Binary JSON
+   - [Binary JSON](dictionary/B/BSON-Binary_JSON.md)
 - **BTW**
    - By The Way
 - **B2B**
@@ -1256,7 +1256,7 @@
 ### Data interchange format
 - [**XML**: Extensible Markup Language](dictionary/X/XML-Extensible_Markup_Language.md)
 - [**JSON**: JavaScript Object Notation](dictionary/J/JSON-JavaScript_Object_Notation.md)
-- **BSON**: Binary JSON (JavaScript Object Notation)
+- [**BSON**: Binary JSON (JavaScript Object Notation)](dictionary/B/BSON-Binary_JSON.md)
 - **CSV**: Comma-Separated Values
 - **TSV**: Tab-Separated Values
 - **DSV**: Delimiter-Separated Values
