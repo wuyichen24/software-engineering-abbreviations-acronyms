@@ -16,7 +16,6 @@
    - [Database](#database)
    - [Data engineering](data-engineering)
    - [Data interchange format](#data-interchange-format)
-   - [Data-related language](#data-related-language)
    - [Incident metrics](#incident-metrics)
    - [Risk management](#risk-management)
    - [Service level terminologies](#service-level-terminologies)
@@ -1262,12 +1261,6 @@
 - **TSV**: Tab-Separated Values
 - **DSV**: Delimiter-Separated Values
 - **Protobuf**: Protocol buffers
-
-### Data-related language
-- **DDL**: Data Definition Language
-- **DQL**: Database Query Language
-- **DML**: Data Manipulation Language
-- **DCL**: Data Control Language
 
 ### Incident metrics
 - **MTBF**: Mean Time Before Failure
