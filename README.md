@@ -584,7 +584,7 @@
 - **JRE**
    - Java Runtime Environment
 - **JSON**
-   - JavaScript Object Notation
+   - [JavaScript Object Notation](dictionary/J/JSON-JavaScript_Object_Notation.md)
 - **JVM**
    - Java Virtual Machine
 
@@ -1255,7 +1255,7 @@
 
 ### Data interchange format
 - [**XML**: Extensible Markup Language](dictionary/X/XML-Extensible_Markup_Language.md)
-- **JSON**: JavaScript Object Notation
+- [**JSON**: JavaScript Object Notation](dictionary/J/JSON-JavaScript_Object_Notation.md)
 - **BSON**: Binary JSON (JavaScript Object Notation)
 - **CSV**: Comma-Separated Values
 - **TSV**: Tab-Separated Values
