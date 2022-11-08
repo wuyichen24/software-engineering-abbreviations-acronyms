@@ -720,7 +720,7 @@
 - **OAuth**
    - Open Authorization
 - **OCC**
-   - Optimistic Concurrency Control (Optimistic locking)
+   - [Optimistic Concurrency Control (Optimistic locking)](dictionary/O/OCC-Optimistic_Concurrency_Control.md)
 - **OCO**
    - Optimistic Commitment Ordering
 - **ODBC**
@@ -785,7 +785,7 @@
 - **PC**
    - Personal Computer
 - **PCC**
-   - Pessimistic Concurrency Control (Pessimistic locking)
+   - [Pessimistic Concurrency Control (Pessimistic locking)](dictionary/P/PCC-Pessimistic_Concurrency_Control.md)
 - **PCI**
    - Payment Card Industry
 - **PCI-DSS**
@@ -1394,8 +1394,8 @@
 
 ### Concurrency control
 - **Categories**
-   - **OCC**: Optimistic Concurrency Control (Optimistic locking)
-   - **PCC**: Pessimistic Concurrency Control (Pessimistic locking)
+   - [**OCC**: Optimistic Concurrency Control (Optimistic locking)](dictionary/O/OCC-Optimistic_Concurrency_Control.md)
+   - [**PCC**: Pessimistic Concurrency Control (Pessimistic locking)](dictionary/P/PCC-Pessimistic_Concurrency_Control.md)
 - **Methods**
    - [**2PL**: 2-Phase Locking](dictionary/2/2PL-Two_Phase_Locking.md)
    - **S2PL**: Strict 2-Phase Locking
