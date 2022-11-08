@@ -1,5 +1,5 @@
 # SLA vs. SLO vs. SLI
-Service level agreement vs. Service level objective vs. Service level indicator
+Service Level Agreement vs. Service Level Objective vs. Service Level Indicator
 
 ## Same
 
