@@ -1,5 +1,5 @@
 # TDD vs. ATDD
-Test-driven development vs. Acceptance test-driven development
+Test-Driven Development vs. Acceptance Test-Driven Development
 
 ## Same
 
