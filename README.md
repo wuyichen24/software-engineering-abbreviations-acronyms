@@ -409,7 +409,7 @@
 - **ERD**
    - Entity-Relationship Diagram
 - **ERP**
-   - Enterprise Resource Planning
+   - [Enterprise Resource Planning](dictionary/E/ERP-Enterprise_Resource_Planning.md)
 - **ES**
    - [Event Sourcing](dictionary/E/ES-Event_Sourcing.md)
 - **ESB**
