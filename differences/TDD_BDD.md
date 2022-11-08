@@ -1,5 +1,5 @@
 # TDD vs. BDD
-Test-driven development vs. Behavior-driven development
+Test-Driven Development vs. Behavior-Driven Development
 
 ## Same
 - BDD is an extension of TDD.
