@@ -1027,7 +1027,7 @@
 - **TO**
    - Timestamp Ordering
 - **TOTP**
-   - Time-based One-Time Password
+   - [Time-based One-Time Password](dictionary/T/TOTP-Time_Based_One_Time_Password.md)
 - **TPA**
    - Third-Party Authenticator
 - **TPS**
