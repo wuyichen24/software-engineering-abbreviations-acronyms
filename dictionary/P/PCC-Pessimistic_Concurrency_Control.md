@@ -4,6 +4,7 @@
 
 ## Overview
 - A collection of concurrency control methods based on assumption that multiple transactions can conflict with each other frequently.
+- Use locks to prevent race condition.
 - It is the opposite of OCC.
 
 ## Description
