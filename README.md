@@ -1141,7 +1141,7 @@
 - **2PC**
    - [Two-Phase Commit](dictionary/2/2PC-Two_Phase_Commit.md)
 - **2PL**
-   - Two-Phase Locking
+   - [Two-Phase Locking](dictionary/2/2PL-Two_Phase_Locking.md)
 
 ### 3
 - **3PC**
@@ -1397,7 +1397,7 @@
    - **OCC**: Optimistic Concurrency Control (Optimistic locking)
    - **PCC**: Pessimistic Concurrency Control (Pessimistic locking)
 - **Methods**
-   - **2PL**: 2-Phase Locking
+   - [**2PL**: 2-Phase Locking](dictionary/2/2PL-Two_Phase_Locking.md)
    - **S2PL**: Strict 2-Phase Locking
    - **SS2PL**: Strong Strict 2-Phase Locking
    - **TO**: Timestamp Ordering
