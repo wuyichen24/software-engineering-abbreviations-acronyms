@@ -40,6 +40,7 @@
    - [Software life cycles](#software-life-cycles)
    - [Java](#java)
    - [File system](#file-system)
+   - [Page replacement algorithms](#page-replacement-algorithms)
    - [Organizations](#organizations)
    - [Data-size units](#data-size-units)
    - [Data-rate units](#data-rate-units)
