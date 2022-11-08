@@ -19,3 +19,5 @@
 - [Optimistic concurrency control](https://en.wikipedia.org/wiki/Optimistic_concurrency_control)
 
 ## References
+- [GeeksforGeeks | Difference Between Pessimistic Approach and Optimistic Approach in DBMS](https://www.geeksforgeeks.org/difference-between-pessimistic-approach-and-optimistic-approach-in-dbms/)
+- [.cult | Optimistic vs Pessimistic Concurrency: What Every Developer Should Know](https://cult.honeypot.io/reads/optimistic-vs-pessimistic-concurrency/)
