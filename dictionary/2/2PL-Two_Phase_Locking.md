@@ -20,6 +20,13 @@
    - Write-lock blocks both other read-locks and other write-locks:
       - If transaction A has written an object and transaction B wants to read that object, B must wait until A commits or aborts before it can continue.
       - If transaction A has written an object and transaction B wants to write that object, B must wait until A commits or aborts before it can continue.
+- **Pros and cons**
+   - Pros
+      - Protects against all the race conditions.
+   - Cons
+      - May cause deadlock between transactions.
+      - Transaction throughput and response times of queries are worse under two-phase locking than under weak isolation.
+
 
 ## See also
 
