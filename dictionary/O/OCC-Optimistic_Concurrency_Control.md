@@ -13,6 +13,9 @@
    - **Validate**: Check whether other transactions have modified data that this transaction has used (read or written). This includes transactions that completed after this transaction's start time, and optionally, transactions that are still active at validation time.
    - **Commit/Rollback**: If there is no conflict, make all changes take effect. If there is a conflict, resolve it, typically by aborting the transaction
 
+## Same and differences
+- [OCC vs. PCC](../../differences/OCC_PCC.md)
+
 ## See also
 
 ## Wiki
