@@ -1019,6 +1019,8 @@
    - Technological Protection Measure
 - **TO**
    - Timestamp Ordering
+- **TOTP**
+   - Time-based One-Time Password
 - **TPA**
    - Third-Party Authenticator
 - **TPS**
