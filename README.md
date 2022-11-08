@@ -303,6 +303,8 @@
    - Dynamic Host Configuration Protocol
 - **DHT**
    - Distributed Hash Table
+- **DLM**
+   - Distributed Lock Manager
 - **DM**
    - Direct Message
    - Dimensional Modeling
