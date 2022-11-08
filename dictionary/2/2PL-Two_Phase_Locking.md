@@ -34,4 +34,4 @@
 - [Two-phase locking](https://en.wikipedia.org/wiki/Two-phase_locking)
 
 ## References
-- Book: Designing Data-Intensive Applications - Chapter 7 Transactions
+- [Book: Designing Data-Intensive Applications - Chapter 7: Transactions](https://docs.google.com/document/d/1Tdf0UQRKcqGrslOfsdmzUhpslkbSvi4BTwYcojH2G8A/edit?usp=sharing)
