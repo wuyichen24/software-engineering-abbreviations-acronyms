@@ -611,6 +611,8 @@
    - Linux, Yaws, CouchDB, Erlang (tech stack)
 - **LDAP**
    - Lightweight Directory Access Protocol
+- **LDF**
+   - Longest Distance First
 - **LEDES**
    - Legal Electronic Data Exchange Standard
 - **LeSS**
@@ -623,6 +625,8 @@
    - Let Me Know
 - **LMS**
    - [Learning Management System](dictionary/L/LMS-Learning_Management_System.md)
+- **LRU**
+   - Least Recently Used
 - **LYME**
    - Linux, Yaws, Mnesia, Erlang (tech stack)
 
@@ -698,6 +702,8 @@
    - [Network as a Service](dictionary/N/NaaS-Network_As_A_Service.md)
 - **NACK**
    - Negative-Acknowledgement
+- **NFU**
+   - Not Frequently Used
 - **NIS**
    - Network Information Service
 - **NIT / nit**
@@ -1508,6 +1514,12 @@
 - **HDFS**: Hadoop Distributed File System
 - **NTFS**: New Technology File System
 - **FAT**:  File Allocation Table
+
+### Page replacement algorithms
+- **LRU**: Least Recently Used
+- **NFU**: Not Frequently Used
+- **LDF**: Longest Distance First
+- **FIFO**: First In, First Out
 
 ### Organizations
 - **ISO**: International Organization for Standardization
