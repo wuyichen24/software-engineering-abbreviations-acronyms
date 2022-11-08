@@ -6,5 +6,7 @@ Optimistic Concurrency Control vs. Pessimistic Concurrency Control
 ## Differences
 | | OCC | PCC |
 |----|----|----|
-| Locking-based (Need to acquire locks) | No | Yes |
-| When to use | System with less data conflicts | System with more data conflicts |
+| Locking-based (Need to acquire locks for modifying data) | No | Yes |
+| Degree of concurrency | High | Low |
+| Complexity of designing and programming | Complex | Simple |
+| When to use | Where there are more transaction conflicts. | Where there are fewer transaction conflicts or very rare. |
