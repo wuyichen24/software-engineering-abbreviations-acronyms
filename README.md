@@ -758,9 +758,9 @@
    - Open-Source Software
    - Object Storage Service (Alibaba Cloud)
 - **OTAC**
-   - One-Time Authorization Code
+   - One-Time Authorization Code (Same with OTP)
 - **OTP**
-   - One-Time Password
+   - [One-Time Password](dictionary/O/OTP-One_Time_Password.md)
 
 ### P
 - **PaaS**
