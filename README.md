@@ -1027,7 +1027,7 @@
    - Technical Program Manager
    - Technological Protection Measure
 - **TO**
-   - Timestamp Ordering
+   - [Timestamp Ordering](dictionary/T/TO-Timestamp_Ordering.md)
 - **TOTP**
    - [Time-based One-Time Password](dictionary/T/TOTP-Time_Based_One_Time_Password.md)
 - **TPA**
@@ -1402,7 +1402,7 @@
    - [**2PL**: 2-Phase Locking](dictionary/2/2PL-Two_Phase_Locking.md)
    - **S2PL**: Strict 2-Phase Locking
    - **SS2PL**: Strong Strict 2-Phase Locking
-   - **TO**: Timestamp Ordering
+   - [**TO**: Timestamp Ordering](dictionary/T/TO-Timestamp_Ordering.md)
    - **CO**: Commitment Ordering
    - **SCO**: Strict Commitment Ordering
    - **OCO**: Optimistic Commitment Ordering
