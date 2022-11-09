@@ -1003,6 +1003,8 @@
    - To Be Announced
 - **TBps**
    - Terabyte per second
+- **TC**
+   - Technical Candidate
 - **TCC**
    - Try-Confirm/Cancel
 - **TCP**
@@ -1589,6 +1591,7 @@
 - **TL**: Tech Lead
 - **TLM**: Tech Lead Manager
 - **TPM**: Technical Program Manager
+- **TC**: Technical Candidate
 
 ### Workspace
 - **EOD**
