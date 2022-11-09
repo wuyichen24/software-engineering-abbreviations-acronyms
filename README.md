@@ -392,6 +392,8 @@
    - Elasticsearch, Logstash, and Kibana (tech stack)
 - **ELT**
    - [Extract, Load, and Transform](dictionary/E/ELT-Extract_Load_Transform.md)
+- **EM**
+   - Engineering Manager
 - **EMV**
    - Europay, Mastercard and Visa
 - **EOD**
@@ -1592,6 +1594,7 @@
 - **TLM**: Tech Lead Manager
 - **TPM**: Technical Program Manager
 - **TC**: Technical Candidate
+- **EM**: Engineering Manager
 
 ### Workspace
 - **EOD**
