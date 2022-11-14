@@ -588,6 +588,8 @@
    - Java Message Service
 - **JRE**
    - Java Runtime Environment
+- **JS**
+   - JavaScript
 - **JSON**
    - [JavaScript Object Notation](dictionary/J/JSON-JavaScript_Object_Notation.md)
 - **JVM**
@@ -995,6 +997,8 @@
    - System Under Test
 - **SVOT**
    - [Single Version Of Truth](dictionary/S/SVOT-Single_Version_Of_Truth.md)
+- **SWE**
+   - SoftWare Engineer
 - **S2PL**
    - Strict 2-Phase Locking
 
@@ -1015,6 +1019,8 @@
    - [Test-Driven Development](dictionary/T/TDD-Test_Driven_Development.md)
 - **TDS**
    - Transaction Data Store
+- **TE**
+   - Test Engineer
 - **TL**
    - Tech Lead
 - **TLM**
@@ -1595,6 +1601,8 @@
 - **TPM**: Technical Program Manager
 - **TC**: Technical Candidate
 - **EM**: Engineering Manager
+- **SWE**: SoftWare Engineer
+- **TE**: Test Engineer
 
 ### Workspace
 - **EOD**
