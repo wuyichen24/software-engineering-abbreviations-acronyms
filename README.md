@@ -305,6 +305,8 @@
    - Distributed Hash Table
 - **DLM**
    - Distributed Lock Manager
+- **DLQ**
+   - Dead Letter Queue
 - **DM**
    - Direct Message
    - Dimensional Modeling
