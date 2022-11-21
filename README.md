@@ -697,6 +697,8 @@
    - Multi-Version Concurrency Control
 - **MVCO**
    - Multi-Version Commitment Ordering
+- **MVD**
+   - Minimum Viable Documentation
 - **MVNO**
    - Mobile Virtual Network Operator
 - **MVP**
@@ -1009,6 +1011,8 @@
    - Terabyte
 - **TBA**
    - To Be Announced
+- **TBH**
+   - To Be Honest
 - **TBps**
    - Terabyte per second
 - **TC**
@@ -1040,6 +1044,8 @@
    - Technological Protection Measure
 - **TO**
    - [Timestamp Ordering](dictionary/T/TO-Timestamp_Ordering.md)
+- **TOC**
+   - Table Of Contents
 - **TOTP**
    - [Time-based One-Time Password](dictionary/T/TOTP-Time_Based_One_Time_Password.md)
 - **TPA**
@@ -1638,6 +1644,7 @@
 - **LMK**: Let Me Know
 - **NIT**: nit-pick / nitpicking / Nitpick
 - **TBA**: To Be Announced
+- **TBH**: To Be Honest
 - **WIP**: Work In Progress
 - **e.g.**: for example
 - **i.e.**: in other words
