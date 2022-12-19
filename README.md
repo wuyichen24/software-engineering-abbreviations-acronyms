@@ -272,7 +272,7 @@
    - Data as a Service
    - Desktop as a Service
 - **DAD**
-   - Disciplined Agile Delivery
+   - [Disciplined Agile Delivery](dictionary/D/DAD-Disciplined_Agile_Delivery.md)
 - **DAL**
    - [Data Access Layer](dictionary/D/DAL-Data_Access_Layer.md)
 - **DAO**
@@ -282,11 +282,11 @@
 - **DBA**
    - [Database Administrator](dictionary/D/DBA-Database_Administrator.md)
 - **DBaaS**
-   - Database as a Service
+   - [Database as a Service](dictionary/D/DBaaS-Database_As_A_Service.md)
 - **DBMS**
    - [Database Management System](dictionary/D/DBMS-Database_Management_System.md)
 - **DC**
-   - Data Center
+   - [Data Center](dictionary/D/DC-Data_Center.md)
 - **DCI**
    - Data Center Interconnect
 - **DCL**
