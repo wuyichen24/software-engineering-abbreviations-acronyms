@@ -273,6 +273,8 @@
    - Desktop as a Service
 - **DAD**
    - Disciplined Agile Delivery
+- **DAO**
+   - Data Access Object 
 - **DB**
    - [Database](dictionary/D/DB-Database.md)
 - **DBA**
