@@ -276,7 +276,7 @@
 - **DAL**
    - Data Access Layer
 - **DAO**
-   - Data Access Object 
+   - [Data Access Object](dictionary/D/DAO-Data_Access_Object.md)
 - **DB**
    - [Database](dictionary/D/DB-Database.md)
 - **DBA**
