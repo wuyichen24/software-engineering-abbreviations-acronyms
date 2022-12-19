@@ -273,6 +273,8 @@
    - Desktop as a Service
 - **DAD**
    - Disciplined Agile Delivery
+- **DAL**
+   - Data Access Layer
 - **DAO**
    - Data Access Object 
 - **DB**
@@ -938,6 +940,8 @@
    - Software-Defined Networking
 - **SD-WAN**
    - Software-Defined WAN
+- **SDO**
+   - Service Data Object
 - **SDP**
    - Stable-Dependencies Principle
 - **SECaaS**
