@@ -274,7 +274,7 @@
 - **DAD**
    - Disciplined Agile Delivery
 - **DAL**
-   - Data Access Layer
+   - [Data Access Layer](dictionary/D/DAL-Data_Access_Layer.md)
 - **DAO**
    - [Data Access Object](dictionary/D/DAO-Data_Access_Object.md)
 - **DB**
