@@ -288,7 +288,7 @@
 - **DC**
    - [Data Center](dictionary/D/DC-Data_Center.md)
 - **DCI**
-   - Data Center Interconnect
+   - [Data Center Interconnect](dictionary/D/DCI-Data_Center_Interconnect.md)
 - **DCL**
    - [Data Control Language](dictionary/D/DCL-Data_Control_Language.md)
 - **DCO**
