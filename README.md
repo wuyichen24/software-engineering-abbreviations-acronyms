@@ -498,7 +498,7 @@
 
 ### H
 - **HAN**
-   - Home Area Network
+   - [Home Area Network](dictionary/H/HAN-Home_Area_Network.md)
 - **HDD**
    - Hard Disk Drive
 - **HDFS**
@@ -1332,7 +1332,7 @@
 - **MAN**: Metropolitan Area Network
    - **MWN**: Municipal Wireless Network
 - **CAN**: Campus Area Network
-- **HAN**: Home Area Network
+- [**HAN**: Home Area Network](dictionary/H/HAN-Home_Area_Network.md)
 - [**LAN**: Local Area Network](dictionary/L/LAN-Local_Area_Network.md)
    - [**SAN**: Storage Area Network](dictionary/S/SAN-Storage_Area_Network.md)
    - [**WLAN**: Wireless LAN (Local Area Network)](dictionary/W/WLAN-Wireless_LAN.md)
