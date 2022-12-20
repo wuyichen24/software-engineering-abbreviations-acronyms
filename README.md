@@ -1159,7 +1159,7 @@
 - **ZB**
    - Zettabyte
 - **ZTN**
-   - Zero Trust Network
+   - [Zero Trust Network](dictionary/Z/ZTN-Zero_Trust_Network.md)
 
 ### 2
 - **2FA**
@@ -1341,7 +1341,7 @@
 - **BAN**: Body Area Network
    - **WBAN**: Wireless BAN (Body Area Network)
 - **VPN**: Virtual Private Network
-- **ZTN**: Zero Trust Network
+- [**ZTN**: Zero Trust Network](dictionary/Z/ZTN-Zero_Trust_Network.md)
 
 ### OSI model
 - **Layer 7: Application layer**
