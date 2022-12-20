@@ -129,7 +129,7 @@
 - **b**
    - bit
 - **BAN**
-   - Body Area Network
+   - [Body Area Network](dictionary/B/BAN-Body_Area_Network.md)
 - **BASE**
    - [Basically Available, Soft state, Eventually consistent](dictionary/B/BASE-Basically_Available_Soft_State_Eventually_Consistent.md)
 - **BC**
@@ -1123,7 +1123,7 @@
 - **WAN**
    - Wide Area Network
 - **WBAN**
-   - Wireless BAN (Body Area Network)
+   - Wireless BAN (Same with BAN)
 - **WCM**
    - Web Content Management
 - **WFH**
@@ -1338,8 +1338,8 @@
    - **WLAN**: Wireless LAN (Local Area Network)
    - **VLAN**: Virtual LAN (Local Area Network)
 - **PAN**: Personal Area Network
-- **BAN**: Body Area Network
-   - **WBAN**: Wireless BAN (Body Area Network)
+- [**BAN**: Body Area Network](dictionary/B/BAN-Body_Area_Network.md)
+   - **WBAN**: Wireless BAN (Same with BAN)
 - [**VPN**: Virtual Private Network](dictionary/V/VPN-Virtual_Private_Network.md)
 - [**ZTN**: Zero Trust Network](dictionary/Z/ZTN-Zero_Trust_Network.md)
 
