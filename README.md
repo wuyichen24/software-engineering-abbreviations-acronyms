@@ -327,17 +327,17 @@
 - **DOCTYPE**
    - DOCument TYPE declaration
 - **DOM**
-   - Document Object Model
+   - [Document Object Model](dictionary/D/DOM-Document_Object_Model.md)
 - **DORA**
    - DevOps Research and Assessment
 - **DQL**
    - [Data Query Language](dictionary/D/DQL-Database_Query_Language.md)
 - **DR**
-   - Disaster Recovery
+   - [Disaster Recovery](dictionary/D/DR-Disaster_Recovery.md)
 - **DRM**
    - Digital Rights Management
 - **DRP**
-   - Disaster Recovery Plan
+   - [Disaster Recovery Plan](dictionary/D/DRP-Disaster_Recovery_Plan.md)
 - **DRY**
    - [Don't Repeat Yourself (principle)](dictionary/D/DRY-Dont_Repeat_Yourself.md)
 - **DSDL**
