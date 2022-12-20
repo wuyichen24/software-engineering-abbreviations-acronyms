@@ -617,7 +617,7 @@
 - **LAMP**
    - Linux, Apache, MySQL, PHP/Perl/Python (tech stack)
 - **LAN**
-   - Local Area Network
+   - [Local Area Network](dictionary/L/LAN-Local_Area_Network.md)
 - **LB**
    - [Load Balancer](dictionary/L/LB-Load_Balancer.md)
 - **LCME**
@@ -1333,7 +1333,7 @@
    - **MWN**: Municipal Wireless Network
 - **CAN**: Campus Area Network
 - **HAN**: Home Area Network
-- **LAN**: Local Area Network
+- [**LAN**: Local Area Network](dictionary/L/LAN-Local_Area_Network.md)
    - **SAN**: Storage Area Network
    - **WLAN**: Wireless LAN (Local Area Network)
    - **VLAN**: Virtual LAN (Local Area Network)
