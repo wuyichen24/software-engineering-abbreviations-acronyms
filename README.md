@@ -789,7 +789,7 @@
 - **PAC**
    - Presentation–Abstraction–Control
 - **PAN**
-   - Personal Area Network
+   - [Personal Area Network](dictionary/P/PAN-Personal_Area_Network.md)
 - **PAT**
    - Personal Access Token
 - **PB**
@@ -1337,7 +1337,7 @@
    - **SAN**: Storage Area Network
    - **WLAN**: Wireless LAN (Local Area Network)
    - **VLAN**: Virtual LAN (Local Area Network)
-- **PAN**: Personal Area Network
+- [**PAN**: Personal Area Network](dictionary/P/PAN-Personal_Area_Network.md)
 - [**BAN**: Body Area Network](dictionary/B/BAN-Body_Area_Network.md)
    - **WBAN**: Wireless BAN (Same with BAN)
 - [**VPN**: Virtual Private Network](dictionary/V/VPN-Virtual_Private_Network.md)
