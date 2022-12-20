@@ -1131,7 +1131,7 @@
 - **WIP**
    - Work In Progress
 - **WLAN**
-   - Wireless LAN (Local Area Network)
+   - [Wireless LAN (Local Area Network)](dictionary/W/WLAN-Wireless_LAN.md)
 - **WS**
    - Web Service
 - **WSDL**
@@ -1335,7 +1335,7 @@
 - **HAN**: Home Area Network
 - [**LAN**: Local Area Network](dictionary/L/LAN-Local_Area_Network.md)
    - [**SAN**: Storage Area Network](dictionary/S/SAN-Storage_Area_Network.md)
-   - **WLAN**: Wireless LAN (Local Area Network)
+   - [**WLAN**: Wireless LAN (Local Area Network)](dictionary/W/WLAN-Wireless_LAN.md)
    - **VLAN**: Virtual LAN (Local Area Network)
 - [**PAN**: Personal Area Network](dictionary/P/PAN-Personal_Area_Network.md)
 - [**BAN**: Body Area Network](dictionary/B/BAN-Body_Area_Network.md)
