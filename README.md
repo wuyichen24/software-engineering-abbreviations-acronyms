@@ -1111,7 +1111,7 @@
 - **VLAN**
    - Virtual LAN (Local Area Network)
 - **VPN**
-   - Virtual Private Network
+   - [Virtual Private Network](dictionary/V/VPN-Virtual_Private_Network.md)
 - **VS**
    - Visual Studio
 - **V&V**
@@ -1340,7 +1340,7 @@
 - **PAN**: Personal Area Network
 - **BAN**: Body Area Network
    - **WBAN**: Wireless BAN (Body Area Network)
-- **VPN**: Virtual Private Network
+- [**VPN**: Virtual Private Network](dictionary/V/VPN-Virtual_Private_Network.md)
 - [**ZTN**: Zero Trust Network](dictionary/Z/ZTN-Zero_Trust_Network.md)
 
 ### OSI model
