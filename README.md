@@ -1109,7 +1109,7 @@
 - **VDM**
    - Virtual Database Manager
 - **VLAN**
-   - Virtual LAN (Local Area Network)
+   - [Virtual LAN (Local Area Network)](dictionary/V/VLAN-Virtual_LAN.md)
 - **VPN**
    - [Virtual Private Network](dictionary/V/VPN-Virtual_Private_Network.md)
 - **VS**
@@ -1336,7 +1336,7 @@
 - [**LAN**: Local Area Network](dictionary/L/LAN-Local_Area_Network.md)
    - [**SAN**: Storage Area Network](dictionary/S/SAN-Storage_Area_Network.md)
    - [**WLAN**: Wireless LAN (Local Area Network)](dictionary/W/WLAN-Wireless_LAN.md)
-   - **VLAN**: Virtual LAN (Local Area Network)
+   - [**VLAN**: Virtual LAN (Local Area Network)](dictionary/V/VLAN-Virtual_LAN.md)
 - [**PAN**: Personal Area Network](dictionary/P/PAN-Personal_Area_Network.md)
 - [**BAN**: Body Area Network](dictionary/B/BAN-Body_Area_Network.md)
    - **WBAN**: Wireless BAN (Same with BAN)
