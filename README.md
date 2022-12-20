@@ -269,8 +269,8 @@
 
 ### D
 - **DaaS**
-   - Data as a Service
-   - Desktop as a Service
+   - [Data as a Service](dictionary/D/DaaS-Data_As_A_Service.md)
+   - [Desktop as a Service](dictionary/D/DaaS-Desktop_As_A_Service.md)
 - **DAD**
    - [Disciplined Agile Delivery](dictionary/D/DAD-Disciplined_Agile_Delivery.md)
 - **DAL**
@@ -355,7 +355,7 @@
 - **DTSTTCPW**
    - Do The Simplest Thing That Could Possibly Work (principle)
 - **DUT**
-   - Device Under Test
+   - [Device Under Test](dictionary/D/DUT-Device_Under_Test.md)
 - **DVCS**
    - Distributed Version Control System
 - **DW**
@@ -363,7 +363,7 @@
 - **DWH**
    - Data WareHouse (Same with DW)
 - **DWIM**
-   - Do What I Mean (principle)
+   - [Do What I Mean (principle)](dictionary/D/DWIM-Do_What_I_Mean.md)
 - **D3**
    - Design-Driven Development
 
