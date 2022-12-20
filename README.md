@@ -914,7 +914,7 @@
 - **SAML**
    - Security Assertion Markup Language
 - **SAN**
-   - Storage Area Network
+   - [Storage Area Network](dictionary/S/SAN-Storage_Area_Network.md)
 - **SAP**
    - Stable-Abstractions Principle
 - **SASE**
@@ -1334,7 +1334,7 @@
 - **CAN**: Campus Area Network
 - **HAN**: Home Area Network
 - [**LAN**: Local Area Network](dictionary/L/LAN-Local_Area_Network.md)
-   - **SAN**: Storage Area Network
+   - [**SAN**: Storage Area Network](dictionary/S/SAN-Storage_Area_Network.md)
    - **WLAN**: Wireless LAN (Local Area Network)
    - **VLAN**: Virtual LAN (Local Area Network)
 - [**PAN**: Personal Area Network](dictionary/P/PAN-Personal_Area_Network.md)
