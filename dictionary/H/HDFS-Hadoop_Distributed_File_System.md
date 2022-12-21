@@ -3,6 +3,7 @@
 ## Name
 
 ## Overview
+- A distributed file system that handles large data sets running on commodity hardware.
 
 ## Description
 
@@ -11,3 +12,4 @@
 ## Wiki
 
 ## References
+- [IBM | What is HDFS?](https://www.ibm.com/topics/hdfs)
