@@ -500,17 +500,17 @@
 - **HAN**
    - [Home Area Network](dictionary/H/HAN-Home_Area_Network.md)
 - **HDD**
-   - Hard Disk Drive
+   - [Hard Disk Drive](dictionary/H/HDD-Hard_Disk_Drive.md)
 - **HDFS**
-   - Hadoop Distributed File System
+   - [Hadoop Distributed File System](dictionary/H/HDFS-Hadoop_Distributed_File_System.md)
 - **Hex**
    - Hexadecimal
 - **HIPAA**
-   - Health Insurance Portability and Accountability Act
+   - [Health Insurance Portability and Accountability Act](dictionary/H/HIPAA-Health_Insurance_Portability_Accountability_Act.md)
 - **HMAC**
    - Hash-based Message Authentication Code
 - **HMVC**
-   - Hierarchical Model–View–Controller
+   - [Hierarchical Model–View–Controller](dictionary/H/HMVC-Hierarchical_Model_View_Controller.md)
 - **HOOD**
    - Hierarchic Object-Oriented Design
 - **HPC**
