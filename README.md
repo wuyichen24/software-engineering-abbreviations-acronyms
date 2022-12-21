@@ -1152,6 +1152,8 @@
    - [You Aren't Gonna Need It (principle)](dictionary/Y/YAGNI-You_Arent_Gonna_Need_It.md)
 - **YAML**
    - YAML Ain’t Markup Language (Recursive acronym)
+- **YARN**
+   - Yet Another Resource Negotiator
 - **YB**
    - Yottabyte
 
