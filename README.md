@@ -173,7 +173,7 @@
 - **CaaS**
    - Container as a Service
 - **CAN**
-   - Campus Area Network
+   - [Campus Area Network](dictionary/C/CAN-Campus_Area_Network.md)
 - **CAP theorem**
    - Consistency, Availability and Partition tolerance
 - **CASE**
@@ -1333,7 +1333,7 @@
 - **RAN**: Religious Area Network
 - **MAN**: Metropolitan Area Network
    - **MWN**: Municipal Wireless Network
-- **CAN**: Campus Area Network
+- [**CAN**: Campus Area Network](dictionary/C/CAN-Campus_Area_Network.md)
 - [**HAN**: Home Area Network](dictionary/H/HAN-Home_Area_Network.md)
 - [**LAN**: Local Area Network](dictionary/L/LAN-Local_Area_Network.md)
    - [**SAN**: Storage Area Network](dictionary/S/SAN-Storage_Area_Network.md)
