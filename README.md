@@ -1121,7 +1121,7 @@
 - **WAL**
    - Write-Ahead Logging (PostgreSQL)
 - **WAN**
-   - Wide Area Network
+   - [Wide Area Network](dictionary/W/WAN-Wide_Area_Network.md)
 - **WBAN**
    - Wireless BAN (Same with BAN)
 - **WCM**
@@ -1329,7 +1329,7 @@
 
 ### Network
 - **GAN**: Global Area Network
-- **WAN**: Wide Area Network
+- [**WAN**: Wide Area Network](dictionary/W/WAN-Wide_Area_Network.md)
 - **RAN**: Religious Area Network
 - **MAN**: Metropolitan Area Network
    - **MWN**: Municipal Wireless Network
