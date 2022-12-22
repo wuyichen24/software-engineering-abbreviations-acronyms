@@ -1089,7 +1089,7 @@
 - **URI**
    - Uniform Resource Identifier
 - **URL**
-   - Uniform Resource Locator
+   - [Uniform Resource Locator](dictionary/U/URL-Uniform_Resource_Locator.md)
 - **USD**
    - Unified Software Development
 - **UTC**
