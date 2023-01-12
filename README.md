@@ -68,7 +68,7 @@
    - [Architectural Decision](dictionary/A/AD-Architectural_Decision.md)
    - [Architectural Design](dictionary/A/AD-Architectural_Design.md)
 - **ADL**
-   - Architecture Decision Log
+   - [Architecture Decision Log](dictionary/A/ADL-Architecture_Decision_Log.md)
 - **ADP**
    - [Acyclic Dependencies Principle](dictionary/A/ADP-Acyclic_Dependencies_Principle.md)
 - **ADR**
