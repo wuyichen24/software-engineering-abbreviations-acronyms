@@ -717,6 +717,8 @@
    - [Network as a Service](dictionary/N/NaaS-Network_As_A_Service.md)
 - **NACK**
    - Negative-Acknowledgement
+- **NAK**
+   - Negative-Acknowledgement (Same with NACK)
 - **NFU**
    - Not Frequently Used
 - **NIS**
