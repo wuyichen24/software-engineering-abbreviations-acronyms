@@ -462,7 +462,7 @@
 - **FTE**
    - Full-Time Employee
 - **FTP**
-   - File Transfer Protocol
+   - [File Transfer Protocol](dictionary/F/FTP-File_Transfer_Protocol.md)
 - **FWIW**
    - For What It's Worth
 - **FYI**
@@ -1352,7 +1352,7 @@
    - [**AMQP**: Advanced Message Queuing Protocol](dictionary/A/AMQP-Advanced_Message_Queuing_Protocol.md)
    - [**DHCP**: Dynamic Host Configuration Protocol](dictionary/D/DHCP-Dynamic_Host_Configuration_Protocol.md)
    - [**DNS**: Domain Name System](dictionary/D/DNS-Domain_Name_System.md)
-   - **FTP**: File Transfer Protocol
+   - [**FTP**: File Transfer Protocol](dictionary/F/FTP-File_Transfer_Protocol.md)
    - **HTTP**: Hypertext Transfer Protocol
    - **HTTPS**: Hypertext Transfer Protocol Secure
    - **IMAP**: Internet Message Access Protocol
