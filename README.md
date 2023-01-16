@@ -304,7 +304,7 @@
 - **DFD**
    - Data Flow Diagram
 - **DHCP**
-   - Dynamic Host Configuration Protocol
+   - [Dynamic Host Configuration Protocol](dictionary/D/DHCP-Dynamic_Host_Configuration_Protocol.md)
 - **DHT**
    - Distributed Hash Table
 - **DLM**
@@ -1350,7 +1350,7 @@
 ### OSI model
 - **Layer 7: Application layer**
    - [**AMQP**: Advanced Message Queuing Protocol](dictionary/A/AMQP-Advanced_Message_Queuing_Protocol.md)
-   - **DHCP**: Dynamic Host Configuration Protocol
+   - [**DHCP**: Dynamic Host Configuration Protocol](dictionary/D/DHCP-Dynamic_Host_Configuration_Protocol.md)
    - [**DNS**: Domain Name System](dictionary/D/DNS-Domain_Name_System.md)
    - **FTP**: File Transfer Protocol
    - **HTTP**: Hypertext Transfer Protocol
