@@ -419,6 +419,7 @@
    - Entity Relationship
 - **ERD**
    - Entity-Relationship Diagram
+   - Engineering Requirements Document
 - **ERP**
    - [Enterprise Resource Planning](dictionary/E/ERP-Enterprise_Resource_Planning.md)
 - **ES**
