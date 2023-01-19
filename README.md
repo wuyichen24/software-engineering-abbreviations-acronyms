@@ -418,7 +418,7 @@
 - **ER**
    - Entity Relationship
 - **ERD**
-   - Entity-Relationship Diagram
+   - [Entity-Relationship Diagram](dictionary/E/ERD-Entity_Relationship_Diagram.md)
    - Engineering Requirements Document
 - **ERP**
    - [Enterprise Resource Planning](dictionary/E/ERP-Enterprise_Resource_Planning.md)
@@ -1397,7 +1397,7 @@
 - [**CFD**: Control-Flow Diagram](dictionary/C/CFD-Control_Flow_Diagram.md)
 - **CFD**: Cumulative Flow Diagram
 - **DFD**: Data Flow Diagram
-- **ERD**: Entity-relationship Diagram
+- [**ERD**: Entity-relationship Diagram](dictionary/E/ERD-Entity_Relationship_Diagram.md)
 - **SSD**: System Sequence Diagram
 
 ### Hardware
