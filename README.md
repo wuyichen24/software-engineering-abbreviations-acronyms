@@ -202,7 +202,7 @@
 - **CEP**
    - Complex Event Processing
 - **CFD**
-   - Control-Flow Diagram
+   - [Control-Flow Diagram](dictionary/C/CFD-Control_Flow_Diagram.md)
    - Cumulative Flow Diagram
 - **CFO**
    - Chief Financial Officer
@@ -1394,7 +1394,7 @@
 - **GCP**: Google Cloud Platform
 
 ### Diagram
-- **CFD**: Control-Flow Diagram
+- [**CFD**: Control-Flow Diagram](dictionary/C/CFD-Control_Flow_Diagram.md)
 - **CFD**: Cumulative Flow Diagram
 - **DFD**: Data Flow Diagram
 - **ERD**: Entity-relationship Diagram
