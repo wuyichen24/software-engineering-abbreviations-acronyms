@@ -995,7 +995,7 @@
    - Structured Systems Analysis and Design Method
 - **SSD**
    - Solid-State Drive
-   - System Sequence Diagram
+   - [System Sequence Diagram](dictionary/S/SSD-System_Sequence_Diagram.md)
 - **SSH**
    - Secure Shell (Protocol)
 - **SSL**
@@ -1398,7 +1398,7 @@
 - **CFD**: Cumulative Flow Diagram
 - **DFD**: Data Flow Diagram
 - [**ERD**: Entity-relationship Diagram](dictionary/E/ERD-Entity_Relationship_Diagram.md)
-- **SSD**: System Sequence Diagram
+- [**SSD**: System Sequence Diagram](dictionary/S/SSD-System_Sequence_Diagram.md)
 
 ### Hardware
 - **CPU**: Central Processing Unit
