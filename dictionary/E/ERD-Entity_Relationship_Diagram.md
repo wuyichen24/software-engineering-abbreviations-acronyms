@@ -3,6 +3,7 @@
 ## Name
 
 ## Overview
+- Diagram describes the entities and their relationship within a system.
 
 ## Description
 
