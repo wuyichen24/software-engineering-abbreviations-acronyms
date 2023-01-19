@@ -15,3 +15,4 @@
 - [Entity–relationship model](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
 
 ## References
+- [Lucidchart | What is an Entity Relationship Diagram (ERD)?](https://www.lucidchart.com/pages/er-diagrams)
