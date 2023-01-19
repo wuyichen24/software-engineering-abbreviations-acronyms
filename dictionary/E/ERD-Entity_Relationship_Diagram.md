@@ -8,6 +8,15 @@
 ![erd-school](https://user-images.githubusercontent.com/8989447/213362030-75b8500e-9e98-4c97-b6b6-4be9f5b6d760.svg)
 
 ## Description
+- Components
+   - Entity
+   - Relationship
+   - Attribute
+
+- Type of cardinality
+   - one-to-one (1:1)
+   - one-to-many (1:n)
+   - many-to-many (n:n)
 
 ## See also
 
