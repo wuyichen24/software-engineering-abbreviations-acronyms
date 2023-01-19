@@ -1,10 +1,11 @@
 # CFD: Control-Flow Diagram
 
 ## Name
+- Flowchart
 
 ## Overview
 - A diagram to describe the control flow of a process.
-- Common rules
+- Common rules:
    - Rectangle: Step or operation
    - Rhombus: Check condition and take a decision among 2 or more options.
    - Arrows: The sequence of these operations. 
