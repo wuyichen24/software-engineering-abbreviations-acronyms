@@ -80,6 +80,8 @@
    - As Far As I Can Tell
 - **AFAIK**
    - As Far As I Know
+- **AFK**
+   - Away From Keyboard
 - **AI**
    - Artificial Intelligence
 - **AIOps**
@@ -1638,6 +1640,7 @@
 ### English
 - **AFAICT**: As Far As I Can Tell
 - **AFAIK**: As Far As I Know
+- **AFK**: Away From Keyboard
 - **AKA**: As Known As
 - **ASAP**: As Soon As Possible
 - **BRB**: Be Right Back
