@@ -831,6 +831,8 @@
    - Proof of Value
 - **PR**
    - Pull Request (Same with CL)
+- **PRD**
+   - Product Requirements Document
 - **Protobuf**
    - Protocol Buffers
 - **PSP**
