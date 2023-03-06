@@ -534,6 +534,8 @@
 ### I
 - **IaaS**
    - [Infrastructure as a Service](dictionary/I/IaaS-Infrastructure_As_A_Service.md)
+- **IaC**
+   - Infrastructure as code
 - **IAM**
    - Identity and Access Management
 - **IC**
