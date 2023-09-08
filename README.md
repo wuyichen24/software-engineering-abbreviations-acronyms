@@ -1034,6 +1034,8 @@
    - Technical Candidate
 - **TCC**
    - Try-Confirm/Cancel
+- **TCO**
+   - Total Cost of Ownership
 - **TCP**
    - Transmission Control Protocol
 - **TDD**
