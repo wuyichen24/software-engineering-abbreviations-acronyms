@@ -98,6 +98,8 @@
    - [Advanced Message Queuing Protocol](dictionary/A/AMQP-Advanced_Message_Queuing_Protocol.md)
 - **AOF**
    - Append Only File
+- **AOP**
+   - Aspect-Oriented Programming
 - **aPaaS**
    - application Platform as a Service (Same with PaaS)
 - **API**
@@ -1508,6 +1510,7 @@
 - **OOP**: Object-Oriented Programming
 - **FP**: Functional Programming
 - **XP**: Extreme Programming
+- **AOP**: Aspect-Oriented Programming
 
 ### Software architecture paradigms
 - **EDA**: Event-Driven Architecture
