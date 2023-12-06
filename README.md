@@ -186,6 +186,8 @@
    - Component-Based Development (Same with CBSE)
 - **CBSE**
    - Component-Based Software Engineering
+- **CC**
+   - Carbon Copy
 - **CCP**
    - Common-Closure Principle
 - **CD**
@@ -242,6 +244,8 @@
    - Command and Query Responsibility Segregation
 - **CQS**
    - Command-Query Separation (principle)
+- **CR**
+   - Code Review
 - **CRM**
    - [Customer Relationship Management](dictionary/C/CRM-Customer_Relationship_Management.md)
 - **CRP**
@@ -556,6 +560,8 @@
    - Internet Engineering Task Force
 - **IIRC**
    - If I Recall/Remember Correctly
+- **IIUC**
+   - If I Understand Correctly
 - **IM**
    - Instant Messaging
 - **IMAP**
@@ -563,7 +569,7 @@
 - **IMO**
    - In My Opinion
 - **IMHO**
-   - In My Honest Opinion
+   - In My Honest/Humble Opinion
 - **IoT**
    - Internet of Things
 - **IOW**
@@ -716,6 +722,7 @@
    - Mobile Virtual Network Operator
 - **MVP**
    - Model–View–Presenter
+   - Minimal Vaable Product
 - **MVVM**
    - Model–View–View Model
 - **MWN**
@@ -817,6 +824,8 @@
    - Payment Card Industry Data Security Standard
 - **PEP**
    - Python Enhancement Proposals
+- **PIC**
+   - Personal In Charge
 - **PIN**
    - Personal Identification Number
 - **PK**
@@ -833,6 +842,8 @@
    - Plain Old Java Object
 - **POLA**
    - Principle Of Least Astonishment
+- **POR**
+   - Plan Of Record
 - **POV / PoV**
    - Proof of Value
 - **PR**
@@ -845,6 +856,8 @@
    - [Payment Service Provider](dictionary/P/PSP-Payment_Service_Provider.md)
 - **PST**
    - Pacific Time Zone
+- **PTAL**
+   - Please Take A Look
 - **PTE**
    - Part-Time Employee
 - **PTO**
@@ -1030,8 +1043,12 @@
    - Terabyte
 - **TBA**
    - To Be Announced
+- **TBD**
+   - To Be Done/Decided/Determined
 - **TBH**
    - To Be Honest
+- **TBR**
+   - To Be Reviewed
 - **TBps**
    - Terabyte per second
 - **TC**
@@ -1067,6 +1084,8 @@
    - [Timestamp Ordering](dictionary/T/TO-Timestamp_Ordering.md)
 - **TOC**
    - Table Of Contents
+- **TOT**
+   - Top Of Tree (The newest code in the code base)
 - **TOTP**
    - [Time-based One-Time Password](dictionary/T/TOTP-Time_Based_One_Time_Password.md)
 - **TPA**
@@ -1662,14 +1681,18 @@
 - **FWIW**: For What It's Worth
 - **FYI**: For Your Information
 - **IIRC**: If I Recall/Remember Correctly
+- **IIUC**: If I Understand Correctly
 - **IMO**: In My Opinion
-- **IMHO**: In My Honest Opinion
+- **IMHO**: In My Honest/Humble Opinion
 - **IOW**: In Other Words
 - **LGTM**: Looks Good to Me
 - **LMK**: Let Me Know
 - **NIT**: nit-pick / nitpicking / Nitpick
+- **PTAL**: Please Take A Look
 - **TBA**: To Be Announced
+- **TBD**: To Be Done/Decided/Determined
 - **TBH**: To Be Honest
+- **TBR**: To Be Reviewed
 - **WIP**: Work In Progress
 - **e.g.**: for example
 - **i.e.**: in other words
