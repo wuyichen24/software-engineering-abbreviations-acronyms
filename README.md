@@ -685,6 +685,8 @@
    - Multi-Party Authorization
 - **MQ**
    - Message Queue
+- **MR**
+   - Merge Request
 - **MS**
    - Microsoft
 - **MTBF**
