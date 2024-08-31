@@ -876,6 +876,8 @@
    - Quarterly Business Review
 - **QC**
    - Quality Control
+- **QE**
+   - Quality Engineer
 - **QPS**
    - Queries Per Second
 - **QTR**
