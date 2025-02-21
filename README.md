@@ -100,6 +100,7 @@
    - Append Only File
 - **AOP**
    - Aspect-Oriented Programming
+   - Annual Operating Plan
 - **aPaaS**
    - application Platform as a Service (Same with PaaS)
 - **API**
