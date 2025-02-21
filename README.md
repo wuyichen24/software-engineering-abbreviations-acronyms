@@ -438,7 +438,7 @@
 - **ESP**
    - Event Stream Processing
 - **EST**
-   - Eastern Time Zone
+   - Eastern Standard Time
 - **ETA**
    - Estimated Time of Arrival
 - **ETL**
@@ -856,7 +856,7 @@
 - **PSP**
    - [Payment Service Provider](dictionary/P/PSP-Payment_Service_Provider.md)
 - **PST**
-   - Pacific Time Zone
+   - Pacific Standard Time
 - **PTAL**
    - Please Take A Look
 - **PTE**
@@ -1618,13 +1618,14 @@
 ### Timezone
 - **UTC**: Coordinated Universal Time
 - **GMT**: Greenwich Mean Time
-- **PST**: Pacific Time Zone
-- **EST**: Eastern Time Zone
+- **PST**: Pacific Standard Time
+- **EST**: Eastern Standard Time
 - **CST**: Central Standard Time
 - **CDT**: Central Daylight Time
 - **DST**: Daylight Saving Time
 
 ### Business
+- **AOP**: Annual Operating Plan
 - **BC**: Business Continuity
 - **BCP**: Business Continuity Planning
 - **B2B**: Business to Business
