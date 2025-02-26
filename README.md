@@ -1030,6 +1030,8 @@
    - Single Sign-On
 - **SSOT**
    - [Single Source Of Truth](dictionary/S/SSOT-Single_Source_Of_Truth.md)
+- **SSP**
+   - Solution Security Plan    
 - **SS2PL**
    - Strong Strict 2-Phase Locking
 - **SUT**
