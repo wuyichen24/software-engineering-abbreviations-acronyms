@@ -1513,6 +1513,11 @@
 - **SSADM**: Structured Systems Analysis and Design Method
 - **HOOD**: Hierarchic Object-Oriented Design
 
+### Software design levels
+- **HLD**: High-Level Design
+- **LLD**: Low-Level Design
+- **DD**: Detailed Design
+
 ### Software development principles
 - [**RERO**: Release Early, Release Often (principle)](dictionary/R/RERO-Release_Early_Release_Often.md)
 - [**GRASP**: General Responsibility Assignment Software Patterns](dictionary/G/GRASP-General_Responsibility_Assignment_Software_Patterns.md)
