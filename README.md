@@ -318,6 +318,8 @@
    - [Dynamic Host Configuration Protocol](dictionary/D/DHCP-Dynamic_Host_Configuration_Protocol.md)
 - **DHT**
    - Distributed Hash Table
+- **DLD**
+   - Detailed Level Design
 - **DLM**
    - Distributed Lock Manager
 - **DLQ**
@@ -1516,7 +1518,8 @@
 ### Software design levels
 - **HLD**: High-Level Design
 - **LLD**: Low-Level Design
-- **DD**: Detailed Design
+- **DLD**Detailed Level Design
+   - **DD**: Detailed Design
 
 ### Software development principles
 - [**RERO**: Release Early, Release Often (principle)](dictionary/R/RERO-Release_Early_Release_Often.md)
