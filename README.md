@@ -302,6 +302,8 @@
    - [Data Control Language](dictionary/D/DCL-Data_Control_Language.md)
 - **DCO**
    - Data Center Outsourcing
+- **DD**
+   - Detailed Design
 - **DDD**
    - [Domain-Driven Design](dictionary/D/DDD-Domain_Driven_Design.md)
 - **DDL**
@@ -517,6 +519,8 @@
    - Hexadecimal
 - **HIPAA**
    - [Health Insurance Portability and Accountability Act](dictionary/H/HIPAA-Health_Insurance_Portability_Accountability_Act.md)
+- **HLD**
+   - High-Level Design
 - **HMAC**
    - Hash-based Message Authentication Code
 - **HMVC**
@@ -648,6 +652,8 @@
    - Looks Good to Me
 - **LIFO**
    - Last In, First Out
+- **LLD**
+   - Low-Level Design
 - **LMK**
    - Let Me Know
 - **LMS**
@@ -1064,6 +1070,8 @@
    - Total Cost of Ownership
 - **TCP**
    - Transmission Control Protocol
+- **TD**
+   - Technical Documentation
 - **TDD**
    - [Test-Driven Development](dictionary/T/TDD-Test_Driven_Development.md)
 - **TDS**
