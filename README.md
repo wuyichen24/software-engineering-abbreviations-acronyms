@@ -1428,6 +1428,8 @@
 - **FACTA**: Fair and Accurate Credit Transactions Act
 - **HIPPA**: Health Insurance Portability and Accountability Act
 - **DMCA**: Digital Millennium Copyright Act
+- **SOX**: Sarbanes-Oxley Act
+- **PCI**: Payment Card Information
 
 ### Communication
 - **Synchronous**
