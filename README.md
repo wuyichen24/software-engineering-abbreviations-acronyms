@@ -296,6 +296,8 @@
    - [Database Management System](dictionary/D/DBMS-Database_Management_System.md)
 - **DC**
    - [Data Center](dictionary/D/DC-Data_Center.md)
+- **DCA**
+   - Data Classification Assessment
 - **DCI**
    - [Data Center Interconnect](dictionary/D/DCI-Data_Center_Interconnect.md)
 - **DCL**
@@ -428,6 +430,8 @@
    - End of Transmission
 - **EOW**
    - End of Week
+- **EPRA**
+   - Enterprise Privacy Risk Assessment
 - **ER**
    - Entity Relationship
 - **ERD**
