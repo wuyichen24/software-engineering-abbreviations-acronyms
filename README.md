@@ -837,6 +837,8 @@
    - Payment Card Industry Data Security Standard
 - **PEP**
    - Python Enhancement Proposals
+- **PHI**
+   - Personal Health Information
 - **PIC**
    - Personal In Charge
 - **PIN**
@@ -1017,6 +1019,8 @@
    - Single-responsibility principle, Open–closed principle, Liskov substitution principle, Interface segregation principle, Dependency inversion principle
 - **SOP**
    - Standard Operating Procedure
+- **SOX**
+   - Sarbanes-Oxley Act
 - **SPOF**
    - Single Point Of Failure
 - **SPOT**
